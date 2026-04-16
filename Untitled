@@ -1,2 +1,0 @@
-mkdir -p research/linkedin-posts research/youtube-transcripts research/other
-touch research/sources.md
