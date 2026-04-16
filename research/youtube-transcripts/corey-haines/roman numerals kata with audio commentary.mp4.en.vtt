@@ -1,0 +1,2872 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.880 --> 00:00:03.830 align:start position:0%
+ 
+Hi,<00:00:01.520><c> I'm</c><00:00:01.760><c> Corey</c><00:00:02.159><c> Haynes.</c><00:00:02.800><c> This</c><00:00:02.960><c> is</c><00:00:03.120><c> a</c><00:00:03.360><c> recorded</c>
+
+00:00:03.830 --> 00:00:03.840 align:start position:0%
+Hi, I'm Corey Haynes. This is a recorded
+ 
+
+00:00:03.840 --> 00:00:06.710 align:start position:0%
+Hi, I'm Corey Haynes. This is a recorded
+kata<00:00:04.240><c> cast</c><00:00:04.560><c> with</c><00:00:04.799><c> commentary</c><00:00:05.839><c> of</c><00:00:06.080><c> the</c><00:00:06.240><c> Roman</c>
+
+00:00:06.710 --> 00:00:06.720 align:start position:0%
+kata cast with commentary of the Roman
+ 
+
+00:00:06.720 --> 00:00:10.310 align:start position:0%
+kata cast with commentary of the Roman
+numerals<00:00:07.359><c> kotta.</c><00:00:08.800><c> The</c><00:00:09.120><c> task</c><00:00:09.440><c> here</c><00:00:09.840><c> is</c><00:00:10.080><c> to</c>
+
+00:00:10.310 --> 00:00:10.320 align:start position:0%
+numerals kotta. The task here is to
+ 
+
+00:00:10.320 --> 00:00:12.230 align:start position:0%
+numerals kotta. The task here is to
+write<00:00:10.480><c> a</c><00:00:10.719><c> routine</c><00:00:11.280><c> which</c><00:00:11.599><c> will</c><00:00:11.840><c> convert</c>
+
+00:00:12.230 --> 00:00:12.240 align:start position:0%
+write a routine which will convert
+ 
+
+00:00:12.240 --> 00:00:15.430 align:start position:0%
+write a routine which will convert
+Arabic<00:00:12.719><c> numbers</c><00:00:13.280><c> to</c><00:00:13.599><c> Roman</c><00:00:13.920><c> numerals.</c><00:00:15.040><c> Pretty</c>
+
+00:00:15.430 --> 00:00:15.440 align:start position:0%
+Arabic numbers to Roman numerals. Pretty
+ 
+
+00:00:15.440 --> 00:00:17.830 align:start position:0%
+Arabic numbers to Roman numerals. Pretty
+straightforward.<00:00:16.720><c> The</c><00:00:17.039><c> real</c><00:00:17.359><c> benefit</c><00:00:17.680><c> of</c>
+
+00:00:17.830 --> 00:00:17.840 align:start position:0%
+straightforward. The real benefit of
+ 
+
+00:00:17.840 --> 00:00:19.990 align:start position:0%
+straightforward. The real benefit of
+these<00:00:18.160><c> kata</c><00:00:18.640><c> is</c><00:00:18.880><c> not</c><00:00:19.039><c> when</c><00:00:19.279><c> you</c><00:00:19.439><c> solve</c><00:00:19.680><c> the</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+these kata is not when you solve the
+ 
+
+00:00:20.000 --> 00:00:22.630 align:start position:0%
+these kata is not when you solve the
+problem,<00:00:20.560><c> but</c><00:00:20.880><c> instead</c><00:00:21.520><c> in</c><00:00:21.840><c> the</c><00:00:22.080><c> way</c><00:00:22.320><c> you</c>
+
+00:00:22.630 --> 00:00:22.640 align:start position:0%
+problem, but instead in the way you
+ 
+
+00:00:22.640 --> 00:00:25.029 align:start position:0%
+problem, but instead in the way you
+solve<00:00:22.880><c> the</c><00:00:23.199><c> problem.</c><00:00:23.920><c> By</c><00:00:24.240><c> practicing</c><00:00:24.720><c> the</c>
+
+00:00:25.029 --> 00:00:25.039 align:start position:0%
+solve the problem. By practicing the
+ 
+
+00:00:25.039 --> 00:00:27.269 align:start position:0%
+solve the problem. By practicing the
+solution<00:00:25.439><c> many</c><00:00:25.840><c> times,</c><00:00:26.560><c> you</c><00:00:26.800><c> can</c><00:00:26.880><c> start</c><00:00:27.119><c> to</c>
+
+00:00:27.269 --> 00:00:27.279 align:start position:0%
+solution many times, you can start to
+ 
+
+00:00:27.279 --> 00:00:29.029 align:start position:0%
+solution many times, you can start to
+analyze<00:00:27.680><c> the</c><00:00:27.920><c> more</c><00:00:28.080><c> subtle</c><00:00:28.480><c> parts</c><00:00:28.720><c> of</c><00:00:28.880><c> your</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+analyze the more subtle parts of your
+ 
+
+00:00:29.039 --> 00:00:31.429 align:start position:0%
+analyze the more subtle parts of your
+practice,<00:00:29.840><c> looking</c><00:00:30.080><c> at</c><00:00:30.320><c> not</c><00:00:30.560><c> just</c><00:00:30.880><c> how</c><00:00:31.119><c> you</c><00:00:31.279><c> do</c>
+
+00:00:31.429 --> 00:00:31.439 align:start position:0%
+practice, looking at not just how you do
+ 
+
+00:00:31.439 --> 00:00:33.750 align:start position:0%
+practice, looking at not just how you do
+it,<00:00:31.760><c> but</c><00:00:32.000><c> the</c><00:00:32.239><c> why</c><00:00:32.559><c> behind</c><00:00:32.960><c> each</c><00:00:33.280><c> step</c><00:00:33.520><c> as</c>
+
+00:00:33.750 --> 00:00:33.760 align:start position:0%
+it, but the why behind each step as
+ 
+
+00:00:33.760 --> 00:00:36.470 align:start position:0%
+it, but the why behind each step as
+well.<00:00:35.040><c> In</c><00:00:35.280><c> this</c><00:00:35.520><c> screencast,</c><00:00:36.079><c> I'll</c><00:00:36.320><c> be</c>
+
+00:00:36.470 --> 00:00:36.480 align:start position:0%
+well. In this screencast, I'll be
+ 
+
+00:00:36.480 --> 00:00:38.150 align:start position:0%
+well. In this screencast, I'll be
+walking<00:00:36.719><c> you</c><00:00:36.960><c> through</c><00:00:37.200><c> my</c><00:00:37.440><c> solution,</c>
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+walking you through my solution,
+ 
+
+00:00:38.160 --> 00:00:40.630 align:start position:0%
+walking you through my solution,
+stopping<00:00:38.640><c> regularly</c><00:00:39.280><c> to</c><00:00:39.600><c> discuss</c><00:00:39.920><c> the</c><00:00:40.239><c> small</c>
+
+00:00:40.630 --> 00:00:40.640 align:start position:0%
+stopping regularly to discuss the small
+ 
+
+00:00:40.640 --> 00:00:43.350 align:start position:0%
+stopping regularly to discuss the small
+decisions<00:00:41.040><c> that</c><00:00:41.280><c> I</c><00:00:41.520><c> made</c><00:00:41.680><c> along</c><00:00:41.920><c> the</c><00:00:42.160><c> way.</c><00:00:43.120><c> It</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+decisions that I made along the way. It
+ 
+
+00:00:43.360 --> 00:00:45.270 align:start position:0%
+decisions that I made along the way. It
+very<00:00:43.600><c> well</c><00:00:43.840><c> could</c><00:00:44.079><c> seem</c><00:00:44.320><c> like</c><00:00:44.559><c> nitpicking</c><00:00:45.120><c> at</c>
+
+00:00:45.270 --> 00:00:45.280 align:start position:0%
+very well could seem like nitpicking at
+ 
+
+00:00:45.280 --> 00:00:47.830 align:start position:0%
+very well could seem like nitpicking at
+each<00:00:45.520><c> step,</c><00:00:45.680><c> and</c><00:00:45.920><c> in</c><00:00:46.079><c> a</c><00:00:46.239><c> way,</c><00:00:46.399><c> it</c><00:00:46.640><c> is.</c><00:00:47.360><c> But</c><00:00:47.600><c> by</c>
+
+00:00:47.830 --> 00:00:47.840 align:start position:0%
+each step, and in a way, it is. But by
+ 
+
+00:00:47.840 --> 00:00:49.670 align:start position:0%
+each step, and in a way, it is. But by
+practicing<00:00:48.320><c> the</c><00:00:48.559><c> very</c><00:00:48.960><c> small</c><00:00:49.280><c> thoughts</c>
+
+00:00:49.670 --> 00:00:49.680 align:start position:0%
+practicing the very small thoughts
+ 
+
+00:00:49.680 --> 00:00:52.069 align:start position:0%
+practicing the very small thoughts
+behind<00:00:50.079><c> these</c><00:00:50.399><c> decisions</c><00:00:50.960><c> in</c><00:00:51.200><c> a</c><00:00:51.440><c> constrained</c>
+
+00:00:52.069 --> 00:00:52.079 align:start position:0%
+behind these decisions in a constrained
+ 
+
+00:00:52.079 --> 00:00:54.470 align:start position:0%
+behind these decisions in a constrained
+environment<00:00:52.719><c> such</c><00:00:52.960><c> as</c><00:00:53.120><c> this</c><00:00:53.360><c> one,</c><00:00:54.000><c> we</c><00:00:54.239><c> won't</c>
+
+00:00:54.470 --> 00:00:54.480 align:start position:0%
+environment such as this one, we won't
+ 
+
+00:00:54.480 --> 00:00:56.150 align:start position:0%
+environment such as this one, we won't
+have<00:00:54.640><c> to</c><00:00:54.800><c> think</c><00:00:55.039><c> about</c><00:00:55.199><c> them</c><00:00:55.440><c> as</c><00:00:55.680><c> much</c><00:00:55.840><c> when</c><00:00:56.000><c> we</c>
+
+00:00:56.150 --> 00:00:56.160 align:start position:0%
+have to think about them as much when we
+ 
+
+00:00:56.160 --> 00:00:58.549 align:start position:0%
+have to think about them as much when we
+are<00:00:56.320><c> coding</c><00:00:56.719><c> for</c><00:00:56.879><c> our</c><00:00:57.120><c> production</c><00:00:57.520><c> work.</c>
+
+00:00:58.549 --> 00:00:58.559 align:start position:0%
+are coding for our production work.
+ 
+
+00:00:58.559 --> 00:01:00.950 align:start position:0%
+are coding for our production work.
+Enjoy.
+
+00:01:00.950 --> 00:01:00.960 align:start position:0%
+Enjoy.
+ 
+
+00:01:00.960 --> 00:01:03.590 align:start position:0%
+Enjoy.
+My<00:01:01.280><c> first</c><00:01:01.520><c> example</c><00:01:01.840><c> is</c><00:01:02.079><c> the</c><00:01:02.239><c> degenerate</c><00:01:02.879><c> case.</c>
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+My first example is the degenerate case.
+ 
+
+00:01:03.600 --> 00:01:06.070 align:start position:0%
+My first example is the degenerate case.
+This<00:01:03.920><c> corresponds</c><00:01:04.559><c> in</c><00:01:04.799><c> a</c><00:01:04.960><c> way</c><00:01:05.119><c> to</c><00:01:05.280><c> the</c><00:01:05.600><c> nothing</c>
+
+00:01:06.070 --> 00:01:06.080 align:start position:0%
+This corresponds in a way to the nothing
+ 
+
+00:01:06.080 --> 00:01:07.910 align:start position:0%
+This corresponds in a way to the nothing
+to<00:01:06.320><c> nil</c><00:01:06.720><c> transformation</c><00:01:07.439><c> from</c><00:01:07.680><c> the</c>
+
+00:01:07.910 --> 00:01:07.920 align:start position:0%
+to nil transformation from the
+ 
+
+00:01:07.920 --> 00:01:10.469 align:start position:0%
+to nil transformation from the
+transformation<00:01:08.720><c> priority</c><00:01:09.280><c> premise.</c><00:01:10.320><c> Right</c>
+
+00:01:10.469 --> 00:01:10.479 align:start position:0%
+transformation priority premise. Right
+ 
+
+00:01:10.479 --> 00:01:12.710 align:start position:0%
+transformation priority premise. Right
+now<00:01:10.720><c> I</c><00:01:10.960><c> don't</c><00:01:11.119><c> have</c><00:01:11.280><c> anything.</c><00:01:12.080><c> By</c><00:01:12.320><c> focusing</c>
+
+00:01:12.710 --> 00:01:12.720 align:start position:0%
+now I don't have anything. By focusing
+ 
+
+00:01:12.720 --> 00:01:14.469 align:start position:0%
+now I don't have anything. By focusing
+on<00:01:12.880><c> the</c><00:01:13.040><c> nothing</c><00:01:13.439><c> case,</c><00:01:13.760><c> I</c><00:01:14.000><c> can</c><00:01:14.080><c> get</c><00:01:14.240><c> my</c>
+
+00:01:14.469 --> 00:01:14.479 align:start position:0%
+on the nothing case, I can get my
+ 
+
+00:01:14.479 --> 00:01:17.749 align:start position:0%
+on the nothing case, I can get my
+initial<00:01:14.880><c> structure</c><00:01:15.360><c> set</c><00:01:15.600><c> up.</c><00:01:16.320><c> So</c><00:01:16.479><c> I</c><00:01:16.720><c> can</c><00:01:17.600><c> set</c>
+
+00:01:17.749 --> 00:01:17.759 align:start position:0%
+initial structure set up. So I can set
+ 
+
+00:01:17.759 --> 00:01:21.190 align:start position:0%
+initial structure set up. So I can set
+up<00:01:18.000><c> how</c><00:01:18.159><c> to</c><00:01:18.320><c> test</c><00:01:18.720><c> what</c><00:01:18.880><c> the</c><00:01:19.119><c> method</c><00:01:19.439><c> name</c><00:01:19.759><c> is,</c>
+
+00:01:21.190 --> 00:01:21.200 align:start position:0%
+up how to test what the method name is,
+ 
+
+00:01:21.200 --> 00:01:23.350 align:start position:0%
+up how to test what the method name is,
+what<00:01:21.360><c> the</c><00:01:21.600><c> parameter</c>
+
+00:01:23.350 --> 00:01:23.360 align:start position:0%
+what the parameter
+ 
+
+00:01:23.360 --> 00:01:25.830 align:start position:0%
+what the parameter
+and<00:01:23.600><c> in</c><00:01:23.759><c> TDD</c><00:01:24.320><c> we</c><00:01:24.560><c> focus</c><00:01:24.799><c> on</c><00:01:24.960><c> a</c><00:01:25.200><c> very</c><00:01:25.520><c> tight</c>
+
+00:01:25.830 --> 00:01:25.840 align:start position:0%
+and in TDD we focus on a very tight
+ 
+
+00:01:25.840 --> 00:01:27.830 align:start position:0%
+and in TDD we focus on a very tight
+feedback<00:01:26.320><c> loop.</c><00:01:26.880><c> So</c><00:01:27.040><c> we</c><00:01:27.200><c> like</c><00:01:27.360><c> to</c><00:01:27.520><c> run</c><00:01:27.680><c> our</c>
+
+00:01:27.830 --> 00:01:27.840 align:start position:0%
+feedback loop. So we like to run our
+ 
+
+00:01:27.840 --> 00:01:30.070 align:start position:0%
+feedback loop. So we like to run our
+test<00:01:28.080><c> as</c><00:01:28.240><c> often</c><00:01:28.479><c> as</c><00:01:28.720><c> possible.</c><00:01:29.360><c> I</c><00:01:29.680><c> know</c><00:01:29.840><c> I'm</c>
+
+00:01:30.070 --> 00:01:30.080 align:start position:0%
+test as often as possible. I know I'm
+ 
+
+00:01:30.080 --> 00:01:31.990 align:start position:0%
+test as often as possible. I know I'm
+going<00:01:30.159><c> to</c><00:01:30.240><c> fail</c><00:01:30.560><c> here,</c><00:01:30.799><c> but</c><00:01:31.040><c> I</c><00:01:31.360><c> still</c><00:01:31.680><c> want</c><00:01:31.840><c> to</c>
+
+00:01:31.990 --> 00:01:32.000 align:start position:0%
+going to fail here, but I still want to
+ 
+
+00:01:32.000 --> 00:01:34.390 align:start position:0%
+going to fail here, but I still want to
+run<00:01:32.159><c> the</c><00:01:32.400><c> test</c><00:01:33.040><c> and</c><00:01:33.280><c> I</c><00:01:33.520><c> get</c><00:01:33.680><c> what</c><00:01:33.840><c> I</c><00:01:34.079><c> expect,</c>
+
+00:01:34.390 --> 00:01:34.400 align:start position:0%
+run the test and I get what I expect,
+ 
+
+00:01:34.400 --> 00:01:38.950 align:start position:0%
+run the test and I get what I expect,
+which<00:01:34.560><c> is</c><00:01:34.720><c> undefined</c><00:01:35.360><c> method</c><00:01:35.759><c> convert.</c>
+
+00:01:38.950 --> 00:01:38.960 align:start position:0%
+ 
+ 
+
+00:01:38.960 --> 00:01:40.789 align:start position:0%
+ 
+In<00:01:39.280><c> getting</c><00:01:39.439><c> this</c><00:01:39.680><c> to</c><00:01:39.840><c> pass,</c><00:01:40.159><c> notice</c><00:01:40.400><c> I</c><00:01:40.640><c> don't</c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+In getting this to pass, notice I don't
+ 
+
+00:01:40.799 --> 00:01:43.109 align:start position:0%
+In getting this to pass, notice I don't
+bother<00:01:41.040><c> with</c><00:01:41.280><c> another</c><00:01:41.759><c> file.</c><00:01:42.640><c> When</c><00:01:42.880><c> working</c>
+
+00:01:43.109 --> 00:01:43.119 align:start position:0%
+bother with another file. When working
+ 
+
+00:01:43.119 --> 00:01:45.830 align:start position:0%
+bother with another file. When working
+on<00:01:43.280><c> a</c><00:01:43.520><c> small</c><00:01:43.759><c> routine</c><00:01:44.240><c> like</c><00:01:44.479><c> this,</c><00:01:45.360><c> I'd</c><00:01:45.600><c> prefer</c>
+
+00:01:45.830 --> 00:01:45.840 align:start position:0%
+on a small routine like this, I'd prefer
+ 
+
+00:01:45.840 --> 00:01:47.749 align:start position:0%
+on a small routine like this, I'd prefer
+to<00:01:46.000><c> have</c><00:01:46.159><c> everything</c><00:01:46.399><c> as</c><00:01:46.640><c> close</c><00:01:46.960><c> together</c><00:01:47.439><c> as</c>
+
+00:01:47.749 --> 00:01:47.759 align:start position:0%
+to have everything as close together as
+ 
+
+00:01:47.759 --> 00:01:49.830 align:start position:0%
+to have everything as close together as
+possible.<00:01:48.560><c> Also,</c><00:01:48.880><c> if</c><00:01:49.119><c> this</c><00:01:49.280><c> was</c><00:01:49.439><c> for</c><00:01:49.600><c> a</c>
+
+00:01:49.830 --> 00:01:49.840 align:start position:0%
+possible. Also, if this was for a
+ 
+
+00:01:49.840 --> 00:01:51.109 align:start position:0%
+possible. Also, if this was for a
+production<00:01:50.159><c> system,</c><00:01:50.560><c> I'd</c><00:01:50.799><c> probably</c><00:01:50.960><c> be</c>
+
+00:01:51.109 --> 00:01:51.119 align:start position:0%
+production system, I'd probably be
+ 
+
+00:01:51.119 --> 00:01:52.630 align:start position:0%
+production system, I'd probably be
+deferring<00:01:51.520><c> the</c><00:01:51.759><c> decision</c><00:01:52.079><c> about</c><00:01:52.320><c> where</c><00:01:52.479><c> to</c>
+
+00:01:52.630 --> 00:01:52.640 align:start position:0%
+deferring the decision about where to
+ 
+
+00:01:52.640 --> 00:01:56.069 align:start position:0%
+deferring the decision about where to
+put<00:01:52.799><c> it.</c><00:01:54.240><c> I</c><00:01:54.479><c> do</c><00:01:54.720><c> make</c><00:01:54.880><c> a</c><00:01:55.119><c> slightly</c><00:01:55.520><c> larger</c><00:01:55.840><c> leap</c>
+
+00:01:56.069 --> 00:01:56.079 align:start position:0%
+put it. I do make a slightly larger leap
+ 
+
+00:01:56.079 --> 00:01:57.749 align:start position:0%
+put it. I do make a slightly larger leap
+here<00:01:56.320><c> and</c><00:01:56.479><c> that</c><00:01:56.640><c> I</c><00:01:56.799><c> include</c><00:01:57.119><c> the</c><00:01:57.360><c> parameter</c>
+
+00:01:57.749 --> 00:01:57.759 align:start position:0%
+here and that I include the parameter
+ 
+
+00:01:57.759 --> 00:01:59.990 align:start position:0%
+here and that I include the parameter
+when<00:01:57.920><c> I</c><00:01:58.079><c> make</c><00:01:58.240><c> the</c><00:01:58.399><c> method.</c><00:01:58.880><c> If</c><00:01:59.040><c> I</c><00:01:59.200><c> was</c><00:01:59.439><c> taking</c>
+
+00:01:59.990 --> 00:02:00.000 align:start position:0%
+when I make the method. If I was taking
+ 
+
+00:02:00.000 --> 00:02:03.350 align:start position:0%
+when I make the method. If I was taking
+absolutely<00:02:01.119><c> baby</c><00:02:01.520><c> steps,</c><00:02:02.320><c> I'd</c><00:02:02.560><c> just</c><00:02:02.799><c> focus</c><00:02:03.119><c> on</c>
+
+00:02:03.350 --> 00:02:03.360 align:start position:0%
+absolutely baby steps, I'd just focus on
+ 
+
+00:02:03.360 --> 00:02:05.270 align:start position:0%
+absolutely baby steps, I'd just focus on
+making<00:02:03.600><c> that</c><00:02:03.920><c> undefined</c><00:02:04.479><c> method</c><00:02:04.880><c> message</c>
+
+00:02:05.270 --> 00:02:05.280 align:start position:0%
+making that undefined method message
+ 
+
+00:02:05.280 --> 00:02:08.229 align:start position:0%
+making that undefined method message
+change<00:02:05.920><c> and</c><00:02:06.079><c> then</c><00:02:06.320><c> let</c><00:02:06.560><c> a</c><00:02:06.719><c> test</c><00:02:07.600><c> message</c><00:02:08.000><c> give</c>
+
+00:02:08.229 --> 00:02:08.239 align:start position:0%
+change and then let a test message give
+ 
+
+00:02:08.239 --> 00:02:10.630 align:start position:0%
+change and then let a test message give
+me<00:02:08.399><c> that</c><00:02:08.640><c> the</c><00:02:08.959><c> parameter</c><00:02:09.440><c> isn't</c><00:02:09.759><c> there.</c><00:02:10.319><c> I'm</c>
+
+00:02:10.630 --> 00:02:10.640 align:start position:0%
+me that the parameter isn't there. I'm
+ 
+
+00:02:10.640 --> 00:02:13.910 align:start position:0%
+me that the parameter isn't there. I'm
+confident<00:02:10.959><c> in</c><00:02:11.200><c> this</c><00:02:11.360><c> one</c><00:02:11.680><c> though.</c><00:02:13.040><c> Now</c><00:02:13.440><c> I</c><00:02:13.760><c> run</c>
+
+00:02:13.910 --> 00:02:13.920 align:start position:0%
+confident in this one though. Now I run
+ 
+
+00:02:13.920 --> 00:02:16.390 align:start position:0%
+confident in this one though. Now I run
+my<00:02:14.160><c> tests</c><00:02:14.480><c> again</c><00:02:15.200><c> after</c><00:02:15.599><c> building</c><00:02:15.920><c> the</c><00:02:16.080><c> method</c>
+
+00:02:16.390 --> 00:02:16.400 align:start position:0%
+my tests again after building the method
+ 
+
+00:02:16.400 --> 00:02:18.550 align:start position:0%
+my tests again after building the method
+because<00:02:16.640><c> I</c><00:02:16.879><c> want</c><00:02:16.959><c> to</c><00:02:17.120><c> see</c><00:02:17.280><c> an</c><00:02:17.599><c> actual</c><00:02:18.160><c> test</c>
+
+00:02:18.550 --> 00:02:18.560 align:start position:0%
+because I want to see an actual test
+ 
+
+00:02:18.560 --> 00:02:21.910 align:start position:0%
+because I want to see an actual test
+failure.<00:02:19.440><c> That</c><00:02:19.599><c> is</c><00:02:19.840><c> an</c><00:02:20.160><c> expectation</c><00:02:21.120><c> failure.</c>
+
+00:02:21.910 --> 00:02:21.920 align:start position:0%
+failure. That is an expectation failure.
+ 
+
+00:02:21.920 --> 00:02:23.750 align:start position:0%
+failure. That is an expectation failure.
+So<00:02:22.160><c> here</c><00:02:22.400><c> we</c><00:02:22.640><c> have</c><00:02:22.720><c> an</c><00:02:22.959><c> expected</c><00:02:23.440><c> empty</c>
+
+00:02:23.750 --> 00:02:23.760 align:start position:0%
+So here we have an expected empty
+ 
+
+00:02:23.760 --> 00:02:26.630 align:start position:0%
+So here we have an expected empty
+string.nil.<00:02:24.800><c> That's</c><00:02:25.200><c> more</c><00:02:25.440><c> of</c><00:02:25.680><c> what</c><00:02:26.000><c> the</c><00:02:26.319><c> test</c>
+
+00:02:26.630 --> 00:02:26.640 align:start position:0%
+string.nil. That's more of what the test
+ 
+
+00:02:26.640 --> 00:02:28.470 align:start position:0%
+string.nil. That's more of what the test
+is<00:02:26.959><c> saying.</c>
+
+00:02:28.470 --> 00:02:28.480 align:start position:0%
+is saying.
+ 
+
+00:02:28.480 --> 00:02:30.390 align:start position:0%
+is saying.
+Now<00:02:29.040><c> following</c><00:02:29.440><c> the</c><00:02:29.680><c> transformation</c>
+
+00:02:30.390 --> 00:02:30.400 align:start position:0%
+Now following the transformation
+ 
+
+00:02:30.400 --> 00:02:33.110 align:start position:0%
+Now following the transformation
+priority<00:02:30.879><c> premise,</c><00:02:31.520><c> nil</c><00:02:31.920><c> to</c><00:02:32.239><c> constant</c><00:02:32.640><c> is</c><00:02:32.879><c> a</c>
+
+00:02:33.110 --> 00:02:33.120 align:start position:0%
+priority premise, nil to constant is a
+ 
+
+00:02:33.120 --> 00:02:34.790 align:start position:0%
+priority premise, nil to constant is a
+simple<00:02:33.440><c> choice</c><00:02:33.680><c> for</c><00:02:33.920><c> getting</c><00:02:34.080><c> this</c><00:02:34.319><c> test</c><00:02:34.640><c> to</c>
+
+00:02:34.790 --> 00:02:34.800 align:start position:0%
+simple choice for getting this test to
+ 
+
+00:02:34.800 --> 00:02:37.670 align:start position:0%
+simple choice for getting this test to
+pass.<00:02:35.519><c> So</c><00:02:36.000><c> let's</c><00:02:36.319><c> return</c><00:02:36.640><c> a</c><00:02:36.879><c> blank</c><00:02:37.280><c> string</c>
+
+00:02:37.670 --> 00:02:37.680 align:start position:0%
+pass. So let's return a blank string
+ 
+
+00:02:37.680 --> 00:02:41.509 align:start position:0%
+pass. So let's return a blank string
+constant.<00:02:39.120><c> and</c><00:02:39.360><c> we're</c><00:02:39.680><c> passing.</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+constant. and we're passing.
+ 
+
+00:02:41.519 --> 00:02:43.509 align:start position:0%
+constant. and we're passing.
+So<00:02:41.760><c> my</c><00:02:42.080><c> second</c><00:02:42.400><c> example</c><00:02:42.800><c> is</c><00:02:42.959><c> the</c><00:02:43.200><c> one</c><00:02:43.280><c> that</c>
+
+00:02:43.509 --> 00:02:43.519 align:start position:0%
+So my second example is the one that
+ 
+
+00:02:43.519 --> 00:02:45.990 align:start position:0%
+So my second example is the one that
+brings<00:02:44.000><c> variation</c><00:02:44.800><c> to</c><00:02:45.040><c> my</c><00:02:45.280><c> system</c><00:02:45.680><c> after</c>
+
+00:02:45.990 --> 00:02:46.000 align:start position:0%
+brings variation to my system after
+ 
+
+00:02:46.000 --> 00:02:47.430 align:start position:0%
+brings variation to my system after
+setting<00:02:46.319><c> up</c><00:02:46.480><c> the</c><00:02:46.640><c> structure</c><00:02:47.040><c> with</c><00:02:47.200><c> a</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+setting up the structure with a
+ 
+
+00:02:47.440 --> 00:02:49.589 align:start position:0%
+setting up the structure with a
+degenerate<00:02:48.000><c> case.</c><00:02:48.879><c> According</c><00:02:49.280><c> to</c><00:02:49.360><c> the</c>
+
+00:02:49.589 --> 00:02:49.599 align:start position:0%
+degenerate case. According to the
+ 
+
+00:02:49.599 --> 00:02:52.949 align:start position:0%
+degenerate case. According to the
+transformation<00:02:50.319><c> priority</c><00:02:50.800><c> premise</c><00:02:51.360><c> or</c><00:02:51.680><c> TPP,</c>
+
+00:02:52.949 --> 00:02:52.959 align:start position:0%
+transformation priority premise or TPP,
+ 
+
+00:02:52.959 --> 00:02:55.430 align:start position:0%
+transformation priority premise or TPP,
+a<00:02:53.280><c> constant</c><00:02:53.680><c> is</c><00:02:53.840><c> a</c><00:02:54.080><c> very</c><00:02:54.400><c> simple</c><00:02:54.720><c> test</c><00:02:55.040><c> to</c><00:02:55.280><c> move</c>
+
+00:02:55.430 --> 00:02:55.440 align:start position:0%
+a constant is a very simple test to move
+ 
+
+00:02:55.440 --> 00:02:58.550 align:start position:0%
+a constant is a very simple test to move
+to.<00:02:56.319><c> We</c><00:02:56.480><c> can</c><00:02:56.720><c> move</c><00:02:56.879><c> to</c><00:02:57.120><c> our</c><00:02:57.360><c> first</c><00:02:57.840><c> real</c>
+
+00:02:58.550 --> 00:02:58.560 align:start position:0%
+to. We can move to our first real
+ 
+
+00:02:58.560 --> 00:03:01.750 align:start position:0%
+to. We can move to our first real
+rulebased<00:02:59.360><c> case</c><00:02:59.760><c> which</c><00:02:59.920><c> is</c><00:03:00.160><c> one.</c><00:03:01.120><c> Of</c><00:03:01.360><c> course,</c>
+
+00:03:01.750 --> 00:03:01.760 align:start position:0%
+rulebased case which is one. Of course,
+ 
+
+00:03:01.760 --> 00:03:03.589 align:start position:0%
+rulebased case which is one. Of course,
+this<00:03:01.920><c> is</c><00:03:02.159><c> going</c><00:03:02.239><c> to</c><00:03:02.400><c> fail</c><00:03:02.720><c> since</c><00:03:03.040><c> all</c><00:03:03.280><c> we</c><00:03:03.440><c> have</c>
+
+00:03:03.589 --> 00:03:03.599 align:start position:0%
+this is going to fail since all we have
+ 
+
+00:03:03.599 --> 00:03:07.670 align:start position:0%
+this is going to fail since all we have
+built<00:03:03.920><c> so</c><00:03:04.159><c> far</c><00:03:04.319><c> is</c><00:03:04.560><c> the</c><00:03:04.800><c> simple</c><00:03:05.120><c> blank</c><00:03:05.519><c> string.</c>
+
+00:03:07.670 --> 00:03:07.680 align:start position:0%
+built so far is the simple blank string.
+ 
+
+00:03:07.680 --> 00:03:10.390 align:start position:0%
+built so far is the simple blank string.
+As<00:03:08.000><c> we</c><00:03:08.239><c> move</c><00:03:08.480><c> forward</c><00:03:09.280><c> getting</c><00:03:09.760><c> subsequent</c>
+
+00:03:10.390 --> 00:03:10.400 align:start position:0%
+As we move forward getting subsequent
+ 
+
+00:03:10.400 --> 00:03:12.790 align:start position:0%
+As we move forward getting subsequent
+examples<00:03:10.959><c> to</c><00:03:11.200><c> pass,</c><00:03:11.760><c> we</c><00:03:12.000><c> want</c><00:03:12.159><c> to</c><00:03:12.319><c> make</c><00:03:12.480><c> sure</c>
+
+00:03:12.790 --> 00:03:12.800 align:start position:0%
+examples to pass, we want to make sure
+ 
+
+00:03:12.800 --> 00:03:15.910 align:start position:0%
+examples to pass, we want to make sure
+not<00:03:13.200><c> to</c><00:03:13.440><c> have</c><00:03:14.560><c> previous</c><00:03:15.040><c> examples</c><00:03:15.599><c> start</c>
+
+00:03:15.910 --> 00:03:15.920 align:start position:0%
+not to have previous examples start
+ 
+
+00:03:15.920 --> 00:03:18.309 align:start position:0%
+not to have previous examples start
+failing.<00:03:16.800><c> If</c><00:03:17.040><c> they</c><00:03:17.280><c> do,</c><00:03:17.760><c> then</c><00:03:18.000><c> we</c><00:03:18.159><c> are</c>
+
+00:03:18.309 --> 00:03:18.319 align:start position:0%
+failing. If they do, then we are
+ 
+
+00:03:18.319 --> 00:03:20.229 align:start position:0%
+failing. If they do, then we are
+probably<00:03:18.720><c> taking</c><00:03:19.040><c> either</c><00:03:19.440><c> too</c><00:03:19.760><c> large</c><00:03:20.000><c> of</c>
+
+00:03:20.229 --> 00:03:20.239 align:start position:0%
+probably taking either too large of
+ 
+
+00:03:20.239 --> 00:03:22.630 align:start position:0%
+probably taking either too large of
+steps<00:03:20.879><c> or</c><00:03:21.120><c> we</c><00:03:21.360><c> aren't</c><00:03:21.760><c> choosing</c><00:03:22.080><c> the</c><00:03:22.319><c> correct</c>
+
+00:03:22.630 --> 00:03:22.640 align:start position:0%
+steps or we aren't choosing the correct
+ 
+
+00:03:22.640 --> 00:03:25.430 align:start position:0%
+steps or we aren't choosing the correct
+sequence<00:03:23.040><c> of</c><00:03:23.280><c> tests.</c><00:03:24.319><c> A</c><00:03:24.640><c> very</c><00:03:25.040><c> simple</c>
+
+00:03:25.430 --> 00:03:25.440 align:start position:0%
+sequence of tests. A very simple
+ 
+
+00:03:25.440 --> 00:03:28.309 align:start position:0%
+sequence of tests. A very simple
+transformation<00:03:26.239><c> is</c><00:03:26.480><c> the</c><00:03:26.720><c> if</c><00:03:27.040><c> clause</c><00:03:27.599><c> or</c><00:03:27.920><c> guard</c>
+
+00:03:28.309 --> 00:03:28.319 align:start position:0%
+transformation is the if clause or guard
+ 
+
+00:03:28.319 --> 00:03:31.509 align:start position:0%
+transformation is the if clause or guard
+clause.<00:03:29.200><c> I</c><00:03:29.519><c> use</c><00:03:29.760><c> this</c><00:03:30.000><c> a</c><00:03:30.319><c> lot</c><00:03:30.640><c> as</c><00:03:30.879><c> a</c><00:03:31.120><c> technique</c>
+
+00:03:31.509 --> 00:03:31.519 align:start position:0%
+clause. I use this a lot as a technique
+ 
+
+00:03:31.519 --> 00:03:34.070 align:start position:0%
+clause. I use this a lot as a technique
+to<00:03:31.760><c> sort</c><00:03:32.000><c> of</c><00:03:32.159><c> wall</c><00:03:32.560><c> off</c><00:03:32.799><c> the</c><00:03:33.040><c> previous</c><00:03:33.519><c> code</c>
+
+00:03:34.070 --> 00:03:34.080 align:start position:0%
+to sort of wall off the previous code
+ 
+
+00:03:34.080 --> 00:03:36.390 align:start position:0%
+to sort of wall off the previous code
+and<00:03:34.400><c> give</c><00:03:34.640><c> myself</c><00:03:34.959><c> a</c><00:03:35.280><c> fresh</c><00:03:35.599><c> base</c><00:03:35.920><c> to</c><00:03:36.239><c> work</c>
+
+00:03:36.390 --> 00:03:36.400 align:start position:0%
+and give myself a fresh base to work
+ 
+
+00:03:36.400 --> 00:03:39.190 align:start position:0%
+and give myself a fresh base to work
+from.
+
+00:03:39.190 --> 00:03:39.200 align:start position:0%
+ 
+ 
+
+00:03:39.200 --> 00:03:41.430 align:start position:0%
+ 
+Also<00:03:39.680><c> notice</c><00:03:40.000><c> that</c><00:03:40.239><c> the</c><00:03:40.480><c> first</c><00:03:40.799><c> failure</c><00:03:41.200><c> we</c>
+
+00:03:41.430 --> 00:03:41.440 align:start position:0%
+Also notice that the first failure we
+ 
+
+00:03:41.440 --> 00:03:44.470 align:start position:0%
+Also notice that the first failure we
+got<00:03:41.599><c> was</c><00:03:41.760><c> a</c><00:03:42.000><c> bad</c><00:03:42.319><c> value.</c><00:03:43.120><c> We</c><00:03:43.440><c> expected</c><00:03:43.920><c> an</c><00:03:44.239><c> I,</c>
+
+00:03:44.470 --> 00:03:44.480 align:start position:0%
+got was a bad value. We expected an I,
+ 
+
+00:03:44.480 --> 00:03:46.869 align:start position:0%
+got was a bad value. We expected an I,
+but<00:03:44.720><c> we</c><00:03:44.879><c> got</c><00:03:44.959><c> the</c><00:03:45.200><c> empty</c><00:03:45.519><c> string.</c><00:03:46.480><c> While</c><00:03:46.640><c> the</c>
+
+00:03:46.869 --> 00:03:46.879 align:start position:0%
+but we got the empty string. While the
+ 
+
+00:03:46.879 --> 00:03:48.949 align:start position:0%
+but we got the empty string. While the
+failure<00:03:47.280><c> after</c><00:03:47.599><c> the</c><00:03:47.840><c> guard</c><00:03:48.159><c> clause</c><00:03:48.480><c> takes</c><00:03:48.799><c> us</c>
+
+00:03:48.949 --> 00:03:48.959 align:start position:0%
+failure after the guard clause takes us
+ 
+
+00:03:48.959 --> 00:03:52.630 align:start position:0%
+failure after the guard clause takes us
+back<00:03:49.200><c> to</c><00:03:49.519><c> nil.</c><00:03:50.239><c> Expected</c><00:03:50.720><c> I</c><00:03:51.040><c> got</c><00:03:51.280><c> nil.</c><00:03:52.000><c> Now</c><00:03:52.319><c> nil</c>
+
+00:03:52.630 --> 00:03:52.640 align:start position:0%
+back to nil. Expected I got nil. Now nil
+ 
+
+00:03:52.640 --> 00:03:55.350 align:start position:0%
+back to nil. Expected I got nil. Now nil
+to<00:03:52.879><c> constant</c><00:03:53.519><c> is</c><00:03:53.840><c> a</c><00:03:54.080><c> wonderfully</c><00:03:54.879><c> simple</c>
+
+00:03:55.350 --> 00:03:55.360 align:start position:0%
+to constant is a wonderfully simple
+ 
+
+00:03:55.360 --> 00:03:58.149 align:start position:0%
+to constant is a wonderfully simple
+transformation<00:03:56.080><c> according</c><00:03:56.480><c> to</c><00:03:56.720><c> TPP.</c><00:03:57.840><c> We</c><00:03:58.080><c> can</c>
+
+00:03:58.149 --> 00:03:58.159 align:start position:0%
+transformation according to TPP. We can
+ 
+
+00:03:58.159 --> 00:04:00.550 align:start position:0%
+transformation according to TPP. We can
+then<00:03:58.400><c> enact</c><00:03:58.799><c> that</c><00:03:59.120><c> transformation</c><00:04:00.080><c> to</c><00:04:00.319><c> get</c>
+
+00:04:00.550 --> 00:04:00.560 align:start position:0%
+then enact that transformation to get
+ 
+
+00:04:00.560 --> 00:04:04.229 align:start position:0%
+then enact that transformation to get
+this<00:04:00.959><c> example</c><00:04:01.519><c> passing.</c>
+
+00:04:04.229 --> 00:04:04.239 align:start position:0%
+this example passing.
+ 
+
+00:04:04.239 --> 00:04:08.710 align:start position:0%
+this example passing.
+Tada.
+
+00:04:08.710 --> 00:04:08.720 align:start position:0%
+ 
+ 
+
+00:04:08.720 --> 00:04:10.789 align:start position:0%
+ 
+Now,<00:04:09.280><c> up</c><00:04:09.519><c> till</c><00:04:09.760><c> now,</c><00:04:09.920><c> it</c><00:04:10.080><c> has</c><00:04:10.239><c> been</c><00:04:10.560><c> pretty</c>
+
+00:04:10.789 --> 00:04:10.799 align:start position:0%
+Now, up till now, it has been pretty
+ 
+
+00:04:10.799 --> 00:04:13.190 align:start position:0%
+Now, up till now, it has been pretty
+straightforward.<00:04:12.239><c> Here</c><00:04:12.480><c> is</c><00:04:12.720><c> the</c><00:04:12.959><c> first</c>
+
+00:04:13.190 --> 00:04:13.200 align:start position:0%
+straightforward. Here is the first
+ 
+
+00:04:13.200 --> 00:04:16.870 align:start position:0%
+straightforward. Here is the first
+decision.<00:04:14.000><c> What's</c><00:04:14.319><c> the</c><00:04:14.560><c> next</c><00:04:14.959><c> test?</c><00:04:16.320><c> A</c><00:04:16.560><c> lot</c><00:04:16.720><c> of</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+decision. What's the next test? A lot of
+ 
+
+00:04:16.880 --> 00:04:19.110 align:start position:0%
+decision. What's the next test? A lot of
+implementations<00:04:17.519><c> that</c><00:04:17.759><c> I</c><00:04:18.000><c> see</c><00:04:18.239><c> use</c><00:04:18.639><c> two</c><00:04:18.880><c> as</c>
+
+00:04:19.110 --> 00:04:19.120 align:start position:0%
+implementations that I see use two as
+ 
+
+00:04:19.120 --> 00:04:21.990 align:start position:0%
+implementations that I see use two as
+the<00:04:19.280><c> next</c><00:04:19.519><c> test.</c><00:04:20.720><c> However,</c><00:04:21.280><c> if</c><00:04:21.519><c> we</c><00:04:21.759><c> think</c>
+
+00:04:21.990 --> 00:04:22.000 align:start position:0%
+the next test. However, if we think
+ 
+
+00:04:22.000 --> 00:04:25.189 align:start position:0%
+the next test. However, if we think
+about<00:04:22.400><c> complexity,</c><00:04:23.520><c> two</c><00:04:23.840><c> is</c><00:04:24.160><c> actually</c><00:04:24.720><c> quite</c>
+
+00:04:25.189 --> 00:04:25.199 align:start position:0%
+about complexity, two is actually quite
+ 
+
+00:04:25.199 --> 00:04:28.150 align:start position:0%
+about complexity, two is actually quite
+complex.<00:04:26.240><c> It</c><00:04:26.560><c> could</c><00:04:26.880><c> almost</c><00:04:27.280><c> be</c><00:04:27.520><c> considered</c><00:04:27.919><c> a</c>
+
+00:04:28.150 --> 00:04:28.160 align:start position:0%
+complex. It could almost be considered a
+ 
+
+00:04:28.160 --> 00:04:31.189 align:start position:0%
+complex. It could almost be considered a
+vector<00:04:28.639><c> or</c><00:04:28.880><c> array</c><00:04:29.440><c> of</c><00:04:29.680><c> ones.</c>
+
+00:04:31.189 --> 00:04:31.199 align:start position:0%
+vector or array of ones.
+ 
+
+00:04:31.199 --> 00:04:33.510 align:start position:0%
+vector or array of ones.
+The<00:04:31.440><c> TPP</c><00:04:32.160><c> talks</c><00:04:32.479><c> about</c><00:04:32.720><c> this.</c><00:04:33.040><c> So</c><00:04:33.280><c> I'm</c><00:04:33.440><c> going</c>
+
+00:04:33.510 --> 00:04:33.520 align:start position:0%
+The TPP talks about this. So I'm going
+ 
+
+00:04:33.520 --> 00:04:35.189 align:start position:0%
+The TPP talks about this. So I'm going
+to<00:04:33.680><c> choose</c><00:04:33.919><c> an</c><00:04:34.080><c> example</c><00:04:34.400><c> that</c><00:04:34.720><c> might</c><00:04:34.960><c> be</c>
+
+00:04:35.189 --> 00:04:35.199 align:start position:0%
+to choose an example that might be
+ 
+
+00:04:35.199 --> 00:04:37.830 align:start position:0%
+to choose an example that might be
+considered<00:04:36.000><c> simply</c><00:04:36.479><c> a</c><00:04:36.800><c> more</c><00:04:37.120><c> complex</c>
+
+00:04:37.830 --> 00:04:37.840 align:start position:0%
+considered simply a more complex
+ 
+
+00:04:37.840 --> 00:04:40.790 align:start position:0%
+considered simply a more complex
+constant<00:04:38.880><c> five.</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+constant five.
+ 
+
+00:04:40.800 --> 00:04:42.550 align:start position:0%
+constant five.
+Another<00:04:41.360><c> interesting</c><00:04:41.840><c> thing</c><00:04:42.000><c> here</c><00:04:42.240><c> is</c><00:04:42.400><c> the</c>
+
+00:04:42.550 --> 00:04:42.560 align:start position:0%
+Another interesting thing here is the
+ 
+
+00:04:42.560 --> 00:04:45.030 align:start position:0%
+Another interesting thing here is the
+fact<00:04:42.720><c> that</c><00:04:42.880><c> I</c><00:04:43.040><c> can</c><00:04:43.280><c> create</c><00:04:43.600><c> this</c><00:04:43.840><c> test</c><00:04:44.479><c> by</c><00:04:44.720><c> a</c>
+
+00:04:45.030 --> 00:04:45.040 align:start position:0%
+fact that I can create this test by a
+ 
+
+00:04:45.040 --> 00:04:48.870 align:start position:0%
+fact that I can create this test by a
+simple<00:04:45.600><c> copy</c><00:04:46.240><c> and</c><00:04:46.560><c> search</c><00:04:46.800><c> and</c><00:04:47.120><c> replace.</c>
+
+00:04:48.870 --> 00:04:48.880 align:start position:0%
+simple copy and search and replace.
+ 
+
+00:04:48.880 --> 00:04:51.189 align:start position:0%
+simple copy and search and replace.
+This<00:04:49.280><c> accentuates</c><00:04:50.080><c> the</c><00:04:50.320><c> fact</c><00:04:50.479><c> that</c><00:04:50.720><c> the</c><00:04:50.960><c> test</c>
+
+00:04:51.189 --> 00:04:51.199 align:start position:0%
+This accentuates the fact that the test
+ 
+
+00:04:51.199 --> 00:04:54.710 align:start position:0%
+This accentuates the fact that the test
+for<00:04:51.440><c> five</c><00:04:51.759><c> is</c><00:04:52.000><c> a</c><00:04:52.240><c> constant</c><00:04:53.120><c> just</c><00:04:53.360><c> like</c><00:04:53.759><c> one.</c>
+
+00:04:54.710 --> 00:04:54.720 align:start position:0%
+for five is a constant just like one.
+ 
+
+00:04:54.720 --> 00:04:56.629 align:start position:0%
+for five is a constant just like one.
+This<00:04:54.960><c> will</c><00:04:55.199><c> influence</c><00:04:55.680><c> the</c><00:04:55.919><c> next</c><00:04:56.160><c> step</c><00:04:56.400><c> we</c>
+
+00:04:56.629 --> 00:04:56.639 align:start position:0%
+This will influence the next step we
+ 
+
+00:04:56.639 --> 00:04:58.710 align:start position:0%
+This will influence the next step we
+see.
+
+00:04:58.710 --> 00:04:58.720 align:start position:0%
+see.
+ 
+
+00:04:58.720 --> 00:05:01.590 align:start position:0%
+see.
+So<00:04:59.199><c> running</c><00:04:59.440><c> the</c><00:04:59.680><c> test</c><00:05:00.000><c> we</c><00:05:00.240><c> see</c><00:05:00.400><c> we</c><00:05:00.720><c> expected</c><00:05:01.280><c> V</c>
+
+00:05:01.590 --> 00:05:01.600 align:start position:0%
+So running the test we see we expected V
+ 
+
+00:05:01.600 --> 00:05:05.030 align:start position:0%
+So running the test we see we expected V
+but<00:05:01.759><c> we</c><00:05:02.000><c> got</c><00:05:02.240><c> I.</c><00:05:03.600><c> This</c><00:05:03.840><c> is</c><00:05:04.000><c> similar</c><00:05:04.400><c> to</c><00:05:04.560><c> when</c><00:05:04.800><c> we</c>
+
+00:05:05.030 --> 00:05:05.040 align:start position:0%
+but we got I. This is similar to when we
+ 
+
+00:05:05.040 --> 00:05:07.430 align:start position:0%
+but we got I. This is similar to when we
+were<00:05:05.199><c> getting</c><00:05:05.360><c> the</c><00:05:05.600><c> one</c><00:05:05.919><c> case</c><00:05:06.240><c> passing.</c><00:05:07.120><c> I</c>
+
+00:05:07.430 --> 00:05:07.440 align:start position:0%
+were getting the one case passing. I
+ 
+
+00:05:07.440 --> 00:05:09.430 align:start position:0%
+were getting the one case passing. I
+want<00:05:07.600><c> to</c><00:05:07.759><c> reset</c><00:05:08.160><c> my</c><00:05:08.400><c> test</c><00:05:08.639><c> so</c><00:05:08.800><c> that</c><00:05:08.960><c> I</c><00:05:09.120><c> can</c><00:05:09.280><c> move</c>
+
+00:05:09.430 --> 00:05:09.440 align:start position:0%
+want to reset my test so that I can move
+ 
+
+00:05:09.440 --> 00:05:11.590 align:start position:0%
+want to reset my test so that I can move
+from<00:05:09.680><c> nil</c><00:05:10.160><c> instead</c><00:05:10.560><c> of</c><00:05:10.720><c> from</c><00:05:10.960><c> the</c><00:05:11.199><c> constant</c>
+
+00:05:11.590 --> 00:05:11.600 align:start position:0%
+from nil instead of from the constant
+ 
+
+00:05:11.600 --> 00:05:14.150 align:start position:0%
+from nil instead of from the constant
+related<00:05:12.000><c> to</c><00:05:12.160><c> the</c><00:05:12.400><c> previous</c><00:05:12.800><c> example.</c><00:05:13.759><c> And</c><00:05:14.000><c> of</c>
+
+00:05:14.150 --> 00:05:14.160 align:start position:0%
+related to the previous example. And of
+ 
+
+00:05:14.160 --> 00:05:15.909 align:start position:0%
+related to the previous example. And of
+course
+
+00:05:15.909 --> 00:05:15.919 align:start position:0%
+course
+ 
+
+00:05:15.919 --> 00:05:25.670 align:start position:0%
+course
+guard<00:05:16.240><c> clause</c><00:05:16.639><c> to</c><00:05:16.880><c> the</c><00:05:17.039><c> rescue.</c>
+
+00:05:25.670 --> 00:05:25.680 align:start position:0%
+ 
+ 
+
+00:05:25.680 --> 00:05:27.430 align:start position:0%
+ 
+Now<00:05:25.919><c> we</c><00:05:26.080><c> are</c><00:05:26.240><c> back</c><00:05:26.400><c> to</c><00:05:26.560><c> an</c><00:05:26.800><c> expectation</c>
+
+00:05:27.430 --> 00:05:27.440 align:start position:0%
+Now we are back to an expectation
+ 
+
+00:05:27.440 --> 00:05:29.830 align:start position:0%
+Now we are back to an expectation
+failure<00:05:27.840><c> around</c><00:05:28.240><c> nil.</c><00:05:28.880><c> So</c><00:05:29.039><c> we</c><00:05:29.280><c> can</c><00:05:29.440><c> use</c><00:05:29.600><c> the</c>
+
+00:05:29.830 --> 00:05:29.840 align:start position:0%
+failure around nil. So we can use the
+ 
+
+00:05:29.840 --> 00:05:31.990 align:start position:0%
+failure around nil. So we can use the
+nil<00:05:30.160><c> to</c><00:05:30.479><c> constant</c><00:05:30.960><c> transformation</c><00:05:31.600><c> to</c><00:05:31.840><c> get</c>
+
+00:05:31.990 --> 00:05:32.000 align:start position:0%
+nil to constant transformation to get
+ 
+
+00:05:32.000 --> 00:05:35.990 align:start position:0%
+nil to constant transformation to get
+this<00:05:32.320><c> passing.</c>
+
+00:05:35.990 --> 00:05:36.000 align:start position:0%
+ 
+ 
+
+00:05:36.000 --> 00:05:38.710 align:start position:0%
+ 
+Tada.
+
+00:05:38.710 --> 00:05:38.720 align:start position:0%
+Tada.
+ 
+
+00:05:38.720 --> 00:05:40.950 align:start position:0%
+Tada.
+Now<00:05:39.360><c> the</c><00:05:39.600><c> fact</c><00:05:39.759><c> that</c><00:05:39.919><c> I</c><00:05:40.080><c> could</c><00:05:40.240><c> do</c><00:05:40.400><c> a</c><00:05:40.639><c> straight</c>
+
+00:05:40.950 --> 00:05:40.960 align:start position:0%
+Now the fact that I could do a straight
+ 
+
+00:05:40.960 --> 00:05:44.310 align:start position:0%
+Now the fact that I could do a straight
+copy<00:05:41.280><c> of</c><00:05:41.520><c> one</c><00:05:41.759><c> to</c><00:05:42.000><c> five</c><00:05:42.479><c> and</c><00:05:42.800><c> I</c><00:05:43.039><c> to</c><00:05:43.360><c> v</c><00:05:43.919><c> shows</c><00:05:44.240><c> me</c>
+
+00:05:44.310 --> 00:05:44.320 align:start position:0%
+copy of one to five and I to v shows me
+ 
+
+00:05:44.320 --> 00:05:46.629 align:start position:0%
+copy of one to five and I to v shows me
+that<00:05:44.560><c> there</c><00:05:44.720><c> is</c><00:05:44.880><c> some</c><00:05:45.039><c> duplication</c><00:05:45.759><c> here.</c><00:05:46.400><c> The</c>
+
+00:05:46.629 --> 00:05:46.639 align:start position:0%
+that there is some duplication here. The
+ 
+
+00:05:46.639 --> 00:05:48.550 align:start position:0%
+that there is some duplication here. The
+duplication<00:05:47.360><c> isn't</c><00:05:47.680><c> really</c><00:05:47.919><c> in</c><00:05:48.160><c> the</c><00:05:48.320><c> test</c>
+
+00:05:48.550 --> 00:05:48.560 align:start position:0%
+duplication isn't really in the test
+ 
+
+00:05:48.560 --> 00:05:50.390 align:start position:0%
+duplication isn't really in the test
+case<00:05:48.800><c> as</c><00:05:49.039><c> much</c><00:05:49.199><c> as</c><00:05:49.360><c> the</c><00:05:49.680><c> knowledge</c><00:05:50.080><c> about</c>
+
+00:05:50.390 --> 00:05:50.400 align:start position:0%
+case as much as the knowledge about
+ 
+
+00:05:50.400 --> 00:05:53.110 align:start position:0%
+case as much as the knowledge about
+testing<00:05:50.800><c> the</c><00:05:50.960><c> rules.</c><00:05:51.759><c> So</c><00:05:52.160><c> when</c><00:05:52.479><c> talking</c><00:05:52.800><c> about</c>
+
+00:05:53.110 --> 00:05:53.120 align:start position:0%
+testing the rules. So when talking about
+ 
+
+00:05:53.120 --> 00:05:55.270 align:start position:0%
+testing the rules. So when talking about
+design,<00:05:53.680><c> I</c><00:05:53.919><c> fall</c><00:05:54.160><c> back</c><00:05:54.240><c> to</c><00:05:54.400><c> the</c><00:05:54.560><c> four</c><00:05:54.800><c> rules</c><00:05:55.120><c> of</c>
+
+00:05:55.270 --> 00:05:55.280 align:start position:0%
+design, I fall back to the four rules of
+ 
+
+00:05:55.280 --> 00:05:58.150 align:start position:0%
+design, I fall back to the four rules of
+simple<00:05:55.600><c> design.</c><00:05:56.639><c> In</c><00:05:56.880><c> this</c><00:05:57.120><c> case,</c><00:05:57.520><c> we</c><00:05:57.759><c> can</c><00:05:57.840><c> see</c>
+
+00:05:58.150 --> 00:05:58.160 align:start position:0%
+simple design. In this case, we can see
+ 
+
+00:05:58.160 --> 00:06:01.029 align:start position:0%
+simple design. In this case, we can see
+duplication<00:05:59.120><c> around</c><00:05:59.600><c> how</c><00:05:59.919><c> to</c><00:06:00.080><c> test.</c><00:06:00.639><c> So</c><00:06:00.800><c> I'm</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+duplication around how to test. So I'm
+ 
+
+00:06:01.039 --> 00:06:02.550 align:start position:0%
+duplication around how to test. So I'm
+going<00:06:01.120><c> to</c><00:06:01.280><c> eliminate</c><00:06:01.680><c> that</c><00:06:02.000><c> duplication</c>
+
+00:06:02.550 --> 00:06:02.560 align:start position:0%
+going to eliminate that duplication
+ 
+
+00:06:02.560 --> 00:06:05.350 align:start position:0%
+going to eliminate that duplication
+right<00:06:02.880><c> away.</c><00:06:03.919><c> This</c><00:06:04.160><c> allows</c><00:06:04.479><c> us</c><00:06:04.639><c> to</c><00:06:04.880><c> extract</c>
+
+00:06:05.350 --> 00:06:05.360 align:start position:0%
+right away. This allows us to extract
+ 
+
+00:06:05.360 --> 00:06:08.070 align:start position:0%
+right away. This allows us to extract
+out<00:06:05.520><c> the</c><00:06:05.840><c> what</c><00:06:06.160><c> we</c><00:06:06.319><c> are</c><00:06:06.479><c> testing</c><00:06:07.280><c> from</c><00:06:07.600><c> the</c><00:06:07.759><c> how</c>
+
+00:06:08.070 --> 00:06:08.080 align:start position:0%
+out the what we are testing from the how
+ 
+
+00:06:08.080 --> 00:06:10.870 align:start position:0%
+out the what we are testing from the how
+we<00:06:08.319><c> are</c><00:06:08.479><c> testing</c><00:06:08.800><c> it.</c><00:06:09.759><c> Really</c><00:06:10.160><c> drawing</c><00:06:10.639><c> our</c>
+
+00:06:10.870 --> 00:06:10.880 align:start position:0%
+we are testing it. Really drawing our
+ 
+
+00:06:10.880 --> 00:06:13.830 align:start position:0%
+we are testing it. Really drawing our
+attention<00:06:11.600><c> to</c><00:06:11.840><c> the</c><00:06:12.080><c> rules</c><00:06:12.400><c> of</c><00:06:12.560><c> the</c><00:06:12.880><c> algorithm</c>
+
+00:06:13.830 --> 00:06:13.840 align:start position:0%
+attention to the rules of the algorithm
+ 
+
+00:06:13.840 --> 00:06:15.270 align:start position:0%
+attention to the rules of the algorithm
+rather<00:06:14.160><c> than</c><00:06:14.400><c> having</c><00:06:14.639><c> to</c><00:06:14.800><c> look</c><00:06:15.039><c> through</c>
+
+00:06:15.270 --> 00:06:15.280 align:start position:0%
+rather than having to look through
+ 
+
+00:06:15.280 --> 00:06:23.670 align:start position:0%
+rather than having to look through
+unnecessary<00:06:16.160><c> noise</c><00:06:16.560><c> to</c><00:06:16.800><c> see</c><00:06:17.039><c> them.</c>
+
+00:06:23.670 --> 00:06:23.680 align:start position:0%
+ 
+ 
+
+00:06:23.680 --> 00:06:26.150 align:start position:0%
+ 
+Whenever<00:06:24.080><c> we</c><00:06:24.240><c> do</c><00:06:24.319><c> a</c><00:06:24.560><c> refactoring,</c><00:06:25.520><c> it's</c><00:06:25.840><c> worth</c>
+
+00:06:26.150 --> 00:06:26.160 align:start position:0%
+Whenever we do a refactoring, it's worth
+ 
+
+00:06:26.160 --> 00:06:27.909 align:start position:0%
+Whenever we do a refactoring, it's worth
+running<00:06:26.400><c> our</c><00:06:26.720><c> test</c><00:06:26.960><c> to</c><00:06:27.199><c> make</c><00:06:27.360><c> sure</c><00:06:27.440><c> that</c><00:06:27.680><c> we're</c>
+
+00:06:27.909 --> 00:06:27.919 align:start position:0%
+running our test to make sure that we're
+ 
+
+00:06:27.919 --> 00:06:30.710 align:start position:0%
+running our test to make sure that we're
+still<00:06:28.160><c> passing.</c><00:06:29.440><c> Then</c><00:06:29.680><c> I</c><00:06:29.840><c> can</c><00:06:30.000><c> delete</c><00:06:30.319><c> the</c><00:06:30.560><c> old</c>
+
+00:06:30.710 --> 00:06:30.720 align:start position:0%
+still passing. Then I can delete the old
+ 
+
+00:06:30.720 --> 00:06:34.150 align:start position:0%
+still passing. Then I can delete the old
+ones.
+
+00:06:34.150 --> 00:06:34.160 align:start position:0%
+ 
+ 
+
+00:06:34.160 --> 00:06:37.110 align:start position:0%
+ 
+It's<00:06:34.479><c> worth</c><00:06:34.720><c> noting</c><00:06:35.360><c> that</c><00:06:35.600><c> I</c><00:06:36.000><c> don't</c><00:06:36.400><c> wrap</c><00:06:36.800><c> the</c>
+
+00:06:37.110 --> 00:06:37.120 align:start position:0%
+It's worth noting that I don't wrap the
+ 
+
+00:06:37.120 --> 00:06:40.550 align:start position:0%
+It's worth noting that I don't wrap the
+zero<00:06:37.600><c> case</c><00:06:37.919><c> into</c><00:06:38.240><c> this.</c><00:06:38.960><c> For</c><00:06:39.199><c> me,</c><00:06:39.680><c> the</c><00:06:40.000><c> zero</c><00:06:40.319><c> is</c>
+
+00:06:40.550 --> 00:06:40.560 align:start position:0%
+zero case into this. For me, the zero is
+ 
+
+00:06:40.560 --> 00:06:43.110 align:start position:0%
+zero case into this. For me, the zero is
+a<00:06:40.720><c> case</c><00:06:41.199><c> that</c><00:06:41.600><c> stands</c><00:06:42.080><c> outside</c><00:06:42.720><c> of</c><00:06:42.880><c> the</c>
+
+00:06:43.110 --> 00:06:43.120 align:start position:0%
+a case that stands outside of the
+ 
+
+00:06:43.120 --> 00:06:45.350 align:start position:0%
+a case that stands outside of the
+standard<00:06:43.600><c> rules.</c><00:06:44.240><c> It</c><00:06:44.400><c> is</c><00:06:44.560><c> an</c><00:06:44.720><c> exceptional</c>
+
+00:06:45.350 --> 00:06:45.360 align:start position:0%
+standard rules. It is an exceptional
+ 
+
+00:06:45.360 --> 00:06:47.430 align:start position:0%
+standard rules. It is an exceptional
+situation,<00:06:46.080><c> and</c><00:06:46.319><c> I</c><00:06:46.479><c> want</c><00:06:46.639><c> to</c><00:06:46.800><c> highlight</c><00:06:47.120><c> it</c>
+
+00:06:47.430 --> 00:06:47.440 align:start position:0%
+situation, and I want to highlight it
+ 
+
+00:06:47.440 --> 00:06:49.350 align:start position:0%
+situation, and I want to highlight it
+separately.
+
+00:06:49.350 --> 00:06:49.360 align:start position:0%
+separately.
+ 
+
+00:06:49.360 --> 00:06:51.270 align:start position:0%
+separately.
+Now<00:06:49.600><c> it</c><00:06:49.759><c> is</c><00:06:49.919><c> time</c><00:06:50.080><c> to</c><00:06:50.319><c> move</c><00:06:50.479><c> up</c><00:06:50.639><c> the</c><00:06:50.800><c> complexity</c>
+
+00:06:51.270 --> 00:06:51.280 align:start position:0%
+Now it is time to move up the complexity
+ 
+
+00:06:51.280 --> 00:06:53.990 align:start position:0%
+Now it is time to move up the complexity
+a<00:06:51.520><c> bit.</c><00:06:52.000><c> We've</c><00:06:52.240><c> seen</c><00:06:52.400><c> a</c><00:06:52.639><c> simple</c><00:06:53.039><c> constant,</c><00:06:53.759><c> a</c>
+
+00:06:53.990 --> 00:06:54.000 align:start position:0%
+a bit. We've seen a simple constant, a
+ 
+
+00:06:54.000 --> 00:06:56.950 align:start position:0%
+a bit. We've seen a simple constant, a
+slightly<00:06:54.400><c> more</c><00:06:54.720><c> complex</c><00:06:55.280><c> constant.</c>
+
+00:06:56.950 --> 00:06:56.960 align:start position:0%
+slightly more complex constant.
+ 
+
+00:06:56.960 --> 00:06:58.950 align:start position:0%
+slightly more complex constant.
+Now<00:06:57.280><c> let's</c><00:06:57.520><c> move</c><00:06:57.680><c> to</c><00:06:57.919><c> something</c><00:06:58.319><c> much</c><00:06:58.720><c> more</c>
+
+00:06:58.950 --> 00:06:58.960 align:start position:0%
+Now let's move to something much more
+ 
+
+00:06:58.960 --> 00:07:01.749 align:start position:0%
+Now let's move to something much more
+complicated,<00:06:59.919><c> the</c><00:07:00.240><c> two.</c>
+
+00:07:01.749 --> 00:07:01.759 align:start position:0%
+complicated, the two.
+ 
+
+00:07:01.759 --> 00:07:03.830 align:start position:0%
+complicated, the two.
+Two<00:07:02.080><c> can</c><00:07:02.240><c> be</c><00:07:02.400><c> thought</c><00:07:02.560><c> of</c><00:07:02.720><c> as</c><00:07:02.880><c> a</c><00:07:03.120><c> vector</c><00:07:03.520><c> or</c>
+
+00:07:03.830 --> 00:07:03.840 align:start position:0%
+Two can be thought of as a vector or
+ 
+
+00:07:03.840 --> 00:07:07.110 align:start position:0%
+Two can be thought of as a vector or
+array<00:07:04.240><c> of</c><00:07:04.400><c> ones.</c><00:07:05.440><c> According</c><00:07:05.840><c> to</c><00:07:06.000><c> the</c><00:07:06.240><c> TPP,</c>
+
+00:07:07.110 --> 00:07:07.120 align:start position:0%
+array of ones. According to the TPP,
+ 
+
+00:07:07.120 --> 00:07:09.909 align:start position:0%
+array of ones. According to the TPP,
+this<00:07:07.360><c> is</c><00:07:07.599><c> much</c><00:07:07.919><c> more</c><00:07:08.240><c> complex</c><00:07:09.039><c> than</c><00:07:09.360><c> a</c><00:07:09.520><c> simple</c>
+
+00:07:09.909 --> 00:07:09.919 align:start position:0%
+this is much more complex than a simple
+ 
+
+00:07:09.919 --> 00:07:12.550 align:start position:0%
+this is much more complex than a simple
+constant<00:07:10.479><c> or</c><00:07:10.800><c> even</c><00:07:10.960><c> a</c><00:07:11.199><c> scaler.</c><00:07:12.240><c> We're</c><00:07:12.479><c> going</c>
+
+00:07:12.550 --> 00:07:12.560 align:start position:0%
+constant or even a scaler. We're going
+ 
+
+00:07:12.560 --> 00:07:14.550 align:start position:0%
+constant or even a scaler. We're going
+to<00:07:12.639><c> get</c><00:07:12.800><c> this</c><00:07:13.039><c> passing</c><00:07:13.520><c> with</c><00:07:13.680><c> our</c><00:07:14.000><c> usual</c>
+
+00:07:14.550 --> 00:07:14.560 align:start position:0%
+to get this passing with our usual
+ 
+
+00:07:14.560 --> 00:07:16.870 align:start position:0%
+to get this passing with our usual
+technique<00:07:15.120><c> of</c><00:07:15.440><c> guard</c><00:07:15.840><c> clause</c><00:07:16.160><c> plus</c><00:07:16.479><c> returning</c>
+
+00:07:16.870 --> 00:07:16.880 align:start position:0%
+technique of guard clause plus returning
+ 
+
+00:07:16.880 --> 00:07:19.510 align:start position:0%
+technique of guard clause plus returning
+a<00:07:17.120><c> constant.</c><00:07:18.240><c> Then</c><00:07:18.560><c> we'll</c><00:07:18.880><c> move</c><00:07:19.039><c> into</c><00:07:19.360><c> the</c>
+
+00:07:19.510 --> 00:07:19.520 align:start position:0%
+a constant. Then we'll move into the
+ 
+
+00:07:19.520 --> 00:07:21.350 align:start position:0%
+a constant. Then we'll move into the
+refactoring<00:07:20.160><c> stage</c><00:07:20.560><c> which</c><00:07:20.720><c> is</c><00:07:20.880><c> where</c><00:07:21.039><c> the</c>
+
+00:07:21.350 --> 00:07:21.360 align:start position:0%
+refactoring stage which is where the
+ 
+
+00:07:21.360 --> 00:07:23.589 align:start position:0%
+refactoring stage which is where the
+real<00:07:21.840><c> excitement</c><00:07:22.240><c> of</c><00:07:22.479><c> this</c><00:07:22.720><c> algorithm</c><00:07:23.360><c> comes</c>
+
+00:07:23.589 --> 00:07:23.599 align:start position:0%
+real excitement of this algorithm comes
+ 
+
+00:07:23.599 --> 00:07:26.390 align:start position:0%
+real excitement of this algorithm comes
+into<00:07:23.919><c> play.</c>
+
+00:07:26.390 --> 00:07:26.400 align:start position:0%
+into play.
+ 
+
+00:07:26.400 --> 00:07:28.550 align:start position:0%
+into play.
+Now<00:07:26.639><c> there's</c><00:07:26.960><c> a</c><00:07:27.120><c> bit</c><00:07:27.280><c> of</c><00:07:27.520><c> subtle</c><00:07:27.919><c> duplication</c>
+
+00:07:28.550 --> 00:07:28.560 align:start position:0%
+Now there's a bit of subtle duplication
+ 
+
+00:07:28.560 --> 00:07:30.550 align:start position:0%
+Now there's a bit of subtle duplication
+here<00:07:28.880><c> and</c><00:07:29.120><c> this</c><00:07:29.280><c> is</c><00:07:29.440><c> going</c><00:07:29.599><c> to</c><00:07:29.759><c> lead</c><00:07:29.919><c> us</c><00:07:30.080><c> to</c><00:07:30.319><c> the</c>
+
+00:07:30.550 --> 00:07:30.560 align:start position:0%
+here and this is going to lead us to the
+ 
+
+00:07:30.560 --> 00:07:32.230 align:start position:0%
+here and this is going to lead us to the
+actual<00:07:31.039><c> algorithm</c><00:07:31.599><c> that</c><00:07:31.840><c> does</c><00:07:32.000><c> the</c>
+
+00:07:32.230 --> 00:07:32.240 align:start position:0%
+actual algorithm that does the
+ 
+
+00:07:32.240 --> 00:07:35.589 align:start position:0%
+actual algorithm that does the
+conversion.<00:07:33.360><c> The</c><00:07:33.759><c> II</c><00:07:34.479><c> is</c><00:07:34.800><c> actually</c><00:07:35.199><c> made</c><00:07:35.440><c> of</c>
+
+00:07:35.589 --> 00:07:35.599 align:start position:0%
+conversion. The II is actually made of
+ 
+
+00:07:35.599 --> 00:07:43.110 align:start position:0%
+conversion. The II is actually made of
+two<00:07:35.919><c> parts</c><00:07:36.880><c> just</c><00:07:37.120><c> like</c><00:07:37.599><c> two</c><00:07:37.919><c> is.</c>
+
+00:07:43.110 --> 00:07:43.120 align:start position:0%
+ 
+ 
+
+00:07:43.120 --> 00:07:46.550 align:start position:0%
+ 
+The<00:07:43.440><c> second</c><00:07:43.919><c> I</c><00:07:44.560><c> can</c><00:07:44.800><c> be</c><00:07:45.039><c> considered</c><00:07:45.680><c> the</c><00:07:46.000><c> same</c>
+
+00:07:46.550 --> 00:07:46.560 align:start position:0%
+The second I can be considered the same
+ 
+
+00:07:46.560 --> 00:07:57.029 align:start position:0%
+The second I can be considered the same
+as<00:07:47.039><c> converting</c><00:07:47.919><c> the</c><00:07:48.240><c> one.</c>
+
+00:07:57.029 --> 00:07:57.039 align:start position:0%
+ 
+ 
+
+00:07:57.039 --> 00:07:59.350 align:start position:0%
+ 
+The<00:07:57.360><c> first</c><00:07:57.680><c> I</c><00:07:57.919><c> is</c><00:07:58.160><c> really</c><00:07:58.400><c> there</c><00:07:58.800><c> because</c><00:07:59.120><c> we</c>
+
+00:07:59.350 --> 00:07:59.360 align:start position:0%
+The first I is really there because we
+ 
+
+00:07:59.360 --> 00:08:01.990 align:start position:0%
+The first I is really there because we
+are<00:07:59.599><c> more</c><00:07:59.840><c> than</c><00:08:00.000><c> one</c><00:08:00.319><c> that</c><00:08:00.560><c> is</c><00:08:00.800><c> two</c><00:08:01.520><c> and</c><00:08:01.759><c> the</c>
+
+00:08:01.990 --> 00:08:02.000 align:start position:0%
+are more than one that is two and the
+ 
+
+00:08:02.000 --> 00:08:05.029 align:start position:0%
+are more than one that is two and the
+one<00:08:02.400><c> is</c><00:08:02.800><c> actually</c><00:08:03.280><c> what</c><00:08:03.520><c> is</c><00:08:03.759><c> left</c><00:08:04.479><c> when</c><00:08:04.720><c> we</c>
+
+00:08:05.029 --> 00:08:05.039 align:start position:0%
+one is actually what is left when we
+ 
+
+00:08:05.039 --> 00:08:08.390 align:start position:0%
+one is actually what is left when we
+remove<00:08:05.440><c> the</c><00:08:05.759><c> first</c><00:08:06.080><c> part</c><00:08:06.319><c> of</c><00:08:06.479><c> the</c><00:08:06.720><c> two.</c><00:08:07.919><c> It's</c><00:08:08.240><c> a</c>
+
+00:08:08.390 --> 00:08:08.400 align:start position:0%
+remove the first part of the two. It's a
+ 
+
+00:08:08.400 --> 00:08:10.309 align:start position:0%
+remove the first part of the two. It's a
+bit<00:08:08.639><c> complicated</c><00:08:09.120><c> to</c><00:08:09.360><c> say,</c><00:08:09.599><c> but</c><00:08:09.840><c> I</c><00:08:10.000><c> hope</c><00:08:10.160><c> you</c>
+
+00:08:10.309 --> 00:08:10.319 align:start position:0%
+bit complicated to say, but I hope you
+ 
+
+00:08:10.319 --> 00:08:16.790 align:start position:0%
+bit complicated to say, but I hope you
+can<00:08:10.560><c> see.</c>
+
+00:08:16.790 --> 00:08:16.800 align:start position:0%
+ 
+ 
+
+00:08:16.800 --> 00:08:19.270 align:start position:0%
+ 
+Now,<00:08:17.440><c> we're</c><00:08:17.680><c> going</c><00:08:17.840><c> to</c><00:08:18.000><c> use</c><00:08:18.240><c> this</c><00:08:18.560><c> technique</c><00:08:18.960><c> a</c>
+
+00:08:19.270 --> 00:08:19.280 align:start position:0%
+Now, we're going to use this technique a
+ 
+
+00:08:19.280 --> 00:08:21.270 align:start position:0%
+Now, we're going to use this technique a
+couple<00:08:19.440><c> times</c><00:08:19.680><c> through</c><00:08:20.000><c> this</c><00:08:20.240><c> refactoring,</c>
+
+00:08:21.270 --> 00:08:21.280 align:start position:0%
+couple times through this refactoring,
+ 
+
+00:08:21.280 --> 00:08:23.990 align:start position:0%
+couple times through this refactoring,
+which<00:08:21.520><c> is</c><00:08:22.160><c> adding</c><00:08:22.639><c> code</c><00:08:23.120><c> and</c><00:08:23.440><c> making</c><00:08:23.759><c> the</c>
+
+00:08:23.990 --> 00:08:24.000 align:start position:0%
+which is adding code and making the
+ 
+
+00:08:24.000 --> 00:08:26.710 align:start position:0%
+which is adding code and making the
+algorithm<00:08:24.800><c> slightly</c><00:08:25.280><c> more</c><00:08:25.680><c> or</c><00:08:26.000><c> in</c><00:08:26.240><c> this</c><00:08:26.400><c> case</c>
+
+00:08:26.710 --> 00:08:26.720 align:start position:0%
+algorithm slightly more or in this case
+ 
+
+00:08:26.720 --> 00:08:29.510 align:start position:0%
+algorithm slightly more or in this case
+much<00:08:27.039><c> more</c><00:08:27.840><c> complex.</c>
+
+00:08:29.510 --> 00:08:29.520 align:start position:0%
+much more complex.
+ 
+
+00:08:29.520 --> 00:08:31.510 align:start position:0%
+much more complex.
+This<00:08:29.680><c> is</c><00:08:29.840><c> a</c><00:08:30.080><c> temporary</c><00:08:30.560><c> situation</c><00:08:31.120><c> in</c><00:08:31.360><c> order</c>
+
+00:08:31.510 --> 00:08:31.520 align:start position:0%
+This is a temporary situation in order
+ 
+
+00:08:31.520 --> 00:08:34.310 align:start position:0%
+This is a temporary situation in order
+to<00:08:31.759><c> drive</c><00:08:32.080><c> out</c><00:08:32.399><c> some</c><00:08:32.719><c> explicit</c><00:08:33.360><c> duplication</c>
+
+00:08:34.310 --> 00:08:34.320 align:start position:0%
+to drive out some explicit duplication
+ 
+
+00:08:34.320 --> 00:08:37.190 align:start position:0%
+to drive out some explicit duplication
+that<00:08:34.560><c> we</c><00:08:34.800><c> can</c><00:08:34.959><c> eliminate.</c><00:08:36.399><c> This</c><00:08:36.719><c> change</c><00:08:36.959><c> has</c>
+
+00:08:37.190 --> 00:08:37.200 align:start position:0%
+that we can eliminate. This change has
+ 
+
+00:08:37.200 --> 00:08:39.110 align:start position:0%
+that we can eliminate. This change has
+highlighted<00:08:37.680><c> a</c><00:08:37.919><c> pretty</c><00:08:38.320><c> clear</c><00:08:38.719><c> piece</c><00:08:38.959><c> of</c>
+
+00:08:39.110 --> 00:08:39.120 align:start position:0%
+highlighted a pretty clear piece of
+ 
+
+00:08:39.120 --> 00:08:42.790 align:start position:0%
+highlighted a pretty clear piece of
+duplication.<00:08:40.399><c> Namely,</c><00:08:41.279><c> on</c><00:08:41.519><c> line</c><00:08:42.000><c> three,</c><00:08:42.560><c> the</c>
+
+00:08:42.790 --> 00:08:42.800 align:start position:0%
+duplication. Namely, on line three, the
+ 
+
+00:08:42.800 --> 00:08:45.829 align:start position:0%
+duplication. Namely, on line three, the
+hard-coded<00:08:43.599><c> return</c><00:08:44.159><c> I</c><00:08:44.399><c> of</c><00:08:44.640><c> in</c><00:08:44.880><c> Arabic</c><00:08:45.440><c> equals</c>
+
+00:08:45.829 --> 00:08:45.839 align:start position:0%
+hard-coded return I of in Arabic equals
+ 
+
+00:08:45.839 --> 00:08:48.630 align:start position:0%
+hard-coded return I of in Arabic equals
+1<00:08:46.720><c> contains</c><00:08:47.120><c> the</c><00:08:47.440><c> same</c><00:08:47.600><c> knowledge</c><00:08:48.000><c> as</c><00:08:48.240><c> what</c><00:08:48.480><c> we</c>
+
+00:08:48.630 --> 00:08:48.640 align:start position:0%
+1 contains the same knowledge as what we
+ 
+
+00:08:48.640 --> 00:08:51.990 align:start position:0%
+1 contains the same knowledge as what we
+just<00:08:48.880><c> wrote</c><00:08:49.200><c> on</c><00:08:49.440><c> line</c><00:08:49.839><c> five.</c><00:08:50.800><c> Since</c><00:08:51.120><c> 1</c><00:08:51.440><c> minus</c><00:08:51.760><c> 1</c>
+
+00:08:51.990 --> 00:08:52.000 align:start position:0%
+just wrote on line five. Since 1 minus 1
+ 
+
+00:08:52.000 --> 00:08:53.990 align:start position:0%
+just wrote on line five. Since 1 minus 1
+is<00:08:52.160><c> zero,</c><00:08:52.560><c> and</c><00:08:52.720><c> the</c><00:08:52.959><c> recursive</c><00:08:53.440><c> call</c><00:08:53.760><c> will</c>
+
+00:08:53.990 --> 00:08:54.000 align:start position:0%
+is zero, and the recursive call will
+ 
+
+00:08:54.000 --> 00:08:57.110 align:start position:0%
+is zero, and the recursive call will
+yield<00:08:54.320><c> an</c><00:08:54.560><c> empty</c><00:08:54.880><c> string.</c><00:08:55.920><c> So,</c><00:08:56.480><c> shifting</c><00:08:56.880><c> the</c>
+
+00:08:57.110 --> 00:08:57.120 align:start position:0%
+yield an empty string. So, shifting the
+ 
+
+00:08:57.120 --> 00:08:59.670 align:start position:0%
+yield an empty string. So, shifting the
+code<00:08:57.279><c> the</c><00:08:57.519><c> way</c><00:08:57.600><c> we</c><00:08:57.839><c> did</c><00:08:58.399><c> allows</c><00:08:58.800><c> us</c><00:08:59.040><c> to</c><00:08:59.200><c> delete</c>
+
+00:08:59.670 --> 00:08:59.680 align:start position:0%
+code the way we did allows us to delete
+ 
+
+00:08:59.680 --> 00:09:04.550 align:start position:0%
+code the way we did allows us to delete
+line<00:09:00.080><c> three.</c>
+
+00:09:04.550 --> 00:09:04.560 align:start position:0%
+ 
+ 
+
+00:09:04.560 --> 00:09:06.230 align:start position:0%
+ 
+I'd<00:09:04.880><c> like</c><00:09:05.040><c> to</c><00:09:05.200><c> take</c><00:09:05.360><c> a</c><00:09:05.600><c> moment</c><00:09:05.760><c> to</c><00:09:05.920><c> point</c><00:09:06.080><c> out</c>
+
+00:09:06.230 --> 00:09:06.240 align:start position:0%
+I'd like to take a moment to point out
+ 
+
+00:09:06.240 --> 00:09:08.949 align:start position:0%
+I'd like to take a moment to point out
+that<00:09:06.399><c> at</c><00:09:06.640><c> each</c><00:09:06.959><c> small</c><00:09:07.519><c> incremental</c><00:09:08.240><c> change,</c>
+
+00:09:08.949 --> 00:09:08.959 align:start position:0%
+that at each small incremental change,
+ 
+
+00:09:08.959 --> 00:09:11.430 align:start position:0%
+that at each small incremental change,
+we<00:09:09.200><c> are</c><00:09:09.440><c> rerunning</c><00:09:09.920><c> our</c><00:09:10.240><c> tests</c><00:09:10.560><c> and</c><00:09:10.880><c> verifying</c>
+
+00:09:11.430 --> 00:09:11.440 align:start position:0%
+we are rerunning our tests and verifying
+ 
+
+00:09:11.440 --> 00:09:13.829 align:start position:0%
+we are rerunning our tests and verifying
+they<00:09:11.600><c> are</c><00:09:11.760><c> still</c><00:09:12.080><c> green.</c><00:09:13.040><c> This</c><00:09:13.279><c> has</c><00:09:13.440><c> a</c><00:09:13.680><c> couple</c>
+
+00:09:13.829 --> 00:09:13.839 align:start position:0%
+they are still green. This has a couple
+ 
+
+00:09:13.839 --> 00:09:16.630 align:start position:0%
+they are still green. This has a couple
+benefits.<00:09:14.880><c> One,</c><00:09:15.200><c> we</c><00:09:15.360><c> can</c><00:09:15.519><c> see</c><00:09:15.680><c> that</c><00:09:15.920><c> we</c><00:09:16.160><c> truly</c>
+
+00:09:16.630 --> 00:09:16.640 align:start position:0%
+benefits. One, we can see that we truly
+ 
+
+00:09:16.640 --> 00:09:19.350 align:start position:0%
+benefits. One, we can see that we truly
+aren't<00:09:17.040><c> changing</c><00:09:17.440><c> any</c><00:09:17.760><c> behavior.</c><00:09:18.560><c> And</c><00:09:18.800><c> two,</c>
+
+00:09:19.350 --> 00:09:19.360 align:start position:0%
+aren't changing any behavior. And two,
+ 
+
+00:09:19.360 --> 00:09:21.670 align:start position:0%
+aren't changing any behavior. And two,
+if<00:09:19.600><c> we</c><00:09:19.839><c> make</c><00:09:20.000><c> a</c><00:09:20.160><c> mistake,</c><00:09:20.640><c> we</c><00:09:20.880><c> can</c><00:09:21.040><c> just</c><00:09:21.279><c> undo</c>
+
+00:09:21.670 --> 00:09:21.680 align:start position:0%
+if we make a mistake, we can just undo
+ 
+
+00:09:21.680 --> 00:09:24.389 align:start position:0%
+if we make a mistake, we can just undo
+our<00:09:21.920><c> last</c><00:09:22.240><c> change.</c><00:09:23.120><c> When</c><00:09:23.440><c> refactoring,</c><00:09:24.240><c> we</c>
+
+00:09:24.389 --> 00:09:24.399 align:start position:0%
+our last change. When refactoring, we
+ 
+
+00:09:24.399 --> 00:09:26.710 align:start position:0%
+our last change. When refactoring, we
+should<00:09:24.560><c> be</c><00:09:24.720><c> keeping</c><00:09:25.040><c> our</c><00:09:25.279><c> test</c><00:09:25.600><c> green</c><00:09:25.920><c> at</c><00:09:26.240><c> each</c>
+
+00:09:26.710 --> 00:09:26.720 align:start position:0%
+should be keeping our test green at each
+ 
+
+00:09:26.720 --> 00:09:29.110 align:start position:0%
+should be keeping our test green at each
+incremental<00:09:27.519><c> step.</c>
+
+00:09:29.110 --> 00:09:29.120 align:start position:0%
+incremental step.
+ 
+
+00:09:29.120 --> 00:09:32.870 align:start position:0%
+incremental step.
+The<00:09:29.440><c> I</c><00:09:29.839><c> and</c><00:09:30.080><c> the</c><00:09:30.399><c> one</c><00:09:30.640><c> on</c><00:09:30.880><c> line</c><00:09:31.200><c> four</c><00:09:32.480><c> are</c>
+
+00:09:32.870 --> 00:09:32.880 align:start position:0%
+The I and the one on line four are
+ 
+
+00:09:32.880 --> 00:09:35.190 align:start position:0%
+The I and the one on line four are
+really<00:09:33.519><c> effectively</c><00:09:34.240><c> representations</c><00:09:35.040><c> of</c>
+
+00:09:35.190 --> 00:09:35.200 align:start position:0%
+really effectively representations of
+ 
+
+00:09:35.200 --> 00:09:37.269 align:start position:0%
+really effectively representations of
+the<00:09:35.440><c> same</c><00:09:35.680><c> thing.</c><00:09:36.320><c> Perhaps</c><00:09:36.640><c> we</c><00:09:36.880><c> could</c><00:09:37.040><c> think</c>
+
+00:09:37.269 --> 00:09:37.279 align:start position:0%
+the same thing. Perhaps we could think
+ 
+
+00:09:37.279 --> 00:09:40.389 align:start position:0%
+the same thing. Perhaps we could think
+them<00:09:37.519><c> of</c><00:09:38.080><c> them</c><00:09:38.320><c> as</c><00:09:38.640><c> conversion</c><00:09:39.279><c> factors.</c>
+
+00:09:40.389 --> 00:09:40.399 align:start position:0%
+them of them as conversion factors.
+ 
+
+00:09:40.399 --> 00:09:42.389 align:start position:0%
+them of them as conversion factors.
+Makes<00:09:40.640><c> sense</c><00:09:40.880><c> to</c><00:09:41.040><c> group</c><00:09:41.360><c> them</c><00:09:41.519><c> into</c><00:09:41.760><c> a</c><00:09:42.000><c> single</c>
+
+00:09:42.389 --> 00:09:42.399 align:start position:0%
+Makes sense to group them into a single
+ 
+
+00:09:42.399 --> 00:09:44.870 align:start position:0%
+Makes sense to group them into a single
+entity.<00:09:42.880><c> There</c>
+
+00:09:44.870 --> 00:09:44.880 align:start position:0%
+entity. There
+ 
+
+00:09:44.880 --> 00:09:46.790 align:start position:0%
+entity. There
+here<00:09:45.120><c> we</c><00:09:45.360><c> fall</c><00:09:45.680><c> back</c><00:09:45.839><c> on</c><00:09:46.000><c> a</c><00:09:46.160><c> technique</c><00:09:46.480><c> we've</c>
+
+00:09:46.790 --> 00:09:46.800 align:start position:0%
+here we fall back on a technique we've
+ 
+
+00:09:46.800 --> 00:09:49.350 align:start position:0%
+here we fall back on a technique we've
+seen<00:09:46.959><c> before</c><00:09:47.839><c> introducing</c><00:09:48.480><c> duplication</c><00:09:49.120><c> in</c>
+
+00:09:49.350 --> 00:09:49.360 align:start position:0%
+seen before introducing duplication in
+ 
+
+00:09:49.360 --> 00:09:51.350 align:start position:0%
+seen before introducing duplication in
+order<00:09:49.600><c> to</c><00:09:49.760><c> coax</c><00:09:50.160><c> the</c><00:09:50.320><c> algorithm</c><00:09:50.800><c> towards</c><00:09:51.120><c> a</c>
+
+00:09:51.350 --> 00:09:51.360 align:start position:0%
+order to coax the algorithm towards a
+ 
+
+00:09:51.360 --> 00:09:54.710 align:start position:0%
+order to coax the algorithm towards a
+simpler<00:09:51.760><c> form.</c><00:09:52.959><c> Line</c><00:09:53.360><c> four</c><00:09:54.080><c> where</c><00:09:54.320><c> we</c><00:09:54.480><c> are</c>
+
+00:09:54.710 --> 00:09:54.720 align:start position:0%
+simpler form. Line four where we are
+ 
+
+00:09:54.720 --> 00:09:57.509 align:start position:0%
+simpler form. Line four where we are
+specifying<00:09:55.279><c> the</c><00:09:55.600><c> conversion</c><00:09:56.160><c> factor</c><00:09:56.880><c> is</c><00:09:57.200><c> the</c>
+
+00:09:57.509 --> 00:09:57.519 align:start position:0%
+specifying the conversion factor is the
+ 
+
+00:09:57.519 --> 00:10:00.230 align:start position:0%
+specifying the conversion factor is the
+same<00:09:57.839><c> idea</c><00:09:58.160><c> as</c><00:09:58.480><c> line</c><00:09:58.880><c> three</c><00:09:59.680><c> just</c><00:09:59.920><c> in</c><00:10:00.080><c> a</c>
+
+00:10:00.230 --> 00:10:00.240 align:start position:0%
+same idea as line three just in a
+ 
+
+00:10:00.240 --> 00:10:03.670 align:start position:0%
+same idea as line three just in a
+different<00:10:00.560><c> format.</c><00:10:01.920><c> Line</c><00:10:02.320><c> three</c><00:10:03.120><c> is</c><00:10:03.440><c> saying</c>
+
+00:10:03.670 --> 00:10:03.680 align:start position:0%
+different format. Line three is saying
+ 
+
+00:10:03.680 --> 00:10:06.949 align:start position:0%
+different format. Line three is saying
+that<00:10:04.160><c> five</c><00:10:04.560><c> goes</c><00:10:04.880><c> to</c><00:10:05.040><c> V</c><00:10:05.680><c> and</c><00:10:06.000><c> line</c><00:10:06.320><c> four</c><00:10:06.720><c> says</c>
+
+00:10:06.949 --> 00:10:06.959 align:start position:0%
+that five goes to V and line four says
+ 
+
+00:10:06.959 --> 00:10:10.070 align:start position:0%
+that five goes to V and line four says
+that<00:10:07.279><c> one</c><00:10:07.600><c> goes</c><00:10:07.839><c> to</c><00:10:08.000><c> I.</c><00:10:09.120><c> The</c><00:10:09.440><c> ordering</c><00:10:09.839><c> is</c>
+
+00:10:10.070 --> 00:10:10.080 align:start position:0%
+that one goes to I. The ordering is
+ 
+
+00:10:10.080 --> 00:10:11.750 align:start position:0%
+that one goes to I. The ordering is
+important<00:10:10.560><c> of</c><00:10:10.800><c> course</c><00:10:11.040><c> which</c><00:10:11.279><c> is</c><00:10:11.360><c> why</c><00:10:11.519><c> the</c>
+
+00:10:11.750 --> 00:10:11.760 align:start position:0%
+important of course which is why the
+ 
+
+00:10:11.760 --> 00:10:15.190 align:start position:0%
+important of course which is why the
+guard<00:10:12.080><c> clause</c><00:10:12.399><c> for</c><00:10:12.720><c> five</c><00:10:13.040><c> comes</c><00:10:13.440><c> first.</c>
+
+00:10:15.190 --> 00:10:15.200 align:start position:0%
+guard clause for five comes first.
+ 
+
+00:10:15.200 --> 00:10:17.990 align:start position:0%
+guard clause for five comes first.
+We<00:10:15.519><c> can</c><00:10:15.680><c> highlight</c><00:10:16.240><c> this</c><00:10:16.720><c> duplication</c><00:10:17.440><c> of</c>
+
+00:10:17.990 --> 00:10:18.000 align:start position:0%
+We can highlight this duplication of
+ 
+
+00:10:18.000 --> 00:10:20.230 align:start position:0%
+We can highlight this duplication of
+style<00:10:18.399><c> of</c><00:10:18.640><c> looking</c><00:10:18.880><c> up</c><00:10:19.200><c> conversion</c><00:10:19.680><c> factor,</c>
+
+00:10:20.230 --> 00:10:20.240 align:start position:0%
+style of looking up conversion factor,
+ 
+
+00:10:20.240 --> 00:10:22.790 align:start position:0%
+style of looking up conversion factor,
+if<00:10:20.399><c> you</c><00:10:20.480><c> will,</c><00:10:21.120><c> by</c><00:10:21.440><c> adding</c><00:10:21.839><c> code</c><00:10:22.079><c> to</c><00:10:22.320><c> our</c><00:10:22.560><c> new</c>
+
+00:10:22.790 --> 00:10:22.800 align:start position:0%
+if you will, by adding code to our new
+ 
+
+00:10:22.800 --> 00:10:25.110 align:start position:0%
+if you will, by adding code to our new
+conversion<00:10:23.360><c> factor</c><00:10:23.760><c> technique</c><00:10:24.480><c> on</c><00:10:24.800><c> line</c>
+
+00:10:25.110 --> 00:10:25.120 align:start position:0%
+conversion factor technique on line
+ 
+
+00:10:25.120 --> 00:10:27.990 align:start position:0%
+conversion factor technique on line
+four.<00:10:26.480><c> We'll</c><00:10:26.800><c> have</c><00:10:26.959><c> to</c><00:10:27.200><c> be</c><00:10:27.360><c> careful</c><00:10:27.600><c> to</c><00:10:27.839><c> put</c>
+
+00:10:27.990 --> 00:10:28.000 align:start position:0%
+four. We'll have to be careful to put
+ 
+
+00:10:28.000 --> 00:10:30.389 align:start position:0%
+four. We'll have to be careful to put
+the<00:10:28.320><c> five</c><00:10:28.800><c> in</c><00:10:29.040><c> the</c><00:10:29.279><c> right</c><00:10:29.519><c> place</c><00:10:29.760><c> and</c><00:10:30.000><c> grab</c><00:10:30.240><c> it</c>
+
+00:10:30.389 --> 00:10:30.399 align:start position:0%
+the five in the right place and grab it
+ 
+
+00:10:30.399 --> 00:10:32.870 align:start position:0%
+the five in the right place and grab it
+when<00:10:30.640><c> appropriate.</c><00:10:31.760><c> That's</c><00:10:32.079><c> why</c><00:10:32.240><c> we</c><00:10:32.480><c> use</c><00:10:32.640><c> the</c>
+
+00:10:32.870 --> 00:10:32.880 align:start position:0%
+when appropriate. That's why we use the
+ 
+
+00:10:32.880 --> 00:10:35.430 align:start position:0%
+when appropriate. That's why we use the
+less<00:10:33.120><c> than</c><00:10:33.279><c> or</c><00:10:33.519><c> equals</c><00:10:34.640><c> because</c><00:10:34.880><c> we</c><00:10:35.120><c> want</c><00:10:35.279><c> to</c>
+
+00:10:35.430 --> 00:10:35.440 align:start position:0%
+less than or equals because we want to
+ 
+
+00:10:35.440 --> 00:10:37.750 align:start position:0%
+less than or equals because we want to
+find<00:10:35.600><c> the</c><00:10:35.839><c> five</c><00:10:36.079><c> when</c><00:10:36.320><c> we</c><00:10:36.480><c> have</c><00:10:36.720><c> five,</c><00:10:37.279><c> but</c><00:10:37.519><c> the</c>
+
+00:10:37.750 --> 00:10:37.760 align:start position:0%
+find the five when we have five, but the
+ 
+
+00:10:37.760 --> 00:10:40.790 align:start position:0%
+find the five when we have five, but the
+one<00:10:38.079><c> when</c><00:10:38.320><c> we</c><00:10:38.480><c> have</c><00:10:38.720><c> two</c><00:10:38.880><c> or</c><00:10:39.200><c> one.</c>
+
+00:10:40.790 --> 00:10:40.800 align:start position:0%
+one when we have two or one.
+ 
+
+00:10:40.800 --> 00:10:43.030 align:start position:0%
+one when we have two or one.
+Just<00:10:41.040><c> as</c><00:10:41.279><c> a</c><00:10:41.440><c> side</c><00:10:41.680><c> note,</c><00:10:42.160><c> I'm</c><00:10:42.480><c> using</c><00:10:42.720><c> an</c>
+
+00:10:43.030 --> 00:10:43.040 align:start position:0%
+Just as a side note, I'm using an
+ 
+
+00:10:43.040 --> 00:10:45.430 align:start position:0%
+Just as a side note, I'm using an
+underscore<00:10:43.920><c> in</c><00:10:44.240><c> my</c><00:10:44.399><c> predicate</c><00:10:44.880><c> to</c><00:10:45.040><c> find</c><00:10:45.200><c> the</c>
+
+00:10:45.430 --> 00:10:45.440 align:start position:0%
+underscore in my predicate to find the
+ 
+
+00:10:45.440 --> 00:10:48.150 align:start position:0%
+underscore in my predicate to find the
+conversion<00:10:45.920><c> factors</c><00:10:46.800><c> to</c><00:10:47.120><c> accentuate</c><00:10:47.839><c> the</c>
+
+00:10:48.150 --> 00:10:48.160 align:start position:0%
+conversion factors to accentuate the
+ 
+
+00:10:48.160 --> 00:10:50.310 align:start position:0%
+conversion factors to accentuate the
+fact<00:10:48.320><c> that</c><00:10:48.560><c> the</c><00:10:48.800><c> lookup</c><00:10:49.279><c> isn't</c><00:10:49.680><c> dependent</c><00:10:50.079><c> on</c>
+
+00:10:50.310 --> 00:10:50.320 align:start position:0%
+fact that the lookup isn't dependent on
+ 
+
+00:10:50.320 --> 00:10:52.790 align:start position:0%
+fact that the lookup isn't dependent on
+the<00:10:50.560><c> second</c><00:10:50.880><c> part</c><00:10:51.120><c> of</c><00:10:51.279><c> the</c><00:10:51.440><c> array,</c><00:10:52.160><c> that</c><00:10:52.399><c> is</c>
+
+00:10:52.790 --> 00:10:52.800 align:start position:0%
+the second part of the array, that is
+ 
+
+00:10:52.800 --> 00:10:55.590 align:start position:0%
+the second part of the array, that is
+the<00:10:53.120><c> Roman</c><00:10:53.600><c> equivalent.</c>
+
+00:10:55.590 --> 00:10:55.600 align:start position:0%
+the Roman equivalent.
+ 
+
+00:10:55.600 --> 00:10:58.630 align:start position:0%
+the Roman equivalent.
+Now,<00:10:56.079><c> seeing</c><00:10:56.399><c> this</c><00:10:56.720><c> pass,</c><00:10:57.760><c> we</c><00:10:58.000><c> can</c><00:10:58.160><c> eliminate</c>
+
+00:10:58.630 --> 00:10:58.640 align:start position:0%
+Now, seeing this pass, we can eliminate
+ 
+
+00:10:58.640 --> 00:11:01.590 align:start position:0%
+Now, seeing this pass, we can eliminate
+the<00:10:58.880><c> duplication</c><00:11:00.320><c> we</c><00:11:00.640><c> just</c><00:11:00.959><c> added</c><00:11:01.360><c> by</c>
+
+00:11:01.590 --> 00:11:01.600 align:start position:0%
+the duplication we just added by
+ 
+
+00:11:01.600 --> 00:11:06.150 align:start position:0%
+the duplication we just added by
+deleting<00:11:02.079><c> line</c><00:11:02.480><c> three.</c>
+
+00:11:06.150 --> 00:11:06.160 align:start position:0%
+ 
+ 
+
+00:11:06.160 --> 00:11:08.310 align:start position:0%
+ 
+Now,<00:11:06.399><c> we</c><00:11:06.640><c> have</c><00:11:06.720><c> a</c><00:11:06.880><c> working</c><00:11:07.279><c> algorithm,</c><00:11:08.079><c> but</c>
+
+00:11:08.310 --> 00:11:08.320 align:start position:0%
+Now, we have a working algorithm, but
+ 
+
+00:11:08.320 --> 00:11:11.190 align:start position:0%
+Now, we have a working algorithm, but
+our<00:11:08.640><c> design</c><00:11:09.040><c> isn't</c><00:11:09.440><c> done.</c><00:11:10.399><c> Applying</c><00:11:10.800><c> the</c><00:11:10.959><c> four</c>
+
+00:11:11.190 --> 00:11:11.200 align:start position:0%
+our design isn't done. Applying the four
+ 
+
+00:11:11.200 --> 00:11:12.710 align:start position:0%
+our design isn't done. Applying the four
+rules<00:11:11.440><c> of</c><00:11:11.600><c> simple</c><00:11:11.920><c> design,</c><00:11:12.320><c> I'm</c><00:11:12.480><c> going</c><00:11:12.560><c> to</c>
+
+00:11:12.710 --> 00:11:12.720 align:start position:0%
+rules of simple design, I'm going to
+ 
+
+00:11:12.720 --> 00:11:15.430 align:start position:0%
+rules of simple design, I'm going to
+call<00:11:13.040><c> a</c><00:11:13.360><c> huge</c><00:11:13.920><c> violation</c><00:11:14.480><c> here</c><00:11:14.720><c> of</c><00:11:14.959><c> revealing</c>
+
+00:11:15.430 --> 00:11:15.440 align:start position:0%
+call a huge violation here of revealing
+ 
+
+00:11:15.440 --> 00:11:18.630 align:start position:0%
+call a huge violation here of revealing
+intention.<00:11:16.880><c> It</c><00:11:17.040><c> is</c><00:11:17.200><c> a</c><00:11:17.440><c> very</c><00:11:17.760><c> compact</c><00:11:18.320><c> method</c>
+
+00:11:18.630 --> 00:11:18.640 align:start position:0%
+intention. It is a very compact method
+ 
+
+00:11:18.640 --> 00:11:20.630 align:start position:0%
+intention. It is a very compact method
+and<00:11:18.880><c> I</c><00:11:19.040><c> can</c><00:11:19.200><c> see</c><00:11:19.360><c> that</c><00:11:19.519><c> it</c><00:11:19.760><c> is</c><00:11:19.920><c> looking</c><00:11:20.240><c> up</c><00:11:20.480><c> in</c>
+
+00:11:20.630 --> 00:11:20.640 align:start position:0%
+and I can see that it is looking up in
+ 
+
+00:11:20.640 --> 00:11:22.870 align:start position:0%
+and I can see that it is looking up in
+the<00:11:20.800><c> array.</c><00:11:21.760><c> However,</c><00:11:22.160><c> this</c><00:11:22.399><c> method</c><00:11:22.720><c> is</c>
+
+00:11:22.870 --> 00:11:22.880 align:start position:0%
+the array. However, this method is
+ 
+
+00:11:22.880 --> 00:11:25.269 align:start position:0%
+the array. However, this method is
+crossing<00:11:23.360><c> abstraction</c><00:11:24.160><c> layers.</c><00:11:24.880><c> One</c><00:11:25.040><c> of</c><00:11:25.120><c> the</c>
+
+00:11:25.269 --> 00:11:25.279 align:start position:0%
+crossing abstraction layers. One of the
+ 
+
+00:11:25.279 --> 00:11:27.269 align:start position:0%
+crossing abstraction layers. One of the
+guiding<00:11:25.680><c> principles</c><00:11:26.079><c> I</c><00:11:26.320><c> use</c><00:11:26.560><c> when</c><00:11:26.800><c> reviewing</c>
+
+00:11:27.269 --> 00:11:27.279 align:start position:0%
+guiding principles I use when reviewing
+ 
+
+00:11:27.279 --> 00:11:29.910 align:start position:0%
+guiding principles I use when reviewing
+my<00:11:27.519><c> code</c><00:11:27.839><c> for</c><00:11:28.240><c> dunnness</c><00:11:29.120><c> is</c><00:11:29.440><c> whether</c><00:11:29.680><c> the</c>
+
+00:11:29.910 --> 00:11:29.920 align:start position:0%
+my code for dunnness is whether the
+ 
+
+00:11:29.920 --> 00:11:31.670 align:start position:0%
+my code for dunnness is whether the
+methods<00:11:30.320><c> really</c><00:11:30.560><c> stay</c><00:11:30.800><c> at</c><00:11:30.959><c> a</c><00:11:31.200><c> consistent</c>
+
+00:11:31.670 --> 00:11:31.680 align:start position:0%
+methods really stay at a consistent
+ 
+
+00:11:31.680 --> 00:11:34.870 align:start position:0%
+methods really stay at a consistent
+level<00:11:31.920><c> of</c><00:11:32.160><c> abstraction.</c><00:11:33.440><c> This</c><00:11:33.600><c> one</c><00:11:33.920><c> doesn't.</c>
+
+00:11:34.870 --> 00:11:34.880 align:start position:0%
+level of abstraction. This one doesn't.
+ 
+
+00:11:34.880 --> 00:11:36.710 align:start position:0%
+level of abstraction. This one doesn't.
+It<00:11:35.120><c> is</c><00:11:35.279><c> responsible</c><00:11:35.839><c> for</c><00:11:36.160><c> doing</c><00:11:36.399><c> the</c>
+
+00:11:36.710 --> 00:11:36.720 align:start position:0%
+It is responsible for doing the
+ 
+
+00:11:36.720 --> 00:11:39.430 align:start position:0%
+It is responsible for doing the
+conversion,<00:11:37.440><c> but</c><00:11:37.680><c> it</c><00:11:37.920><c> also</c><00:11:38.320><c> drops</c><00:11:38.720><c> down</c><00:11:39.040><c> into</c>
+
+00:11:39.430 --> 00:11:39.440 align:start position:0%
+conversion, but it also drops down into
+ 
+
+00:11:39.440 --> 00:11:41.430 align:start position:0%
+conversion, but it also drops down into
+actually<00:11:39.920><c> looking</c><00:11:40.240><c> up</c><00:11:40.480><c> what</c><00:11:40.720><c> the</c><00:11:40.959><c> conversion</c>
+
+00:11:41.430 --> 00:11:41.440 align:start position:0%
+actually looking up what the conversion
+ 
+
+00:11:41.440 --> 00:11:44.310 align:start position:0%
+actually looking up what the conversion
+factors<00:11:41.920><c> are.</c><00:11:42.720><c> So,</c><00:11:43.200><c> let's</c><00:11:43.519><c> do</c><00:11:43.680><c> a</c><00:11:43.920><c> simple</c>
+
+00:11:44.310 --> 00:11:44.320 align:start position:0%
+factors are. So, let's do a simple
+ 
+
+00:11:44.320 --> 00:11:46.949 align:start position:0%
+factors are. So, let's do a simple
+extract<00:11:44.880><c> method</c><00:11:45.519><c> to</c><00:11:45.760><c> give</c><00:11:46.000><c> ourselves</c><00:11:46.399><c> a</c><00:11:46.640><c> nice</c>
+
+00:11:46.949 --> 00:11:46.959 align:start position:0%
+extract method to give ourselves a nice
+ 
+
+00:11:46.959 --> 00:12:06.710 align:start position:0%
+extract method to give ourselves a nice
+named<00:11:47.279><c> abstraction</c><00:11:47.920><c> for</c><00:11:48.160><c> what</c><00:11:48.399><c> we're</c><00:11:48.640><c> doing.</c>
+
+00:12:06.710 --> 00:12:06.720 align:start position:0%
+ 
+ 
+
+00:12:06.720 --> 00:12:08.710 align:start position:0%
+ 
+This<00:12:06.959><c> new</c><00:12:07.200><c> method</c><00:12:07.519><c> is</c><00:12:07.680><c> focused</c><00:12:08.000><c> on</c><00:12:08.240><c> looking</c><00:12:08.560><c> up</c>
+
+00:12:08.710 --> 00:12:08.720 align:start position:0%
+This new method is focused on looking up
+ 
+
+00:12:08.720 --> 00:12:10.790 align:start position:0%
+This new method is focused on looking up
+the<00:12:08.959><c> conversion</c><00:12:09.440><c> factors.</c><00:12:10.240><c> That's</c><00:12:10.560><c> pretty</c>
+
+00:12:10.790 --> 00:12:10.800 align:start position:0%
+the conversion factors. That's pretty
+ 
+
+00:12:10.800 --> 00:12:13.990 align:start position:0%
+the conversion factors. That's pretty
+nice.<00:12:11.760><c> But</c><00:12:12.000><c> we</c><00:12:12.240><c> have</c><00:12:12.399><c> this</c><00:12:12.880><c> ugly</c><00:12:13.279><c> naked</c><00:12:13.680><c> array</c>
+
+00:12:13.990 --> 00:12:14.000 align:start position:0%
+nice. But we have this ugly naked array
+ 
+
+00:12:14.000 --> 00:12:16.470 align:start position:0%
+nice. But we have this ugly naked array
+that<00:12:14.240><c> I'd</c><00:12:14.480><c> like</c><00:12:14.639><c> to</c><00:12:14.720><c> give</c><00:12:14.880><c> a</c><00:12:15.120><c> name</c><00:12:15.279><c> to.</c><00:12:16.240><c> I'd</c>
+
+00:12:16.470 --> 00:12:16.480 align:start position:0%
+that I'd like to give a name to. I'd
+ 
+
+00:12:16.480 --> 00:12:18.230 align:start position:0%
+that I'd like to give a name to. I'd
+like<00:12:16.639><c> to</c><00:12:16.800><c> separate</c><00:12:17.120><c> out</c><00:12:17.279><c> the</c><00:12:17.519><c> responsibility</c>
+
+00:12:18.230 --> 00:12:18.240 align:start position:0%
+like to separate out the responsibility
+ 
+
+00:12:18.240 --> 00:12:20.870 align:start position:0%
+like to separate out the responsibility
+of<00:12:18.480><c> looking</c><00:12:18.880><c> up</c><00:12:19.200><c> the</c><00:12:19.440><c> conversion</c><00:12:20.000><c> factors</c>
+
+00:12:20.870 --> 00:12:20.880 align:start position:0%
+of looking up the conversion factors
+ 
+
+00:12:20.880 --> 00:12:23.030 align:start position:0%
+of looking up the conversion factors
+from<00:12:21.120><c> the</c><00:12:21.360><c> task</c><00:12:21.680><c> of</c><00:12:21.920><c> creating</c><00:12:22.320><c> the</c><00:12:22.560><c> factors</c>
+
+00:12:23.030 --> 00:12:23.040 align:start position:0%
+from the task of creating the factors
+ 
+
+00:12:23.040 --> 00:12:25.590 align:start position:0%
+from the task of creating the factors
+themselves.<00:12:24.079><c> Let's</c><00:12:24.320><c> extract</c><00:12:24.800><c> this</c><00:12:25.040><c> into</c><00:12:25.360><c> a</c>
+
+00:12:25.590 --> 00:12:25.600 align:start position:0%
+themselves. Let's extract this into a
+ 
+
+00:12:25.600 --> 00:12:37.190 align:start position:0%
+themselves. Let's extract this into a
+constant.
+
+00:12:37.190 --> 00:12:37.200 align:start position:0%
+ 
+ 
+
+00:12:37.200 --> 00:12:40.150 align:start position:0%
+ 
+At<00:12:37.440><c> this</c><00:12:37.600><c> point,</c><00:12:37.839><c> we</c><00:12:38.160><c> have</c><00:12:38.399><c> our</c><00:12:38.720><c> algorithm.</c><00:12:39.920><c> We</c>
+
+00:12:40.150 --> 00:12:40.160 align:start position:0%
+At this point, we have our algorithm. We
+ 
+
+00:12:40.160 --> 00:12:44.949 align:start position:0%
+At this point, we have our algorithm. We
+don't<00:12:40.320><c> have</c><00:12:40.480><c> the</c><00:12:40.720><c> program</c><00:12:41.200><c> complete.</c>
+
+00:12:44.949 --> 00:12:44.959 align:start position:0%
+ 
+ 
+
+00:12:44.959 --> 00:12:47.910 align:start position:0%
+ 
+We're<00:12:45.279><c> still</c><00:12:45.600><c> missing</c><00:12:46.079><c> some</c><00:12:46.399><c> rules,</c><00:12:47.440><c> but</c><00:12:47.680><c> the</c>
+
+00:12:47.910 --> 00:12:47.920 align:start position:0%
+We're still missing some rules, but the
+ 
+
+00:12:47.920 --> 00:12:50.389 align:start position:0%
+We're still missing some rules, but the
+TDD,<00:12:48.560><c> the</c><00:12:48.880><c> design</c><00:12:49.360><c> aspect</c><00:12:49.760><c> is</c><00:12:50.000><c> fairly</c>
+
+00:12:50.389 --> 00:12:50.399 align:start position:0%
+TDD, the design aspect is fairly
+ 
+
+00:12:50.399 --> 00:12:53.190 align:start position:0%
+TDD, the design aspect is fairly
+complete.<00:12:51.440><c> Instead,</c><00:12:52.399><c> now</c><00:12:52.720><c> I'm</c><00:12:52.959><c> going</c><00:12:53.040><c> to</c>
+
+00:12:53.190 --> 00:12:53.200 align:start position:0%
+complete. Instead, now I'm going to
+ 
+
+00:12:53.200 --> 00:12:56.069 align:start position:0%
+complete. Instead, now I'm going to
+focus<00:12:53.519><c> on</c><00:12:53.760><c> writing</c><00:12:54.160><c> verification</c><00:12:55.120><c> tests</c><00:12:55.760><c> to</c>
+
+00:12:56.069 --> 00:12:56.079 align:start position:0%
+focus on writing verification tests to
+ 
+
+00:12:56.079 --> 00:12:58.230 align:start position:0%
+focus on writing verification tests to
+drive<00:12:56.320><c> out</c><00:12:56.560><c> the</c><00:12:56.720><c> missing</c><00:12:57.200><c> requirements,</c>
+
+00:12:58.230 --> 00:12:58.240 align:start position:0%
+drive out the missing requirements,
+ 
+
+00:12:58.240 --> 00:13:00.150 align:start position:0%
+drive out the missing requirements,
+namely<00:12:58.959><c> the</c><00:12:59.200><c> rest</c><00:12:59.360><c> of</c><00:12:59.519><c> the</c><00:12:59.680><c> conversion</c>
+
+00:13:00.150 --> 00:13:00.160 align:start position:0%
+namely the rest of the conversion
+ 
+
+00:13:00.160 --> 00:13:05.110 align:start position:0%
+namely the rest of the conversion
+factors.
+
+00:13:05.110 --> 00:13:05.120 align:start position:0%
+ 
+ 
+
+00:13:05.120 --> 00:13:07.110 align:start position:0%
+ 
+I<00:13:05.360><c> like</c><00:13:05.519><c> to</c><00:13:05.680><c> keep</c><00:13:05.920><c> my</c><00:13:06.079><c> tests</c><00:13:06.399><c> in</c><00:13:06.560><c> numerical</c>
+
+00:13:07.110 --> 00:13:07.120 align:start position:0%
+I like to keep my tests in numerical
+ 
+
+00:13:07.120 --> 00:13:08.629 align:start position:0%
+I like to keep my tests in numerical
+order.<00:13:07.440><c> So,</c><00:13:07.519><c> I'm</c><00:13:07.680><c> going</c><00:13:07.760><c> to</c><00:13:07.839><c> move</c><00:13:08.000><c> that</c><00:13:08.399><c> two</c>
+
+00:13:08.629 --> 00:13:08.639 align:start position:0%
+order. So, I'm going to move that two
+ 
+
+00:13:08.639 --> 00:13:12.150 align:start position:0%
+order. So, I'm going to move that two
+up.
+
+00:13:12.150 --> 00:13:12.160 align:start position:0%
+ 
+ 
+
+00:13:12.160 --> 00:13:13.829 align:start position:0%
+ 
+Now,<00:13:12.399><c> let's</c><00:13:12.639><c> move</c><00:13:12.800><c> to</c><00:13:12.959><c> the</c><00:13:13.120><c> next</c><00:13:13.360><c> conversion</c>
+
+00:13:13.829 --> 00:13:13.839 align:start position:0%
+Now, let's move to the next conversion
+ 
+
+00:13:13.839 --> 00:13:16.310 align:start position:0%
+Now, let's move to the next conversion
+that<00:13:14.000><c> is</c><00:13:14.240><c> part</c><00:13:14.399><c> of</c><00:13:14.480><c> the</c><00:13:14.639><c> rules</c><00:13:15.360><c> four.</c><00:13:16.000><c> We</c><00:13:16.240><c> can</c>
+
+00:13:16.310 --> 00:13:16.320 align:start position:0%
+that is part of the rules four. We can
+ 
+
+00:13:16.320 --> 00:13:19.030 align:start position:0%
+that is part of the rules four. We can
+put<00:13:16.480><c> it</c><00:13:16.639><c> in</c><00:13:16.800><c> our</c><00:13:16.959><c> example</c><00:13:17.360><c> list.</c><00:13:18.560><c> Don't</c><00:13:18.800><c> forget</c>
+
+00:13:19.030 --> 00:13:19.040 align:start position:0%
+put it in our example list. Don't forget
+ 
+
+00:13:19.040 --> 00:13:21.590 align:start position:0%
+put it in our example list. Don't forget
+to<00:13:19.200><c> see</c><00:13:19.279><c> the</c><00:13:19.440><c> test</c><00:13:19.760><c> fail.</c>
+
+00:13:21.590 --> 00:13:21.600 align:start position:0%
+to see the test fail.
+ 
+
+00:13:21.600 --> 00:13:23.670 align:start position:0%
+to see the test fail.
+and<00:13:21.760><c> then</c><00:13:22.079><c> easily</c><00:13:22.639><c> add</c><00:13:22.880><c> it</c><00:13:23.040><c> up</c><00:13:23.200><c> into</c><00:13:23.440><c> our</c>
+
+00:13:23.670 --> 00:13:23.680 align:start position:0%
+and then easily add it up into our
+ 
+
+00:13:23.680 --> 00:13:31.430 align:start position:0%
+and then easily add it up into our
+conversion<00:13:24.240><c> factor</c><00:13:24.639><c> list.</c><00:13:24.959><c> Now,</c>
+
+00:13:31.430 --> 00:13:31.440 align:start position:0%
+ 
+ 
+
+00:13:31.440 --> 00:13:32.870 align:start position:0%
+ 
+once<00:13:31.760><c> passing,</c><00:13:32.160><c> I'm</c><00:13:32.320><c> going</c><00:13:32.399><c> to</c><00:13:32.480><c> move</c><00:13:32.560><c> it</c><00:13:32.720><c> up</c>
+
+00:13:32.870 --> 00:13:32.880 align:start position:0%
+once passing, I'm going to move it up
+ 
+
+00:13:32.880 --> 00:13:36.389 align:start position:0%
+once passing, I'm going to move it up
+into<00:13:33.040><c> its</c><00:13:33.279><c> numerical</c><00:13:33.839><c> place.</c>
+
+00:13:36.389 --> 00:13:36.399 align:start position:0%
+into its numerical place.
+ 
+
+00:13:36.399 --> 00:13:38.470 align:start position:0%
+into its numerical place.
+In<00:13:36.639><c> some</c><00:13:36.959><c> implementations</c><00:13:37.680><c> that</c><00:13:37.920><c> I've</c><00:13:38.160><c> seen,</c>
+
+00:13:38.470 --> 00:13:38.480 align:start position:0%
+In some implementations that I've seen,
+ 
+
+00:13:38.480 --> 00:13:40.710 align:start position:0%
+In some implementations that I've seen,
+there's<00:13:38.720><c> a</c><00:13:38.880><c> lot</c><00:13:39.040><c> of</c><00:13:39.200><c> effort</c><00:13:39.600><c> put</c><00:13:39.839><c> in</c><00:13:40.320><c> to</c>
+
+00:13:40.710 --> 00:13:40.720 align:start position:0%
+there's a lot of effort put in to
+ 
+
+00:13:40.720 --> 00:13:44.470 align:start position:0%
+there's a lot of effort put in to
+calculating<00:13:41.360><c> the</c><00:13:41.680><c> four,</c><00:13:42.560><c> the</c><00:13:42.880><c> IV,</c><00:13:44.000><c> and</c><00:13:44.160><c> thus</c>
+
+00:13:44.470 --> 00:13:44.480 align:start position:0%
+calculating the four, the IV, and thus
+ 
+
+00:13:44.480 --> 00:13:48.389 align:start position:0%
+calculating the four, the IV, and thus
+the<00:13:44.720><c> 9,</c><00:13:45.120><c> the</c><00:13:45.440><c> 40,</c><00:13:45.839><c> the</c><00:13:46.079><c> 90</c><00:13:46.720><c> as</c><00:13:47.120><c> offsets.</c>
+
+00:13:48.389 --> 00:13:48.399 align:start position:0%
+the 9, the 40, the 90 as offsets.
+ 
+
+00:13:48.399 --> 00:13:50.870 align:start position:0%
+the 9, the 40, the 90 as offsets.
+However,<00:13:49.040><c> I</c><00:13:49.360><c> think</c><00:13:49.519><c> that</c><00:13:49.760><c> adds</c><00:13:50.160><c> complexity</c><00:13:50.720><c> to</c>
+
+00:13:50.870 --> 00:13:50.880 align:start position:0%
+However, I think that adds complexity to
+ 
+
+00:13:50.880 --> 00:13:53.350 align:start position:0%
+However, I think that adds complexity to
+the<00:13:51.120><c> algorithm</c><00:13:51.600><c> and</c><00:13:51.920><c> also</c><00:13:52.560><c> perhaps</c><00:13:53.120><c> more</c>
+
+00:13:53.350 --> 00:13:53.360 align:start position:0%
+the algorithm and also perhaps more
+ 
+
+00:13:53.360 --> 00:13:55.990 align:start position:0%
+the algorithm and also perhaps more
+importantly<00:13:54.399><c> hides</c><00:13:54.800><c> an</c><00:13:55.040><c> important</c><00:13:55.440><c> aspect</c><00:13:55.839><c> of</c>
+
+00:13:55.990 --> 00:13:56.000 align:start position:0%
+importantly hides an important aspect of
+ 
+
+00:13:56.000 --> 00:13:58.790 align:start position:0%
+importantly hides an important aspect of
+the<00:13:56.160><c> Roman</c><00:13:56.560><c> numeral</c><00:13:57.040><c> counting</c><00:13:57.519><c> system.</c><00:13:58.560><c> By</c>
+
+00:13:58.790 --> 00:13:58.800 align:start position:0%
+the Roman numeral counting system. By
+ 
+
+00:13:58.800 --> 00:14:02.310 align:start position:0%
+the Roman numeral counting system. By
+keeping<00:13:59.199><c> the</c><00:13:59.519><c> four,</c><00:13:59.920><c> the</c><00:14:00.160><c> 9,</c><00:14:00.560><c> the</c><00:14:00.800><c> 40</c><00:14:01.760><c> offsets</c>
+
+00:14:02.310 --> 00:14:02.320 align:start position:0%
+keeping the four, the 9, the 40 offsets
+ 
+
+00:14:02.320 --> 00:14:04.949 align:start position:0%
+keeping the four, the 9, the 40 offsets
+in<00:14:02.560><c> our</c><00:14:02.800><c> conversion</c><00:14:03.279><c> chart,</c><00:14:04.079><c> we</c><00:14:04.320><c> provide</c><00:14:04.639><c> a</c>
+
+00:14:04.949 --> 00:14:04.959 align:start position:0%
+in our conversion chart, we provide a
+ 
+
+00:14:04.959 --> 00:14:07.829 align:start position:0%
+in our conversion chart, we provide a
+very<00:14:05.279><c> clear</c><00:14:05.600><c> documentation</c><00:14:06.720><c> of</c><00:14:07.040><c> how</c><00:14:07.360><c> Roman</c>
+
+00:14:07.829 --> 00:14:07.839 align:start position:0%
+very clear documentation of how Roman
+ 
+
+00:14:07.839 --> 00:14:10.710 align:start position:0%
+very clear documentation of how Roman
+numerals<00:14:08.480><c> look.</c>
+
+00:14:10.710 --> 00:14:10.720 align:start position:0%
+numerals look.
+ 
+
+00:14:10.720 --> 00:14:12.389 align:start position:0%
+numerals look.
+Now<00:14:10.959><c> since</c><00:14:11.199><c> we</c><00:14:11.440><c> are</c><00:14:11.600><c> moving</c><00:14:11.920><c> now</c><00:14:12.160><c> to</c>
+
+00:14:12.389 --> 00:14:12.399 align:start position:0%
+Now since we are moving now to
+ 
+
+00:14:12.399 --> 00:14:15.030 align:start position:0%
+Now since we are moving now to
+verification<00:14:13.279><c> oriented</c><00:14:13.760><c> tests,</c><00:14:14.639><c> I</c><00:14:14.800><c> want</c><00:14:14.880><c> to</c>
+
+00:14:15.030 --> 00:14:15.040 align:start position:0%
+verification oriented tests, I want to
+ 
+
+00:14:15.040 --> 00:14:16.870 align:start position:0%
+verification oriented tests, I want to
+make<00:14:15.199><c> sure</c><00:14:15.360><c> that</c><00:14:15.600><c> the</c><00:14:15.839><c> important</c><00:14:16.240><c> parts</c><00:14:16.639><c> the</c>
+
+00:14:16.870 --> 00:14:16.880 align:start position:0%
+make sure that the important parts the
+ 
+
+00:14:16.880 --> 00:14:19.189 align:start position:0%
+make sure that the important parts the
+conversion<00:14:17.360><c> list</c><00:14:17.600><c> and</c><00:14:17.760><c> the</c><00:14:18.000><c> example</c><00:14:18.399><c> list</c><00:14:18.959><c> are</c>
+
+00:14:19.189 --> 00:14:19.199 align:start position:0%
+conversion list and the example list are
+ 
+
+00:14:19.199 --> 00:14:21.750 align:start position:0%
+conversion list and the example list are
+readily<00:14:19.680><c> accessible.</c><00:14:21.040><c> Adding</c><00:14:21.440><c> more</c>
+
+00:14:21.750 --> 00:14:21.760 align:start position:0%
+readily accessible. Adding more
+ 
+
+00:14:21.760 --> 00:14:23.910 align:start position:0%
+readily accessible. Adding more
+conversions<00:14:22.320><c> is</c><00:14:22.639><c> going</c><00:14:22.720><c> to</c><00:14:22.959><c> drop</c><00:14:23.199><c> the</c><00:14:23.440><c> example</c>
+
+00:14:23.910 --> 00:14:23.920 align:start position:0%
+conversions is going to drop the example
+ 
+
+00:14:23.920 --> 00:14:26.629 align:start position:0%
+conversions is going to drop the example
+list<00:14:24.399><c> down</c><00:14:24.639><c> the</c><00:14:24.880><c> page,</c><00:14:25.600><c> forcing</c><00:14:26.000><c> me</c><00:14:26.160><c> to</c><00:14:26.320><c> scroll</c>
+
+00:14:26.629 --> 00:14:26.639 align:start position:0%
+list down the page, forcing me to scroll
+ 
+
+00:14:26.639 --> 00:14:29.269 align:start position:0%
+list down the page, forcing me to scroll
+back<00:14:26.800><c> and</c><00:14:27.040><c> forth.</c><00:14:27.920><c> So</c><00:14:28.560><c> I'm</c><00:14:28.800><c> going</c><00:14:28.880><c> to</c><00:14:28.959><c> do</c><00:14:29.040><c> a</c>
+
+00:14:29.269 --> 00:14:29.279 align:start position:0%
+back and forth. So I'm going to do a
+ 
+
+00:14:29.279 --> 00:14:31.509 align:start position:0%
+back and forth. So I'm going to do a
+quick<00:14:29.519><c> split</c><00:14:29.920><c> window</c><00:14:30.240><c> so</c><00:14:30.480><c> I</c><00:14:30.639><c> can</c><00:14:30.800><c> easily</c><00:14:31.199><c> pop</c>
+
+00:14:31.509 --> 00:14:31.519 align:start position:0%
+quick split window so I can easily pop
+ 
+
+00:14:31.519 --> 00:14:33.269 align:start position:0%
+quick split window so I can easily pop
+back<00:14:31.680><c> and</c><00:14:31.920><c> forth</c><00:14:32.160><c> between</c><00:14:32.399><c> the</c><00:14:32.639><c> two</c><00:14:32.800><c> lists</c><00:14:33.040><c> and</c>
+
+00:14:33.269 --> 00:14:33.279 align:start position:0%
+back and forth between the two lists and
+ 
+
+00:14:33.279 --> 00:14:37.269 align:start position:0%
+back and forth between the two lists and
+keep<00:14:33.440><c> them</c><00:14:33.600><c> in</c><00:14:33.760><c> sight.</c>
+
+00:14:37.269 --> 00:14:37.279 align:start position:0%
+ 
+ 
+
+00:14:37.279 --> 00:14:39.990 align:start position:0%
+ 
+So<00:14:37.920><c> the</c><00:14:38.240><c> first</c><00:14:38.480><c> verification</c><00:14:39.199><c> test</c><00:14:39.519><c> before</c><00:14:39.760><c> I</c>
+
+00:14:39.990 --> 00:14:40.000 align:start position:0%
+So the first verification test before I
+ 
+
+00:14:40.000 --> 00:14:41.829 align:start position:0%
+So the first verification test before I
+move<00:14:40.160><c> into</c><00:14:40.480><c> just</c><00:14:40.720><c> implementing</c><00:14:41.199><c> the</c><00:14:41.440><c> straight</c>
+
+00:14:41.829 --> 00:14:41.839 align:start position:0%
+move into just implementing the straight
+ 
+
+00:14:41.839 --> 00:14:44.230 align:start position:0%
+move into just implementing the straight
+conversions<00:14:42.480><c> is</c><00:14:42.720><c> a</c><00:14:42.959><c> slightly</c><00:14:43.360><c> more</c><00:14:43.680><c> complex</c>
+
+00:14:44.230 --> 00:14:44.240 align:start position:0%
+conversions is a slightly more complex
+ 
+
+00:14:44.240 --> 00:14:46.870 align:start position:0%
+conversions is a slightly more complex
+vector<00:14:44.720><c> than</c><00:14:44.959><c> two.</c><00:14:45.920><c> In</c><00:14:46.160><c> this</c><00:14:46.320><c> case,</c><00:14:46.480><c> I'm</c><00:14:46.720><c> using</c>
+
+00:14:46.870 --> 00:14:46.880 align:start position:0%
+vector than two. In this case, I'm using
+ 
+
+00:14:46.880 --> 00:14:49.269 align:start position:0%
+vector than two. In this case, I'm using
+a<00:14:47.199><c> six.</c><00:14:48.079><c> I</c><00:14:48.320><c> want</c><00:14:48.399><c> to</c><00:14:48.560><c> make</c><00:14:48.720><c> sure</c><00:14:48.800><c> that</c><00:14:49.040><c> the</c>
+
+00:14:49.269 --> 00:14:49.279 align:start position:0%
+a six. I want to make sure that the
+ 
+
+00:14:49.279 --> 00:14:51.590 align:start position:0%
+a six. I want to make sure that the
+recursion<00:14:49.839><c> and</c><00:14:50.079><c> the</c><00:14:50.240><c> lookup</c><00:14:51.040><c> work</c><00:14:51.360><c> well</c>
+
+00:14:51.590 --> 00:14:51.600 align:start position:0%
+recursion and the lookup work well
+ 
+
+00:14:51.600 --> 00:14:54.150 align:start position:0%
+recursion and the lookup work well
+together.<00:14:51.920><c> When</c><00:14:52.160><c> I'm</c><00:14:52.320><c> converting</c><00:14:53.760><c> two</c>
+
+00:14:54.150 --> 00:14:54.160 align:start position:0%
+together. When I'm converting two
+ 
+
+00:14:54.160 --> 00:14:55.990 align:start position:0%
+together. When I'm converting two
+different<00:14:54.399><c> types</c><00:14:54.720><c> of</c><00:14:54.880><c> numbers,</c><00:14:55.279><c> the</c><00:14:55.519><c> six</c><00:14:55.839><c> will</c>
+
+00:14:55.990 --> 00:14:56.000 align:start position:0%
+different types of numbers, the six will
+ 
+
+00:14:56.000 --> 00:14:59.269 align:start position:0%
+different types of numbers, the six will
+be<00:14:56.160><c> both</c><00:14:56.320><c> an</c><00:14:56.560><c> I</c><00:14:56.959><c> and</c><00:14:57.279><c> a</c><00:14:57.440><c> V.</c><00:14:58.240><c> I</c><00:14:58.480><c> expect</c><00:14:58.800><c> this</c><00:14:59.040><c> to</c>
+
+00:14:59.269 --> 00:14:59.279 align:start position:0%
+be both an I and a V. I expect this to
+ 
+
+00:14:59.279 --> 00:15:04.870 align:start position:0%
+be both an I and a V. I expect this to
+pass<00:14:59.680><c> right</c><00:15:00.000><c> out</c><00:15:00.160><c> of</c><00:15:00.240><c> the</c><00:15:00.399><c> gate,</c><00:15:01.360><c> and</c><00:15:01.600><c> it</c><00:15:01.839><c> does.</c>
+
+00:15:04.870 --> 00:15:04.880 align:start position:0%
+ 
+ 
+
+00:15:04.880 --> 00:15:06.949 align:start position:0%
+ 
+The<00:15:05.120><c> rest</c><00:15:05.279><c> of</c><00:15:05.360><c> the</c><00:15:05.600><c> kotta</c><00:15:06.000><c> is</c><00:15:06.240><c> just</c><00:15:06.480><c> jumping</c>
+
+00:15:06.949 --> 00:15:06.959 align:start position:0%
+The rest of the kotta is just jumping
+ 
+
+00:15:06.959 --> 00:15:09.110 align:start position:0%
+The rest of the kotta is just jumping
+back<00:15:07.120><c> and</c><00:15:07.360><c> forth</c><00:15:07.760><c> adding</c><00:15:08.079><c> tests</c><00:15:08.480><c> for</c><00:15:08.720><c> each</c><00:15:08.959><c> of</c>
+
+00:15:09.110 --> 00:15:09.120 align:start position:0%
+back and forth adding tests for each of
+ 
+
+00:15:09.120 --> 00:15:11.430 align:start position:0%
+back and forth adding tests for each of
+the<00:15:09.360><c> individual</c><00:15:10.000><c> conversion</c><00:15:10.560><c> factors</c><00:15:11.120><c> from</c>
+
+00:15:11.430 --> 00:15:11.440 align:start position:0%
+the individual conversion factors from
+ 
+
+00:15:11.440 --> 00:15:15.030 align:start position:0%
+the individual conversion factors from
+10<00:15:11.920><c> up</c><00:15:12.160><c> to</c><00:15:12.399><c> a</c><00:15:12.639><c> thousand.</c><00:15:13.839><c> Let's</c><00:15:14.160><c> speed</c><00:15:14.480><c> this</c><00:15:14.800><c> up</c>
+
+00:15:15.030 --> 00:15:15.040 align:start position:0%
+10 up to a thousand. Let's speed this up
+ 
+
+00:15:15.040 --> 00:15:16.629 align:start position:0%
+10 up to a thousand. Let's speed this up
+a<00:15:15.279><c> little</c><00:15:15.360><c> bit</c><00:15:15.600><c> since</c><00:15:15.839><c> it</c><00:15:16.079><c> isn't</c><00:15:16.240><c> the</c><00:15:16.480><c> most</c>
+
+00:15:16.629 --> 00:15:16.639 align:start position:0%
+a little bit since it isn't the most
+ 
+
+00:15:16.639 --> 00:15:18.550 align:start position:0%
+a little bit since it isn't the most
+exciting<00:15:17.040><c> and</c><00:15:17.360><c> there</c><00:15:17.519><c> isn't</c><00:15:17.839><c> a</c><00:15:18.000><c> lot</c><00:15:18.160><c> to</c><00:15:18.320><c> say</c>
+
+00:15:18.550 --> 00:15:18.560 align:start position:0%
+exciting and there isn't a lot to say
+ 
+
+00:15:18.560 --> 00:15:22.069 align:start position:0%
+exciting and there isn't a lot to say
+about<00:15:18.800><c> it.</c>
+
+00:15:22.069 --> 00:15:22.079 align:start position:0%
+ 
+ 
+
+00:15:22.079 --> 00:15:24.069 align:start position:0%
+ 
+And<00:15:22.320><c> also</c><00:15:22.560><c> it</c><00:15:22.800><c> makes</c><00:15:22.959><c> it</c><00:15:23.120><c> look</c><00:15:23.279><c> like</c><00:15:23.440><c> I</c><00:15:23.680><c> type</c>
+
+00:15:24.069 --> 00:15:24.079 align:start position:0%
+And also it makes it look like I type
+ 
+
+00:15:24.079 --> 00:15:34.310 align:start position:0%
+And also it makes it look like I type
+really<00:15:24.560><c> fast.</c>
+
+00:15:34.310 --> 00:15:34.320 align:start position:0%
+ 
+ 
+
+00:15:34.320 --> 00:15:36.069 align:start position:0%
+ 
+As<00:15:34.480><c> we</c><00:15:34.720><c> come</c><00:15:34.800><c> to</c><00:15:34.959><c> the</c><00:15:35.120><c> end,</c><00:15:35.360><c> I</c><00:15:35.519><c> want</c><00:15:35.600><c> to</c><00:15:35.760><c> put</c><00:15:35.839><c> a</c>
+
+00:15:36.069 --> 00:15:36.079 align:start position:0%
+As we come to the end, I want to put a
+ 
+
+00:15:36.079 --> 00:15:38.069 align:start position:0%
+As we come to the end, I want to put a
+final<00:15:36.480><c> verification</c><00:15:37.279><c> for</c><00:15:37.519><c> a</c><00:15:37.680><c> number</c><00:15:37.839><c> that</c>
+
+00:15:38.069 --> 00:15:38.079 align:start position:0%
+final verification for a number that
+ 
+
+00:15:38.079 --> 00:15:40.389 align:start position:0%
+final verification for a number that
+uses<00:15:38.480><c> a</c><00:15:38.639><c> quite</c><00:15:38.880><c> a</c><00:15:39.040><c> few</c><00:15:39.279><c> of</c><00:15:39.440><c> the</c><00:15:39.680><c> conversions</c>
+
+00:15:40.389 --> 00:15:40.399 align:start position:0%
+uses a quite a few of the conversions
+ 
+
+00:15:40.399 --> 00:15:43.269 align:start position:0%
+uses a quite a few of the conversions
+just<00:15:40.639><c> for</c><00:15:40.800><c> good</c><00:15:41.040><c> measure.</c><00:15:41.920><c> In</c><00:15:42.160><c> this</c><00:15:42.320><c> case,</c>
+
+00:15:43.269 --> 00:15:43.279 align:start position:0%
+just for good measure. In this case,
+ 
+
+00:15:43.279 --> 00:15:47.829 align:start position:0%
+just for good measure. In this case,
+we'll<00:15:43.519><c> do</c><00:15:43.839><c> 34.97.</c>
+
+00:15:47.829 --> 00:15:47.839 align:start position:0%
+ 
+ 
+
+00:15:47.839 --> 00:15:53.670 align:start position:0%
+ 
+Counting<00:15:48.320><c> it</c><00:15:48.480><c> out.</c>
+
+00:15:53.670 --> 00:15:53.680 align:start position:0%
+ 
+ 
+
+00:15:53.680 --> 00:15:56.150 align:start position:0%
+ 
+And<00:15:54.000><c> sure</c><00:15:54.240><c> enough,</c><00:15:54.639><c> it</c><00:15:54.959><c> passes</c><00:15:55.600><c> and</c><00:15:55.920><c> we're</c>
+
+00:15:56.150 --> 00:15:56.160 align:start position:0%
+And sure enough, it passes and we're
+ 
+
+00:15:56.160 --> 00:15:58.230 align:start position:0%
+And sure enough, it passes and we're
+done.
+
+00:15:58.230 --> 00:15:58.240 align:start position:0%
+done.
+ 
+
+00:15:58.240 --> 00:16:00.150 align:start position:0%
+done.
+I<00:15:58.480><c> hope</c><00:15:58.639><c> you</c><00:15:58.800><c> enjoyed</c><00:15:59.120><c> this</c><00:15:59.360><c> kata</c><00:15:59.759><c> cast</c><00:16:00.000><c> with</c>
+
+00:16:00.150 --> 00:16:00.160 align:start position:0%
+I hope you enjoyed this kata cast with
+ 
+
+00:16:00.160 --> 00:16:02.389 align:start position:0%
+I hope you enjoyed this kata cast with
+commentary.<00:16:01.279><c> One</c><00:16:01.519><c> of</c><00:16:01.600><c> the</c><00:16:01.759><c> beauties</c><00:16:02.160><c> of</c>
+
+00:16:02.389 --> 00:16:02.399 align:start position:0%
+commentary. One of the beauties of
+ 
+
+00:16:02.399 --> 00:16:04.790 align:start position:0%
+commentary. One of the beauties of
+practicing<00:16:02.880><c> a</c><00:16:03.120><c> kata</c><00:16:03.519><c> like</c><00:16:03.680><c> this</c><00:16:04.160><c> is</c><00:16:04.399><c> that</c><00:16:04.560><c> you</c>
+
+00:16:04.790 --> 00:16:04.800 align:start position:0%
+practicing a kata like this is that you
+ 
+
+00:16:04.800 --> 00:16:07.670 align:start position:0%
+practicing a kata like this is that you
+can<00:16:04.959><c> take</c><00:16:05.279><c> time</c><00:16:05.519><c> to</c><00:16:05.839><c> focus</c><00:16:06.160><c> on</c><00:16:06.399><c> the</c><00:16:06.639><c> very</c><00:16:07.199><c> small</c>
+
+00:16:07.670 --> 00:16:07.680 align:start position:0%
+can take time to focus on the very small
+ 
+
+00:16:07.680 --> 00:16:10.069 align:start position:0%
+can take time to focus on the very small
+details,<00:16:08.320><c> the</c><00:16:08.639><c> decisions</c><00:16:09.199><c> you</c><00:16:09.440><c> make</c><00:16:09.600><c> at</c><00:16:09.839><c> each</c>
+
+00:16:10.069 --> 00:16:10.079 align:start position:0%
+details, the decisions you make at each
+ 
+
+00:16:10.079 --> 00:16:12.710 align:start position:0%
+details, the decisions you make at each
+step<00:16:10.320><c> of</c><00:16:10.399><c> the</c><00:16:10.639><c> way.</c><00:16:11.440><c> By</c><00:16:11.759><c> practicing</c><00:16:12.399><c> them</c>
+
+00:16:12.710 --> 00:16:12.720 align:start position:0%
+step of the way. By practicing them
+ 
+
+00:16:12.720 --> 00:16:14.790 align:start position:0%
+step of the way. By practicing them
+repeatedly<00:16:13.199><c> in</c><00:16:13.440><c> an</c><00:16:13.600><c> environment</c><00:16:14.160><c> such</c><00:16:14.399><c> as</c><00:16:14.639><c> a</c>
+
+00:16:14.790 --> 00:16:14.800 align:start position:0%
+repeatedly in an environment such as a
+ 
+
+00:16:14.800 --> 00:16:17.269 align:start position:0%
+repeatedly in an environment such as a
+kata,<00:16:15.519><c> you</c><00:16:15.759><c> make</c><00:16:15.920><c> the</c><00:16:16.160><c> thoughts</c><00:16:16.480><c> and</c><00:16:16.800><c> ideas</c>
+
+00:16:17.269 --> 00:16:17.279 align:start position:0%
+kata, you make the thoughts and ideas
+ 
+
+00:16:17.279 --> 00:16:19.670 align:start position:0%
+kata, you make the thoughts and ideas
+your<00:16:17.600><c> own.</c><00:16:18.320><c> So</c><00:16:18.480><c> you</c><00:16:18.720><c> won't</c><00:16:18.959><c> have</c><00:16:19.120><c> to</c><00:16:19.360><c> think</c>
+
+00:16:19.670 --> 00:16:19.680 align:start position:0%
+your own. So you won't have to think
+ 
+
+00:16:19.680 --> 00:16:21.430 align:start position:0%
+your own. So you won't have to think
+quite<00:16:20.000><c> so</c><00:16:20.240><c> much</c><00:16:20.480><c> about</c><00:16:20.720><c> them</c><00:16:20.880><c> when</c><00:16:21.120><c> you</c><00:16:21.279><c> are</c>
+
+00:16:21.430 --> 00:16:21.440 align:start position:0%
+quite so much about them when you are
+ 
+
+00:16:21.440 --> 00:16:23.749 align:start position:0%
+quite so much about them when you are
+writing<00:16:21.759><c> production</c><00:16:22.240><c> code.</c><00:16:23.360><c> When</c><00:16:23.600><c> you're</c>
+
+00:16:23.749 --> 00:16:23.759 align:start position:0%
+writing production code. When you're
+ 
+
+00:16:23.759 --> 00:16:25.430 align:start position:0%
+writing production code. When you're
+doing<00:16:24.000><c> that,</c><00:16:24.240><c> you</c><00:16:24.480><c> need</c><00:16:24.560><c> to</c><00:16:24.720><c> be</c><00:16:24.800><c> a</c><00:16:25.040><c> bit</c><00:16:25.199><c> more</c>
+
+00:16:25.430 --> 00:16:25.440 align:start position:0%
+doing that, you need to be a bit more
+ 
+
+00:16:25.440 --> 00:16:27.509 align:start position:0%
+doing that, you need to be a bit more
+efficient<00:16:25.839><c> and</c><00:16:26.160><c> not</c><00:16:26.399><c> think</c><00:16:26.639><c> about</c><00:16:27.040><c> every</c>
+
+00:16:27.509 --> 00:16:27.519 align:start position:0%
+efficient and not think about every
+ 
+
+00:16:27.519 --> 00:16:30.710 align:start position:0%
+efficient and not think about every
+single<00:16:28.000><c> step</c><00:16:28.240><c> of</c><00:16:28.399><c> the</c><00:16:28.560><c> way.</c>
+
+00:16:30.710 --> 00:16:30.720 align:start position:0%
+single step of the way.
+ 
+
+00:16:30.720 --> 00:16:34.680 align:start position:0%
+single step of the way.
+Well,<00:16:31.279><c> happy</c><00:16:31.680><c> coding.</c>
+

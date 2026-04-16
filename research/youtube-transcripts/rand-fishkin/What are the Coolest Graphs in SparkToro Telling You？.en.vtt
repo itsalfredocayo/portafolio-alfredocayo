@@ -1,0 +1,880 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.719 --> 00:00:02.790 align:start position:0%
+ 
+Okay,<00:00:01.120><c> friends,</c><00:00:01.600><c> we</c><00:00:01.839><c> need</c><00:00:02.000><c> to</c><00:00:02.159><c> have</c><00:00:02.320><c> a</c><00:00:02.560><c> little</c>
+
+00:00:02.790 --> 00:00:02.800 align:start position:0%
+Okay, friends, we need to have a little
+ 
+
+00:00:02.800 --> 00:00:05.110 align:start position:0%
+Okay, friends, we need to have a little
+conversation<00:00:03.760><c> about</c><00:00:04.240><c> this.</c><00:00:04.640><c> It's</c><00:00:04.799><c> it's</c>
+
+00:00:05.110 --> 00:00:05.120 align:start position:0%
+conversation about this. It's it's
+ 
+
+00:00:05.120 --> 00:00:07.349 align:start position:0%
+conversation about this. It's it's
+what's<00:00:05.920><c> been</c><00:00:06.160><c> called</c><00:00:06.319><c> the</c><00:00:06.560><c> coolest</c><00:00:06.960><c> graph</c><00:00:07.200><c> in</c>
+
+00:00:07.349 --> 00:00:07.359 align:start position:0%
+what's been called the coolest graph in
+ 
+
+00:00:07.359 --> 00:00:09.589 align:start position:0%
+what's been called the coolest graph in
+Spark<00:00:07.759><c> Toro.</c><00:00:08.320><c> Uh</c><00:00:08.559><c> I</c><00:00:08.720><c> I</c><00:00:09.040><c> kind</c><00:00:09.200><c> of</c><00:00:09.280><c> agree</c><00:00:09.440><c> with</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+Spark Toro. Uh I I kind of agree with
+ 
+
+00:00:09.599 --> 00:00:12.310 align:start position:0%
+Spark Toro. Uh I I kind of agree with
+that.<00:00:09.760><c> I</c><00:00:10.000><c> think</c><00:00:10.080><c> this</c><00:00:10.320><c> graph</c><00:00:10.559><c> is</c><00:00:10.800><c> amazing,</c><00:00:11.440><c> but</c>
+
+00:00:12.310 --> 00:00:12.320 align:start position:0%
+that. I think this graph is amazing, but
+ 
+
+00:00:12.320 --> 00:00:14.310 align:start position:0%
+that. I think this graph is amazing, but
+there's<00:00:12.559><c> a</c><00:00:12.719><c> lot</c><00:00:12.800><c> of</c><00:00:12.880><c> misinterpretation</c><00:00:13.759><c> about</c>
+
+00:00:14.310 --> 00:00:14.320 align:start position:0%
+there's a lot of misinterpretation about
+ 
+
+00:00:14.320 --> 00:00:16.390 align:start position:0%
+there's a lot of misinterpretation about
+what<00:00:14.880><c> we're</c><00:00:15.280><c> talking</c><00:00:15.599><c> about</c><00:00:15.839><c> when</c><00:00:16.080><c> we</c><00:00:16.240><c> show</c>
+
+00:00:16.390 --> 00:00:16.400 align:start position:0%
+what we're talking about when we show
+ 
+
+00:00:16.400 --> 00:00:18.230 align:start position:0%
+what we're talking about when we show
+this<00:00:16.640><c> data.</c><00:00:16.960><c> So,</c><00:00:17.119><c> let</c><00:00:17.359><c> let</c><00:00:17.600><c> me</c><00:00:17.680><c> just</c><00:00:17.840><c> walk</c><00:00:18.080><c> you</c>
+
+00:00:18.230 --> 00:00:18.240 align:start position:0%
+this data. So, let let me just walk you
+ 
+
+00:00:18.240 --> 00:00:20.390 align:start position:0%
+this data. So, let let me just walk you
+through<00:00:18.400><c> it</c><00:00:18.880><c> real</c><00:00:19.199><c> quickly.</c><00:00:20.000><c> Basically,</c>
+
+00:00:20.390 --> 00:00:20.400 align:start position:0%
+through it real quickly. Basically,
+ 
+
+00:00:20.400 --> 00:00:21.590 align:start position:0%
+through it real quickly. Basically,
+what's<00:00:20.640><c> happened</c><00:00:20.800><c> here</c><00:00:20.960><c> is</c><00:00:21.119><c> I've</c><00:00:21.359><c> searched</c>
+
+00:00:21.590 --> 00:00:21.600 align:start position:0%
+what's happened here is I've searched
+ 
+
+00:00:21.600 --> 00:00:23.269 align:start position:0%
+what's happened here is I've searched
+for<00:00:21.840><c> people</c><00:00:22.000><c> whose</c><00:00:22.320><c> profile</c><00:00:22.800><c> contains</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+for people whose profile contains
+ 
+
+00:00:23.279 --> 00:00:24.950 align:start position:0%
+for people whose profile contains
+fashion<00:00:23.600><c> designer.</c><00:00:24.000><c> And</c><00:00:24.160><c> Spark</c><00:00:24.480><c> Turo</c><00:00:24.800><c> has</c>
+
+00:00:24.950 --> 00:00:24.960 align:start position:0%
+fashion designer. And Spark Turo has
+ 
+
+00:00:24.960 --> 00:00:27.990 align:start position:0%
+fashion designer. And Spark Turo has
+data<00:00:25.199><c> on</c><00:00:25.640><c> 35,000</c><00:00:26.640><c> accounts</c><00:00:27.279><c> in</c><00:00:27.519><c> the</c><00:00:27.760><c> United</c>
+
+00:00:27.990 --> 00:00:28.000 align:start position:0%
+data on 35,000 accounts in the United
+ 
+
+00:00:28.000 --> 00:00:30.550 align:start position:0%
+data on 35,000 accounts in the United
+States<00:00:28.640><c> whose</c><00:00:29.279><c> profile,</c><00:00:29.920><c> right,</c><00:00:30.080><c> their</c><00:00:30.320><c> their</c>
+
+00:00:30.550 --> 00:00:30.560 align:start position:0%
+States whose profile, right, their their
+ 
+
+00:00:30.560 --> 00:00:32.790 align:start position:0%
+States whose profile, right, their their
+LinkedIn<00:00:31.039><c> profile</c><00:00:31.760><c> contains</c><00:00:32.160><c> the</c><00:00:32.399><c> word</c>
+
+00:00:32.790 --> 00:00:32.800 align:start position:0%
+LinkedIn profile contains the word
+ 
+
+00:00:32.800 --> 00:00:35.190 align:start position:0%
+LinkedIn profile contains the word
+fashion<00:00:33.480><c> designer.</c><00:00:34.480><c> And</c><00:00:34.640><c> you</c><00:00:34.880><c> can</c><00:00:34.960><c> see</c><00:00:35.040><c> a</c>
+
+00:00:35.190 --> 00:00:35.200 align:start position:0%
+fashion designer. And you can see a
+ 
+
+00:00:35.200 --> 00:00:36.310 align:start position:0%
+fashion designer. And you can see a
+whole<00:00:35.280><c> bunch</c><00:00:35.440><c> of</c><00:00:35.600><c> other</c><00:00:35.760><c> information</c><00:00:36.079><c> about</c>
+
+00:00:36.310 --> 00:00:36.320 align:start position:0%
+whole bunch of other information about
+ 
+
+00:00:36.320 --> 00:00:38.950 align:start position:0%
+whole bunch of other information about
+them.<00:00:36.800><c> But</c><00:00:36.960><c> these</c><00:00:37.360><c> two</c><00:00:37.600><c> graphs</c><00:00:38.239><c> both</c><00:00:38.480><c> use</c><00:00:38.719><c> the</c>
+
+00:00:38.950 --> 00:00:38.960 align:start position:0%
+them. But these two graphs both use the
+ 
+
+00:00:38.960 --> 00:00:41.190 align:start position:0%
+them. But these two graphs both use the
+same<00:00:39.040><c> methodology,</c><00:00:39.680><c> which</c><00:00:39.920><c> is</c><00:00:40.559><c> in</c><00:00:40.879><c> order.</c>
+
+00:00:41.190 --> 00:00:41.200 align:start position:0%
+same methodology, which is in order.
+ 
+
+00:00:41.200 --> 00:00:43.590 align:start position:0%
+same methodology, which is in order.
+We're<00:00:41.520><c> showing</c><00:00:41.760><c> you</c><00:00:42.320><c> the</c><00:00:42.640><c> most</c><00:00:42.960><c> popular</c>
+
+00:00:43.590 --> 00:00:43.600 align:start position:0%
+We're showing you the most popular
+ 
+
+00:00:43.600 --> 00:00:46.310 align:start position:0%
+We're showing you the most popular
+social<00:00:44.000><c> network</c><00:00:44.480><c> or</c><00:00:44.800><c> down</c><00:00:45.040><c> here,</c><00:00:45.680><c> the</c><00:00:45.920><c> most</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+social network or down here, the most
+ 
+
+00:00:46.320 --> 00:00:48.630 align:start position:0%
+social network or down here, the most
+popular<00:00:46.800><c> search</c><00:00:47.039><c> and</c><00:00:47.200><c> AI</c><00:00:47.520><c> tool.</c><00:00:48.239><c> I</c><00:00:48.399><c> want</c><00:00:48.559><c> you</c>
+
+00:00:48.630 --> 00:00:48.640 align:start position:0%
+popular search and AI tool. I want you
+ 
+
+00:00:48.640 --> 00:00:50.069 align:start position:0%
+popular search and AI tool. I want you
+to<00:00:48.800><c> notice</c><00:00:49.039><c> something</c><00:00:49.360><c> though.</c><00:00:49.600><c> See</c><00:00:49.760><c> how</c>
+
+00:00:50.069 --> 00:00:50.079 align:start position:0%
+to notice something though. See how
+ 
+
+00:00:50.079 --> 00:00:53.830 align:start position:0%
+to notice something though. See how
+Google.com<00:00:50.960><c> is</c><00:00:51.280><c> number</c><00:00:51.600><c> one?</c><00:00:52.320><c> It</c><00:00:52.559><c> is</c><00:00:52.719><c> the</c><00:00:53.280><c> most</c>
+
+00:00:53.830 --> 00:00:53.840 align:start position:0%
+Google.com is number one? It is the most
+ 
+
+00:00:53.840 --> 00:00:57.510 align:start position:0%
+Google.com is number one? It is the most
+used<00:00:54.640><c> search</c><00:00:54.960><c> or</c><00:00:55.280><c> AI</c><00:00:55.760><c> tool</c><00:00:56.399><c> by</c><00:00:56.800><c> people</c><00:00:57.280><c> who</c>
+
+00:00:57.510 --> 00:00:57.520 align:start position:0%
+used search or AI tool by people who
+ 
+
+00:00:57.520 --> 00:01:00.630 align:start position:0%
+used search or AI tool by people who
+have<00:00:57.680><c> fashion</c><00:00:58.079><c> designer</c><00:00:58.480><c> in</c><00:00:58.640><c> their</c><00:00:58.840><c> bio,</c><00:00:59.840><c> but</c>
+
+00:01:00.630 --> 00:01:00.640 align:start position:0%
+have fashion designer in their bio, but
+ 
+
+00:01:00.640 --> 00:01:05.350 align:start position:0%
+have fashion designer in their bio, but
+it<00:01:00.879><c> is</c><00:01:01.120><c> slightly</c><00:01:01.760><c> less</c><00:01:02.359><c> used</c><00:01:03.359><c> on</c><00:01:03.720><c> average</c><00:01:04.720><c> than</c>
+
+00:01:05.350 --> 00:01:05.360 align:start position:0%
+it is slightly less used on average than
+ 
+
+00:01:05.360 --> 00:01:09.190 align:start position:0%
+it is slightly less used on average than
+Google<00:01:05.760><c> is</c><00:01:06.159><c> by</c><00:01:06.960><c> American</c><00:01:07.760><c> web</c><00:01:08.080><c> users</c><00:01:08.560><c> overall.</c>
+
+00:01:09.190 --> 00:01:09.200 align:start position:0%
+Google is by American web users overall.
+ 
+
+00:01:09.200 --> 00:01:11.510 align:start position:0%
+Google is by American web users overall.
+That's<00:01:09.439><c> what</c><00:01:09.600><c> this</c><00:01:09.920><c> USA</c><00:01:10.400><c> average</c><00:01:10.720><c> means.</c><00:01:11.200><c> So</c>
+
+00:01:11.510 --> 00:01:11.520 align:start position:0%
+That's what this USA average means. So
+ 
+
+00:01:11.520 --> 00:01:15.429 align:start position:0%
+That's what this USA average means. So
+minus<00:01:12.000><c> 1.1%</c><00:01:12.960><c> means</c><00:01:13.600><c> Google</c><00:01:13.920><c> is</c><00:01:14.479><c> slightly</c><00:01:15.040><c> less</c>
+
+00:01:15.429 --> 00:01:15.439 align:start position:0%
+minus 1.1% means Google is slightly less
+ 
+
+00:01:15.439 --> 00:01:17.749 align:start position:0%
+minus 1.1% means Google is slightly less
+used<00:01:15.920><c> than</c><00:01:16.240><c> average</c><00:01:16.720><c> meaning</c><00:01:17.040><c> people</c><00:01:17.360><c> visit</c>
+
+00:01:17.749 --> 00:01:17.759 align:start position:0%
+used than average meaning people visit
+ 
+
+00:01:17.759 --> 00:01:19.749 align:start position:0%
+used than average meaning people visit
+Google's<00:01:18.240><c> website</c><00:01:18.880><c> who</c><00:01:19.200><c> have</c><00:01:19.360><c> the</c><00:01:19.520><c> word</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+Google's website who have the word
+ 
+
+00:01:19.759 --> 00:01:21.590 align:start position:0%
+Google's website who have the word
+fashion<00:01:20.159><c> designer</c><00:01:20.479><c> in</c><00:01:20.640><c> their</c><00:01:20.720><c> bio</c><00:01:21.200><c> slightly</c>
+
+00:01:21.590 --> 00:01:21.600 align:start position:0%
+fashion designer in their bio slightly
+ 
+
+00:01:21.600 --> 00:01:23.429 align:start position:0%
+fashion designer in their bio slightly
+less<00:01:22.000><c> less</c><00:01:22.240><c> than</c><00:01:22.400><c> average.</c><00:01:22.880><c> We</c><00:01:23.040><c> know</c><00:01:23.200><c> this</c>
+
+00:01:23.429 --> 00:01:23.439 align:start position:0%
+less less than average. We know this
+ 
+
+00:01:23.439 --> 00:01:24.950 align:start position:0%
+less less than average. We know this
+because<00:01:23.600><c> we</c><00:01:23.840><c> have</c><00:01:23.920><c> clickstream</c><00:01:24.479><c> data</c><00:01:24.640><c> that</c><00:01:24.799><c> we</c>
+
+00:01:24.950 --> 00:01:24.960 align:start position:0%
+because we have clickstream data that we
+ 
+
+00:01:24.960 --> 00:01:27.670 align:start position:0%
+because we have clickstream data that we
+can<00:01:25.040><c> marry</c><00:01:25.280><c> up</c><00:01:25.439><c> with</c><00:01:25.840><c> uh</c><00:01:26.080><c> social</c><00:01:26.400><c> profile</c><00:01:26.880><c> data</c>
+
+00:01:27.670 --> 00:01:27.680 align:start position:0%
+can marry up with uh social profile data
+ 
+
+00:01:27.680 --> 00:01:31.350 align:start position:0%
+can marry up with uh social profile data
+uh<00:01:27.759><c> and</c><00:01:28.000><c> also</c><00:01:28.320><c> Google</c><00:01:28.560><c> data.</c><00:01:29.520><c> And</c><00:01:29.799><c> so</c><00:01:30.799><c> it's</c><00:01:31.119><c> not</c>
+
+00:01:31.350 --> 00:01:31.360 align:start position:0%
+uh and also Google data. And so it's not
+ 
+
+00:01:31.360 --> 00:01:33.350 align:start position:0%
+uh and also Google data. And so it's not
+saying<00:01:31.759><c> don't</c><00:01:32.000><c> focus</c><00:01:32.320><c> on</c><00:01:32.560><c> Google.</c><00:01:32.960><c> It's</c><00:01:33.200><c> not</c>
+
+00:01:33.350 --> 00:01:33.360 align:start position:0%
+saying don't focus on Google. It's not
+ 
+
+00:01:33.360 --> 00:01:34.789 align:start position:0%
+saying don't focus on Google. It's not
+even<00:01:33.520><c> saying</c><00:01:33.920><c> definitely</c><00:01:34.400><c> focus</c><00:01:34.640><c> on</c>
+
+00:01:34.789 --> 00:01:34.799 align:start position:0%
+even saying definitely focus on
+ 
+
+00:01:34.799 --> 00:01:37.670 align:start position:0%
+even saying definitely focus on
+Wikipedia.<00:01:35.439><c> is</c><00:01:35.600><c> saying</c><00:01:35.840><c> that</c><00:01:36.560><c> these</c><00:01:37.040><c> people</c>
+
+00:01:37.670 --> 00:01:37.680 align:start position:0%
+Wikipedia. is saying that these people
+ 
+
+00:01:37.680 --> 00:01:40.149 align:start position:0%
+Wikipedia. is saying that these people
+on<00:01:38.079><c> average</c><00:01:38.720><c> compared</c><00:01:39.200><c> to</c><00:01:39.600><c> the</c><00:01:39.920><c> average</c>
+
+00:01:40.149 --> 00:01:40.159 align:start position:0%
+on average compared to the average
+ 
+
+00:01:40.159 --> 00:01:42.950 align:start position:0%
+on average compared to the average
+American<00:01:40.560><c> web</c><00:01:40.799><c> user</c><00:01:41.759><c> browse</c><00:01:42.159><c> Wikipedia,</c>
+
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+American web user browse Wikipedia,
+ 
+
+00:01:42.960 --> 00:01:46.310 align:start position:0%
+American web user browse Wikipedia,
+visit<00:01:43.200><c> Wikipedia</c><00:01:44.119><c> 5.7%</c><00:01:45.119><c> more</c><00:01:45.360><c> than</c><00:01:45.600><c> average.</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+visit Wikipedia 5.7% more than average.
+ 
+
+00:01:46.320 --> 00:01:48.469 align:start position:0%
+visit Wikipedia 5.7% more than average.
+Same<00:01:46.560><c> with</c><00:01:46.799><c> chat</c><00:01:47.119><c> GBT</c><00:01:47.600><c> use.</c><00:01:47.840><c> It's</c><00:01:48.000><c> not</c><00:01:48.159><c> saying</c>
+
+00:01:48.469 --> 00:01:48.479 align:start position:0%
+Same with chat GBT use. It's not saying
+ 
+
+00:01:48.479 --> 00:01:50.069 align:start position:0%
+Same with chat GBT use. It's not saying
+definitely<00:01:48.880><c> you</c><00:01:49.119><c> need</c><00:01:49.200><c> to</c><00:01:49.280><c> go</c><00:01:49.520><c> put</c><00:01:49.680><c> your</c><00:01:49.840><c> whole</c>
+
+00:01:50.069 --> 00:01:50.079 align:start position:0%
+definitely you need to go put your whole
+ 
+
+00:01:50.079 --> 00:01:52.710 align:start position:0%
+definitely you need to go put your whole
+strategy<00:01:50.479><c> into</c><00:01:50.960><c> chat</c><00:01:51.280><c> GBT.</c><00:01:51.680><c> Look,</c><00:01:51.920><c> ChatGBT</c><00:01:52.560><c> is</c>
+
+00:01:52.710 --> 00:01:52.720 align:start position:0%
+strategy into chat GBT. Look, ChatGBT is
+ 
+
+00:01:52.720 --> 00:01:55.350 align:start position:0%
+strategy into chat GBT. Look, ChatGBT is
+only<00:01:52.880><c> the</c><00:01:53.119><c> seventh</c><00:01:53.520><c> most</c><00:01:54.000><c> used</c><00:01:54.720><c> search</c><00:01:54.960><c> and</c><00:01:55.119><c> AI</c>
+
+00:01:55.350 --> 00:01:55.360 align:start position:0%
+only the seventh most used search and AI
+ 
+
+00:01:55.360 --> 00:01:57.990 align:start position:0%
+only the seventh most used search and AI
+tool.<00:01:55.840><c> Pinterest</c><00:01:56.320><c> is</c><00:01:56.560><c> searched</c><00:01:56.960><c> for</c><00:01:57.360><c> more</c><00:01:57.680><c> and</c>
+
+00:01:57.990 --> 00:01:58.000 align:start position:0%
+tool. Pinterest is searched for more and
+ 
+
+00:01:58.000 --> 00:02:00.230 align:start position:0%
+tool. Pinterest is searched for more and
+used<00:01:58.320><c> more</c><00:01:58.960><c> by</c><00:01:59.200><c> fashion</c><00:01:59.520><c> designers,</c><00:02:00.000><c> which</c>
+
+00:02:00.230 --> 00:02:00.240 align:start position:0%
+used more by fashion designers, which
+ 
+
+00:02:00.240 --> 00:02:02.709 align:start position:0%
+used more by fashion designers, which
+should<00:02:00.399><c> be</c><00:02:00.479><c> no</c><00:02:00.719><c> surprise.</c><00:02:01.360><c> Pinterest</c><00:02:01.840><c> is</c><00:02:02.079><c> huge</c>
+
+00:02:02.709 --> 00:02:02.719 align:start position:0%
+should be no surprise. Pinterest is huge
+ 
+
+00:02:02.719 --> 00:02:05.510 align:start position:0%
+should be no surprise. Pinterest is huge
+with<00:02:03.040><c> fashion</c><00:02:03.520><c> communities</c><00:02:04.079><c> of</c><00:02:04.320><c> all</c><00:02:04.560><c> kinds.</c>
+
+00:02:05.510 --> 00:02:05.520 align:start position:0%
+with fashion communities of all kinds.
+ 
+
+00:02:05.520 --> 00:02:07.590 align:start position:0%
+with fashion communities of all kinds.
+Amazon<00:02:06.079><c> slightly</c><00:02:06.479><c> less,</c><00:02:06.880><c> Reddit</c><00:02:07.280><c> slightly</c>
+
+00:02:07.590 --> 00:02:07.600 align:start position:0%
+Amazon slightly less, Reddit slightly
+ 
+
+00:02:07.600 --> 00:02:09.350 align:start position:0%
+Amazon slightly less, Reddit slightly
+more.<00:02:08.239><c> That</c><00:02:08.560><c> you're</c><00:02:08.800><c> getting</c><00:02:08.959><c> the</c><00:02:09.200><c> sense</c>
+
+00:02:09.350 --> 00:02:09.360 align:start position:0%
+more. That you're getting the sense
+ 
+
+00:02:09.360 --> 00:02:11.910 align:start position:0%
+more. That you're getting the sense
+here,<00:02:09.599><c> right?</c><00:02:09.840><c> That</c><00:02:10.239><c> these</c><00:02:10.640><c> are</c><00:02:10.800><c> 1</c><00:02:11.039><c> 2</c><00:02:11.280><c> 3</c><00:02:11.440><c> 4</c><00:02:11.599><c> 5</c><00:02:11.760><c> 6</c>
+
+00:02:11.910 --> 00:02:11.920 align:start position:0%
+here, right? That these are 1 2 3 4 5 6
+ 
+
+00:02:11.920 --> 00:02:16.949 align:start position:0%
+here, right? That these are 1 2 3 4 5 6
+7<00:02:12.080><c> 8</c><00:02:12.239><c> 9</c><00:02:12.480><c> 10.</c><00:02:13.360><c> But</c><00:02:13.760><c> chat</c><00:02:14.080><c> GBT</c><00:02:14.560><c> is</c><00:02:14.879><c> the</c><00:02:15.400><c> most</c><00:02:16.400><c> used</c>
+
+00:02:16.949 --> 00:02:16.959 align:start position:0%
+7 8 9 10. But chat GBT is the most used
+ 
+
+00:02:16.959 --> 00:02:20.470 align:start position:0%
+7 8 9 10. But chat GBT is the most used
+more<00:02:17.200><c> than</c><00:02:17.680><c> average</c><00:02:18.160><c> one</c><00:02:18.879><c> in</c><00:02:19.120><c> here.</c><00:02:19.760><c> And</c><00:02:20.160><c> same</c>
+
+00:02:20.470 --> 00:02:20.480 align:start position:0%
+more than average one in here. And same
+ 
+
+00:02:20.480 --> 00:02:22.309 align:start position:0%
+more than average one in here. And same
+with<00:02:20.640><c> the</c><00:02:20.879><c> social</c><00:02:21.200><c> networks,</c><00:02:21.840><c> right?</c><00:02:22.080><c> So</c>
+
+00:02:22.309 --> 00:02:22.319 align:start position:0%
+with the social networks, right? So
+ 
+
+00:02:22.319 --> 00:02:23.670 align:start position:0%
+with the social networks, right? So
+social<00:02:22.640><c> networks</c><00:02:22.959><c> what</c><00:02:23.120><c> it's</c><00:02:23.280><c> saying</c><00:02:23.360><c> is</c>
+
+00:02:23.670 --> 00:02:23.680 align:start position:0%
+social networks what it's saying is
+ 
+
+00:02:23.680 --> 00:02:26.390 align:start position:0%
+social networks what it's saying is
+Instagram<00:02:24.400><c> and</c><00:02:24.720><c> Pinterest</c><00:02:25.200><c> and</c><00:02:25.440><c> Medium</c><00:02:25.840><c> are</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+Instagram and Pinterest and Medium are
+ 
+
+00:02:26.400 --> 00:02:29.350 align:start position:0%
+Instagram and Pinterest and Medium are
+more<00:02:26.720><c> used</c><00:02:27.040><c> than</c><00:02:27.280><c> average</c><00:02:27.599><c> by</c><00:02:27.920><c> these</c><00:02:28.360><c> numbers</c>
+
+00:02:29.350 --> 00:02:29.360 align:start position:0%
+more used than average by these numbers
+ 
+
+00:02:29.360 --> 00:02:31.510 align:start position:0%
+more used than average by these numbers
+but<00:02:29.680><c> in</c><00:02:29.920><c> order</c><00:02:30.160><c> of</c><00:02:30.400><c> most</c><00:02:30.640><c> to</c><00:02:30.800><c> least</c><00:02:31.040><c> used</c><00:02:31.360><c> it</c>
+
+00:02:31.510 --> 00:02:31.520 align:start position:0%
+but in order of most to least used it
+ 
+
+00:02:31.520 --> 00:02:33.270 align:start position:0%
+but in order of most to least used it
+goes<00:02:31.760><c> YouTube,</c><00:02:32.239><c> Instagram,</c><00:02:32.879><c> Facebook,</c>
+
+00:02:33.270 --> 00:02:33.280 align:start position:0%
+goes YouTube, Instagram, Facebook,
+ 
+
+00:02:33.280 --> 00:02:36.790 align:start position:0%
+goes YouTube, Instagram, Facebook,
+Reddit.<00:02:34.000><c> Now</c><00:02:34.720><c> Instagram</c><00:02:35.360><c> is</c><00:02:36.080><c> so</c><00:02:36.400><c> much</c><00:02:36.560><c> more</c>
+
+00:02:36.790 --> 00:02:36.800 align:start position:0%
+Reddit. Now Instagram is so much more
+ 
+
+00:02:36.800 --> 00:02:38.630 align:start position:0%
+Reddit. Now Instagram is so much more
+used<00:02:37.040><c> that</c><00:02:37.280><c> it</c><00:02:37.440><c> jumps</c><00:02:37.760><c> from</c><00:02:37.920><c> its</c><00:02:38.239><c> average</c>
+
+00:02:38.630 --> 00:02:38.640 align:start position:0%
+used that it jumps from its average
+ 
+
+00:02:38.640 --> 00:02:40.949 align:start position:0%
+used that it jumps from its average
+position<00:02:38.959><c> of</c><00:02:39.200><c> number</c><00:02:39.519><c> I</c><00:02:39.680><c> think</c><00:02:39.920><c> three</c><00:02:40.080><c> or</c><00:02:40.319><c> four</c>
+
+00:02:40.949 --> 00:02:40.959 align:start position:0%
+position of number I think three or four
+ 
+
+00:02:40.959 --> 00:02:43.110 align:start position:0%
+position of number I think three or four
+to<00:02:41.440><c> number</c><00:02:41.760><c> two</c><00:02:42.000><c> which</c><00:02:42.160><c> is</c><00:02:42.319><c> quite</c><00:02:42.560><c> impressive.</c>
+
+00:02:43.110 --> 00:02:43.120 align:start position:0%
+to number two which is quite impressive.
+ 
+
+00:02:43.120 --> 00:02:44.790 align:start position:0%
+to number two which is quite impressive.
+You<00:02:43.360><c> can</c><00:02:43.440><c> compare</c><00:02:43.760><c> this</c><00:02:44.000><c> against</c><00:02:44.480><c> other</c>
+
+00:02:44.790 --> 00:02:44.800 align:start position:0%
+You can compare this against other
+ 
+
+00:02:44.800 --> 00:02:46.470 align:start position:0%
+You can compare this against other
+audiences<00:02:45.440><c> and</c><00:02:45.599><c> I</c><00:02:45.840><c> encourage</c><00:02:46.080><c> you</c><00:02:46.239><c> to</c><00:02:46.400><c> do</c>
+
+00:02:46.470 --> 00:02:46.480 align:start position:0%
+audiences and I encourage you to do
+ 
+
+00:02:46.480 --> 00:02:49.190 align:start position:0%
+audiences and I encourage you to do
+this.<00:02:47.120><c> run</c><00:02:47.360><c> a</c><00:02:47.599><c> bunch</c><00:02:47.760><c> of</c><00:02:47.840><c> searches</c><00:02:48.319><c> with</c><00:02:48.560><c> your</c>
+
+00:02:49.190 --> 00:02:49.200 align:start position:0%
+this. run a bunch of searches with your
+ 
+
+00:02:49.200 --> 00:02:51.670 align:start position:0%
+this. run a bunch of searches with your
+website<00:02:49.599><c> versus</c><00:02:50.000><c> your</c><00:02:50.360><c> competitions,</c><00:02:51.440><c> uh,</c>
+
+00:02:51.670 --> 00:02:51.680 align:start position:0%
+website versus your competitions, uh,
+ 
+
+00:02:51.680 --> 00:02:52.869 align:start position:0%
+website versus your competitions, uh,
+different<00:02:52.000><c> profiles</c><00:02:52.400><c> that</c><00:02:52.640><c> you're</c>
+
+00:02:52.869 --> 00:02:52.879 align:start position:0%
+different profiles that you're
+ 
+
+00:02:52.879 --> 00:02:54.390 align:start position:0%
+different profiles that you're
+targeting,<00:02:53.519><c> people</c><00:02:53.680><c> who</c><00:02:54.000><c> search</c><00:02:54.239><c> for</c>
+
+00:02:54.390 --> 00:02:54.400 align:start position:0%
+targeting, people who search for
+ 
+
+00:02:54.400 --> 00:02:55.509 align:start position:0%
+targeting, people who search for
+different<00:02:54.640><c> keywords</c><00:02:55.040><c> that</c><00:02:55.200><c> are</c><00:02:55.280><c> in</c><00:02:55.440><c> your</c>
+
+00:02:55.509 --> 00:02:55.519 align:start position:0%
+different keywords that are in your
+ 
+
+00:02:55.519 --> 00:02:57.830 align:start position:0%
+different keywords that are in your
+audience<00:02:55.840><c> set.</c><00:02:56.239><c> Look</c><00:02:56.400><c> at</c><00:02:56.560><c> this</c><00:02:56.720><c> one.</c><00:02:57.519><c> So,</c><00:02:57.760><c> this</c>
+
+00:02:57.830 --> 00:02:57.840 align:start position:0%
+audience set. Look at this one. So, this
+ 
+
+00:02:57.840 --> 00:02:59.750 align:start position:0%
+audience set. Look at this one. So, this
+is<00:02:58.000><c> people</c><00:02:58.239><c> who</c><00:02:58.400><c> have</c><00:02:58.640><c> fabric</c><00:02:59.120><c> artists</c><00:02:59.519><c> in</c>
+
+00:02:59.750 --> 00:02:59.760 align:start position:0%
+is people who have fabric artists in
+ 
+
+00:02:59.760 --> 00:03:02.470 align:start position:0%
+is people who have fabric artists in
+their<00:02:59.920><c> bio.</c><00:03:00.640><c> Pinterest</c><00:03:01.040><c> is</c><00:03:01.440><c> absolutely</c><00:03:02.000><c> huge,</c>
+
+00:03:02.470 --> 00:03:02.480 align:start position:0%
+their bio. Pinterest is absolutely huge,
+ 
+
+00:03:02.480 --> 00:03:04.869 align:start position:0%
+their bio. Pinterest is absolutely huge,
+just<00:03:02.959><c> completely</c><00:03:03.360><c> dominant.</c><00:03:04.080><c> LinkedIn</c><00:03:04.640><c> is</c>
+
+00:03:04.869 --> 00:03:04.879 align:start position:0%
+just completely dominant. LinkedIn is
+ 
+
+00:03:04.879 --> 00:03:07.030 align:start position:0%
+just completely dominant. LinkedIn is
+way<00:03:05.200><c> down</c><00:03:05.440><c> the</c><00:03:05.680><c> list.</c><00:03:06.159><c> If</c><00:03:06.319><c> I</c><00:03:06.560><c> search</c><00:03:06.720><c> for</c>
+
+00:03:07.030 --> 00:03:07.040 align:start position:0%
+way down the list. If I search for
+ 
+
+00:03:07.040 --> 00:03:09.110 align:start position:0%
+way down the list. If I search for
+people<00:03:07.280><c> like</c><00:03:07.519><c> myself,</c><00:03:08.159><c> entrepreneurs</c><00:03:08.879><c> or</c>
+
+00:03:09.110 --> 00:03:09.120 align:start position:0%
+people like myself, entrepreneurs or
+ 
+
+00:03:09.120 --> 00:03:10.949 align:start position:0%
+people like myself, entrepreneurs or
+digital<00:03:09.519><c> marketers,</c><00:03:10.159><c> LinkedIn's</c><00:03:10.720><c> like</c>
+
+00:03:10.949 --> 00:03:10.959 align:start position:0%
+digital marketers, LinkedIn's like
+ 
+
+00:03:10.959 --> 00:03:12.869 align:start position:0%
+digital marketers, LinkedIn's like
+number<00:03:11.200><c> two,</c><00:03:11.519><c> number</c><00:03:11.840><c> three,</c><00:03:12.319><c> but</c><00:03:12.560><c> for</c><00:03:12.720><c> this</c>
+
+00:03:12.869 --> 00:03:12.879 align:start position:0%
+number two, number three, but for this
+ 
+
+00:03:12.879 --> 00:03:15.030 align:start position:0%
+number two, number three, but for this
+group,<00:03:13.120><c> it's</c><00:03:13.440><c> number</c><00:03:13.680><c> seven</c><00:03:14.159><c> behind</c><00:03:14.560><c> Tik</c><00:03:14.800><c> Tok,</c>
+
+00:03:15.030 --> 00:03:15.040 align:start position:0%
+group, it's number seven behind Tik Tok,
+ 
+
+00:03:15.040 --> 00:03:17.110 align:start position:0%
+group, it's number seven behind Tik Tok,
+behind<00:03:15.360><c> Reddit,</c><00:03:15.760><c> behind</c><00:03:16.120><c> Pinterest.</c>
+
+00:03:17.110 --> 00:03:17.120 align:start position:0%
+behind Reddit, behind Pinterest.
+ 
+
+00:03:17.120 --> 00:03:18.790 align:start position:0%
+behind Reddit, behind Pinterest.
+Pinterest<00:03:17.519><c> is</c><00:03:17.680><c> is</c><00:03:18.000><c> obviously</c><00:03:18.400><c> one</c><00:03:18.560><c> of</c><00:03:18.640><c> the</c>
+
+00:03:18.790 --> 00:03:18.800 align:start position:0%
+Pinterest is is obviously one of the
+ 
+
+00:03:18.800 --> 00:03:20.790 align:start position:0%
+Pinterest is is obviously one of the
+most<00:03:19.040><c> used</c><00:03:19.360><c> search</c><00:03:19.599><c> and</c><00:03:19.760><c> AI</c><00:03:20.000><c> tools.</c><00:03:20.239><c> And</c><00:03:20.400><c> look,</c>
+
+00:03:20.790 --> 00:03:20.800 align:start position:0%
+most used search and AI tools. And look,
+ 
+
+00:03:20.800 --> 00:03:22.149 align:start position:0%
+most used search and AI tools. And look,
+you<00:03:20.879><c> know,</c><00:03:21.040><c> it</c><00:03:21.280><c> goes</c><00:03:21.440><c> one,</c><00:03:21.680><c> two,</c><00:03:21.840><c> three,</c>
+
+00:03:22.149 --> 00:03:22.159 align:start position:0%
+you know, it goes one, two, three,
+ 
+
+00:03:22.159 --> 00:03:25.309 align:start position:0%
+you know, it goes one, two, three,
+Amazon,<00:03:23.120><c> uh,</c><00:03:23.280><c> Google,</c><00:03:23.760><c> Amazon,</c><00:03:24.400><c> Pinterest</c>
+
+00:03:25.309 --> 00:03:25.319 align:start position:0%
+Amazon, uh, Google, Amazon, Pinterest
+ 
+
+00:03:25.319 --> 00:03:27.589 align:start position:0%
+Amazon, uh, Google, Amazon, Pinterest
+versus<00:03:26.319><c> designers,</c><00:03:26.879><c> fashion</c><00:03:27.200><c> designers,</c>
+
+00:03:27.589 --> 00:03:27.599 align:start position:0%
+versus designers, fashion designers,
+ 
+
+00:03:27.599 --> 00:03:29.350 align:start position:0%
+versus designers, fashion designers,
+where<00:03:27.840><c> it</c><00:03:27.920><c> goes</c><00:03:28.239><c> YouTube,</c><00:03:28.720><c> Instagram,</c>
+
+00:03:29.350 --> 00:03:29.360 align:start position:0%
+where it goes YouTube, Instagram,
+ 
+
+00:03:29.360 --> 00:03:30.949 align:start position:0%
+where it goes YouTube, Instagram,
+Facebook<00:03:29.760><c> for</c><00:03:30.080><c> social</c><00:03:30.319><c> networks,</c><00:03:30.799><c> and</c>
+
+00:03:30.949 --> 00:03:30.959 align:start position:0%
+Facebook for social networks, and
+ 
+
+00:03:30.959 --> 00:03:33.910 align:start position:0%
+Facebook for social networks, and
+Google,<00:03:31.280><c> Wikipedia,</c><00:03:31.920><c> Reddit.</c><00:03:32.720><c> So,</c><00:03:33.519><c> this</c><00:03:33.760><c> is</c>
+
+00:03:33.910 --> 00:03:33.920 align:start position:0%
+Google, Wikipedia, Reddit. So, this is
+ 
+
+00:03:33.920 --> 00:03:36.229 align:start position:0%
+Google, Wikipedia, Reddit. So, this is
+the<00:03:34.080><c> the</c><00:03:34.480><c> value</c><00:03:34.720><c> of</c><00:03:34.879><c> Spark</c><00:03:35.120><c> Tour.</c><00:03:35.599><c> We're</c><00:03:35.920><c> not</c>
+
+00:03:36.229 --> 00:03:36.239 align:start position:0%
+the the value of Spark Tour. We're not
+ 
+
+00:03:36.239 --> 00:03:38.550 align:start position:0%
+the the value of Spark Tour. We're not
+just<00:03:36.720><c> showing</c><00:03:37.040><c> you</c><00:03:37.680><c> like</c><00:03:37.920><c> this</c><00:03:38.080><c> is</c><00:03:38.159><c> the</c><00:03:38.319><c> most</c>
+
+00:03:38.550 --> 00:03:38.560 align:start position:0%
+just showing you like this is the most
+ 
+
+00:03:38.560 --> 00:03:39.910 align:start position:0%
+just showing you like this is the most
+used,<00:03:38.879><c> this</c><00:03:38.959><c> is</c><00:03:39.120><c> the</c><00:03:39.280><c> second</c><00:03:39.440><c> most</c><00:03:39.599><c> used.</c>
+
+00:03:39.910 --> 00:03:39.920 align:start position:0%
+used, this is the second most used.
+ 
+
+00:03:39.920 --> 00:03:41.830 align:start position:0%
+used, this is the second most used.
+We're<00:03:40.080><c> also</c><00:03:40.319><c> telling</c><00:03:40.480><c> you</c><00:03:41.040><c> how</c><00:03:41.280><c> much</c><00:03:41.519><c> more</c>
+
+00:03:41.830 --> 00:03:41.840 align:start position:0%
+We're also telling you how much more
+ 
+
+00:03:41.840 --> 00:03:44.710 align:start position:0%
+We're also telling you how much more
+used<00:03:42.159><c> than</c><00:03:42.720><c> average</c><00:03:43.519><c> it</c><00:03:43.760><c> is.</c><00:03:44.080><c> And</c><00:03:44.239><c> that's</c><00:03:44.560><c> what</c>
+
+00:03:44.710 --> 00:03:44.720 align:start position:0%
+used than average it is. And that's what
+ 
+
+00:03:44.720 --> 00:03:47.670 align:start position:0%
+used than average it is. And that's what
+the<00:03:45.200><c> the</c><00:03:45.680><c> graph</c><00:03:46.080><c> in</c><00:03:46.480><c> blue</c><00:03:46.959><c> is</c><00:03:47.200><c> showing</c><00:03:47.440><c> you</c>
+
+00:03:47.670 --> 00:03:47.680 align:start position:0%
+the the graph in blue is showing you
+ 
+
+00:03:47.680 --> 00:03:50.550 align:start position:0%
+the the graph in blue is showing you
+above<00:03:48.080><c> or</c><00:03:48.400><c> below</c><00:03:48.799><c> the</c><00:03:49.120><c> USA</c><00:03:49.599><c> average</c><00:03:50.000><c> line.</c><00:03:50.400><c> And</c>
+
+00:03:50.550 --> 00:03:50.560 align:start position:0%
+above or below the USA average line. And
+ 
+
+00:03:50.560 --> 00:03:52.630 align:start position:0%
+above or below the USA average line. And
+if<00:03:50.720><c> you</c><00:03:50.879><c> if</c><00:03:51.120><c> you</c><00:03:51.200><c> search</c><00:03:51.440><c> for</c><00:03:51.920><c> Canada,</c><00:03:52.400><c> it'll</c>
+
+00:03:52.630 --> 00:03:52.640 align:start position:0%
+if you if you search for Canada, it'll
+ 
+
+00:03:52.640 --> 00:03:54.390 align:start position:0%
+if you if you search for Canada, it'll
+show<00:03:52.720><c> you</c><00:03:52.959><c> Canadian</c><00:03:53.440><c> data.</c><00:03:53.760><c> If</c><00:03:53.840><c> you</c><00:03:54.159><c> search</c>
+
+00:03:54.390 --> 00:03:54.400 align:start position:0%
+show you Canadian data. If you search
+ 
+
+00:03:54.400 --> 00:03:56.869 align:start position:0%
+show you Canadian data. If you search
+for<00:03:54.560><c> the</c><00:03:54.720><c> UK,</c><00:03:55.360><c> that</c><00:03:55.599><c> that'll</c><00:03:55.920><c> become</c><00:03:56.159><c> the</c><00:03:56.400><c> UK</c>
+
+00:03:56.869 --> 00:03:56.879 align:start position:0%
+for the UK, that that'll become the UK
+ 
+
+00:03:56.879 --> 00:03:59.270 align:start position:0%
+for the UK, that that'll become the UK
+average,<00:03:57.760><c> right?</c><00:03:58.080><c> And</c><00:03:58.319><c> then</c><00:03:58.720><c> here's</c><00:03:59.040><c> the</c>
+
+00:03:59.270 --> 00:03:59.280 align:start position:0%
+average, right? And then here's the
+ 
+
+00:03:59.280 --> 00:04:02.149 align:start position:0%
+average, right? And then here's the
+order<00:04:00.000><c> of</c><00:04:00.400><c> most</c><00:04:00.720><c> to</c><00:04:00.959><c> least</c><00:04:01.280><c> popular.</c><00:04:01.840><c> So</c>
+
+00:04:02.149 --> 00:04:02.159 align:start position:0%
+order of most to least popular. So
+ 
+
+00:04:02.159 --> 00:04:03.350 align:start position:0%
+order of most to least popular. So
+hopefully<00:04:02.480><c> for</c><00:04:02.720><c> those</c><00:04:02.879><c> of</c><00:04:02.959><c> you</c><00:04:03.040><c> who</c><00:04:03.200><c> are</c>
+
+00:04:03.350 --> 00:04:03.360 align:start position:0%
+hopefully for those of you who are
+ 
+
+00:04:03.360 --> 00:04:05.509 align:start position:0%
+hopefully for those of you who are
+having<00:04:03.599><c> questions</c><00:04:03.920><c> about</c><00:04:04.480><c> what</c><00:04:04.720><c> is</c><00:04:04.879><c> this</c>
+
+00:04:05.509 --> 00:04:05.519 align:start position:0%
+having questions about what is this
+ 
+
+00:04:05.519 --> 00:04:08.149 align:start position:0%
+having questions about what is this
+super<00:04:05.840><c> cool</c><00:04:06.080><c> graph</c><00:04:06.480><c> telling</c><00:04:06.959><c> me</c><00:04:07.519><c> and</c><00:04:07.840><c> how</c><00:04:08.000><c> can</c>
+
+00:04:08.149 --> 00:04:08.159 align:start position:0%
+super cool graph telling me and how can
+ 
+
+00:04:08.159 --> 00:04:11.429 align:start position:0%
+super cool graph telling me and how can
+I<00:04:08.319><c> use</c><00:04:08.560><c> the</c><00:04:08.799><c> data?</c><00:04:09.360><c> It's</c><00:04:09.920><c> in</c><00:04:10.159><c> order</c><00:04:10.799><c> from</c><00:04:11.120><c> most</c>
+
+00:04:11.429 --> 00:04:11.439 align:start position:0%
+I use the data? It's in order from most
+ 
+
+00:04:11.439 --> 00:04:14.710 align:start position:0%
+I use the data? It's in order from most
+to<00:04:11.680><c> least</c><00:04:12.400><c> and</c><00:04:12.640><c> then</c><00:04:13.200><c> how</c><00:04:13.599><c> much</c><00:04:13.840><c> more</c><00:04:14.159><c> or</c><00:04:14.480><c> less</c>
+
+00:04:14.710 --> 00:04:14.720 align:start position:0%
+to least and then how much more or less
+ 
+
+00:04:14.720 --> 00:04:17.590 align:start position:0%
+to least and then how much more or less
+than<00:04:14.959><c> average</c><00:04:15.599><c> the</c><00:04:15.920><c> platform</c><00:04:16.320><c> or</c><00:04:16.639><c> network</c><00:04:17.280><c> is</c>
+
+00:04:17.590 --> 00:04:17.600 align:start position:0%
+than average the platform or network is
+ 
+
+00:04:17.600 --> 00:04:21.199 align:start position:0%
+than average the platform or network is
+used.<00:04:18.239><c> Hope</c><00:04:18.479><c> that</c><00:04:18.639><c> helps</c><00:04:18.880><c> clear</c><00:04:19.040><c> it</c>
+

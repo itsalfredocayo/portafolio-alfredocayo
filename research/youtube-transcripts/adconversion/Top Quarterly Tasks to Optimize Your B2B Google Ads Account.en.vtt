@@ -1,0 +1,688 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:01.910 align:start position:0%
+ 
+welcome<00:00:00.520><c> to</c><00:00:00.640><c> module</c><00:00:00.960><c> 2</c><00:00:01.240><c> lesson</c><00:00:01.599><c> five</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+welcome to module 2 lesson five
+ 
+
+00:00:01.920 --> 00:00:03.869 align:start position:0%
+welcome to module 2 lesson five
+quarterly<00:00:02.399><c> optimizations</c><00:00:03.280><c> in</c><00:00:03.439><c> this</c><00:00:03.600><c> lesson</c>
+
+00:00:03.869 --> 00:00:03.879 align:start position:0%
+quarterly optimizations in this lesson
+ 
+
+00:00:03.879 --> 00:00:05.190 align:start position:0%
+quarterly optimizations in this lesson
+we're<00:00:04.040><c> going</c><00:00:04.120><c> to</c><00:00:04.279><c> cover</c><00:00:04.560><c> the</c><00:00:04.720><c> quarterly</c>
+
+00:00:05.190 --> 00:00:05.200 align:start position:0%
+we're going to cover the quarterly
+ 
+
+00:00:05.200 --> 00:00:06.990 align:start position:0%
+we're going to cover the quarterly
+optimizations<00:00:06.040><c> you</c><00:00:06.160><c> should</c><00:00:06.359><c> be</c><00:00:06.480><c> implementing</c>
+
+00:00:06.990 --> 00:00:07.000 align:start position:0%
+optimizations you should be implementing
+ 
+
+00:00:07.000 --> 00:00:08.910 align:start position:0%
+optimizations you should be implementing
+in<00:00:07.120><c> your</c><00:00:07.279><c> Google</c><00:00:07.520><c> ad</c><00:00:07.759><c> account</c><00:00:08.120><c> to</c><00:00:08.240><c> turn</c><00:00:08.559><c> clicks</c>
+
+00:00:08.910 --> 00:00:08.920 align:start position:0%
+in your Google ad account to turn clicks
+ 
+
+00:00:08.920 --> 00:00:10.589 align:start position:0%
+in your Google ad account to turn clicks
+into<00:00:09.240><c> profits</c><00:00:09.960><c> let's</c><00:00:10.160><c> open</c><00:00:10.360><c> up</c><00:00:10.480><c> our</c>
+
+00:00:10.589 --> 00:00:10.599 align:start position:0%
+into profits let's open up our
+ 
+
+00:00:10.599 --> 00:00:12.270 align:start position:0%
+into profits let's open up our
+optimization<00:00:11.040><c> workflow</c><00:00:11.440><c> template</c><00:00:11.840><c> and</c><00:00:12.000><c> jump</c>
+
+00:00:12.270 --> 00:00:12.280 align:start position:0%
+optimization workflow template and jump
+ 
+
+00:00:12.280 --> 00:00:14.110 align:start position:0%
+optimization workflow template and jump
+back<00:00:12.440><c> into</c><00:00:12.679><c> it</c><00:00:13.080><c> all</c><00:00:13.200><c> right</c><00:00:13.360><c> so</c><00:00:13.519><c> quarterly</c>
+
+00:00:14.110 --> 00:00:14.120 align:start position:0%
+back into it all right so quarterly
+ 
+
+00:00:14.120 --> 00:00:15.789 align:start position:0%
+back into it all right so quarterly
+optimizations<00:00:15.120><c> this</c><00:00:15.240><c> is</c><00:00:15.360><c> going</c><00:00:15.440><c> to</c><00:00:15.559><c> be</c><00:00:15.679><c> a</c>
+
+00:00:15.789 --> 00:00:15.799 align:start position:0%
+optimizations this is going to be a
+ 
+
+00:00:15.799 --> 00:00:18.189 align:start position:0%
+optimizations this is going to be a
+short<00:00:16.199><c> lesson</c><00:00:16.960><c> we've</c><00:00:17.160><c> got</c><00:00:17.400><c> two</c><00:00:17.680><c> core</c><00:00:18.000><c> things</c>
+
+00:00:18.189 --> 00:00:18.199 align:start position:0%
+short lesson we've got two core things
+ 
+
+00:00:18.199 --> 00:00:20.150 align:start position:0%
+short lesson we've got two core things
+that<00:00:18.320><c> we</c><00:00:18.400><c> need</c><00:00:18.520><c> to</c><00:00:18.720><c> focus</c><00:00:19.039><c> on</c><00:00:19.439><c> number</c><00:00:19.720><c> one</c><00:00:19.960><c> is</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+that we need to focus on number one is
+ 
+
+00:00:20.160 --> 00:00:22.310 align:start position:0%
+that we need to focus on number one is
+competitor<00:00:20.640><c> analysis</c><00:00:21.480><c> it's</c><00:00:21.640><c> a</c><00:00:21.800><c> good</c><00:00:22.039><c> best</c>
+
+00:00:22.310 --> 00:00:22.320 align:start position:0%
+competitor analysis it's a good best
+ 
+
+00:00:22.320 --> 00:00:24.870 align:start position:0%
+competitor analysis it's a good best
+practice<00:00:22.720><c> to</c><00:00:23.039><c> get</c><00:00:23.240><c> in</c><00:00:23.400><c> the</c><00:00:23.599><c> habit</c><00:00:23.920><c> of</c><00:00:24.760><c> uh</c>
+
+00:00:24.870 --> 00:00:24.880 align:start position:0%
+practice to get in the habit of uh
+ 
+
+00:00:24.880 --> 00:00:26.349 align:start position:0%
+practice to get in the habit of uh
+reviewing<00:00:25.320><c> your</c><00:00:25.480><c> competitors</c><00:00:26.039><c> once</c><00:00:26.199><c> a</c>
+
+00:00:26.349 --> 00:00:26.359 align:start position:0%
+reviewing your competitors once a
+ 
+
+00:00:26.359 --> 00:00:28.669 align:start position:0%
+reviewing your competitors once a
+quarter<00:00:27.039><c> so</c><00:00:27.359><c> that</c><00:00:27.519><c> way</c><00:00:27.679><c> you</c><00:00:27.800><c> can</c><00:00:27.920><c> see</c><00:00:28.160><c> any</c><00:00:28.480><c> new</c>
+
+00:00:28.669 --> 00:00:28.679 align:start position:0%
+quarter so that way you can see any new
+ 
+
+00:00:28.679 --> 00:00:30.710 align:start position:0%
+quarter so that way you can see any new
+keywords<00:00:29.199><c> any</c><00:00:29.439><c> new</c><00:00:29.640><c> ads</c><00:00:30.039><c> the</c><00:00:30.119><c> landing</c><00:00:30.400><c> pages</c>
+
+00:00:30.710 --> 00:00:30.720 align:start position:0%
+keywords any new ads the landing pages
+ 
+
+00:00:30.720 --> 00:00:32.109 align:start position:0%
+keywords any new ads the landing pages
+that<00:00:30.880><c> they've</c><00:00:31.039><c> launched</c><00:00:31.480><c> so</c><00:00:31.720><c> you</c><00:00:31.800><c> can</c><00:00:31.960><c> add</c>
+
+00:00:32.109 --> 00:00:32.119 align:start position:0%
+that they've launched so you can add
+ 
+
+00:00:32.119 --> 00:00:33.910 align:start position:0%
+that they've launched so you can add
+them<00:00:32.239><c> to</c><00:00:32.360><c> your</c><00:00:32.520><c> inspiration</c><00:00:32.960><c> list</c><00:00:33.160><c> template</c>
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+them to your inspiration list template
+ 
+
+00:00:33.920 --> 00:00:36.510 align:start position:0%
+them to your inspiration list template
+in<00:00:34.079><c> addition</c><00:00:34.360><c> to</c><00:00:34.559><c> this</c><00:00:34.680><c> you</c><00:00:34.800><c> could</c><00:00:35.160><c> also</c><00:00:36.160><c> uh</c>
+
+00:00:36.510 --> 00:00:36.520 align:start position:0%
+in addition to this you could also uh
+ 
+
+00:00:36.520 --> 00:00:38.270 align:start position:0%
+in addition to this you could also uh
+take<00:00:36.719><c> the</c><00:00:36.920><c> time</c><00:00:37.239><c> once</c><00:00:37.440><c> a</c><00:00:37.559><c> quarter</c><00:00:37.879><c> to</c><00:00:38.040><c> not</c><00:00:38.160><c> just</c>
+
+00:00:38.270 --> 00:00:38.280 align:start position:0%
+take the time once a quarter to not just
+ 
+
+00:00:38.280 --> 00:00:40.069 align:start position:0%
+take the time once a quarter to not just
+look<00:00:38.399><c> at</c><00:00:38.559><c> competitors</c><00:00:39.120><c> but</c><00:00:39.320><c> other</c><00:00:39.600><c> companies</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+look at competitors but other companies
+ 
+
+00:00:40.079 --> 00:00:41.990 align:start position:0%
+look at competitors but other companies
+that<00:00:40.360><c> you</c><00:00:40.520><c> look</c><00:00:40.719><c> up</c><00:00:40.879><c> to</c><00:00:41.200><c> so</c><00:00:41.399><c> anybody</c><00:00:41.760><c> that</c><00:00:41.840><c> you</c>
+
+00:00:41.990 --> 00:00:42.000 align:start position:0%
+that you look up to so anybody that you
+ 
+
+00:00:42.000 --> 00:00:43.790 align:start position:0%
+that you look up to so anybody that you
+have<00:00:42.120><c> in</c><00:00:42.239><c> your</c><00:00:42.360><c> inspiration</c><00:00:42.800><c> list</c><00:00:43.039><c> template</c>
+
+00:00:43.790 --> 00:00:43.800 align:start position:0%
+have in your inspiration list template
+ 
+
+00:00:43.800 --> 00:00:45.470 align:start position:0%
+have in your inspiration list template
+that<00:00:43.960><c> you</c><00:00:44.120><c> draw</c><00:00:44.440><c> inspiration</c><00:00:44.920><c> from</c><00:00:45.160><c> in</c><00:00:45.280><c> terms</c>
+
+00:00:45.470 --> 00:00:45.480 align:start position:0%
+that you draw inspiration from in terms
+ 
+
+00:00:45.480 --> 00:00:47.950 align:start position:0%
+that you draw inspiration from in terms
+of<00:00:45.719><c> hey</c><00:00:45.879><c> I</c><00:00:46.079><c> like</c><00:00:46.559><c> how</c><00:00:46.760><c> they</c><00:00:46.960><c> approach</c><00:00:47.559><c> landing</c>
+
+00:00:47.950 --> 00:00:47.960 align:start position:0%
+of hey I like how they approach landing
+ 
+
+00:00:47.960 --> 00:00:50.389 align:start position:0%
+of hey I like how they approach landing
+pages<00:00:48.360><c> or</c><00:00:48.680><c> copy</c><00:00:49.120><c> or</c><00:00:49.399><c> ads</c><00:00:49.719><c> or</c><00:00:49.960><c> whatever</c><00:00:50.239><c> the</c>
+
+00:00:50.389 --> 00:00:50.399 align:start position:0%
+pages or copy or ads or whatever the
+ 
+
+00:00:50.399 --> 00:00:52.750 align:start position:0%
+pages or copy or ads or whatever the
+case<00:00:50.640><c> might</c><00:00:50.840><c> be</c><00:00:51.440><c> you</c><00:00:51.520><c> can</c><00:00:51.760><c> use</c><00:00:52.000><c> this</c><00:00:52.199><c> quarterly</c>
+
+00:00:52.750 --> 00:00:52.760 align:start position:0%
+case might be you can use this quarterly
+ 
+
+00:00:52.760 --> 00:00:55.430 align:start position:0%
+case might be you can use this quarterly
+time<00:00:53.079><c> to</c><00:00:53.480><c> look</c><00:00:53.719><c> that</c><00:00:53.879><c> up</c><00:00:54.600><c> uh</c><00:00:54.760><c> just</c><00:00:54.920><c> for</c><00:00:55.280><c> the</c>
+
+00:00:55.430 --> 00:00:55.440 align:start position:0%
+time to look that up uh just for the
+ 
+
+00:00:55.440 --> 00:00:57.590 align:start position:0%
+time to look that up uh just for the
+sake<00:00:55.640><c> of</c><00:00:55.920><c> demonstration</c><00:00:56.920><c> if</c><00:00:57.039><c> I</c><00:00:57.160><c> was</c><00:00:57.320><c> looking</c>
+
+00:00:57.590 --> 00:00:57.600 align:start position:0%
+sake of demonstration if I was looking
+ 
+
+00:00:57.600 --> 00:01:00.110 align:start position:0%
+sake of demonstration if I was looking
+into<00:00:58.160><c> monday.com</c><00:00:59.160><c> I</c><00:00:59.280><c> can</c><00:00:59.440><c> come</c><00:00:59.600><c> here</c><00:01:00.000><c> look</c>
+
+00:01:00.110 --> 00:01:00.120 align:start position:0%
+into monday.com I can come here look
+ 
+
+00:01:00.120 --> 00:01:02.790 align:start position:0%
+into monday.com I can come here look
+them<00:01:00.239><c> up</c><00:01:00.320><c> in</c><00:01:00.440><c> a</c><00:01:00.519><c> tool</c><00:01:00.760><c> like</c><00:01:00.920><c> sem</c><00:01:01.519><c> rush</c><00:01:02.519><c> and</c><00:01:02.640><c> then</c>
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+them up in a tool like sem rush and then
+ 
+
+00:01:02.800 --> 00:01:04.310 align:start position:0%
+them up in a tool like sem rush and then
+I<00:01:02.879><c> can</c><00:01:03.039><c> see</c><00:01:03.320><c> what</c><00:01:03.480><c> keywords</c><00:01:03.840><c> they're</c><00:01:04.000><c> bidding</c>
+
+00:01:04.310 --> 00:01:04.320 align:start position:0%
+I can see what keywords they're bidding
+ 
+
+00:01:04.320 --> 00:01:08.149 align:start position:0%
+I can see what keywords they're bidding
+on<00:01:05.159><c> I</c><00:01:05.239><c> can</c><00:01:05.400><c> come</c><00:01:05.560><c> to</c><00:01:05.799><c> add</c><00:01:06.360><c> copies</c><00:01:07.360><c> and</c><00:01:07.680><c> uh</c><00:01:07.840><c> I</c><00:01:07.960><c> can</c>
+
+00:01:08.149 --> 00:01:08.159 align:start position:0%
+on I can come to add copies and uh I can
+ 
+
+00:01:08.159 --> 00:01:10.230 align:start position:0%
+on I can come to add copies and uh I can
+adjust<00:01:08.520><c> my</c><00:01:08.680><c> date</c><00:01:08.920><c> range</c><00:01:09.240><c> to</c><00:01:09.400><c> get</c><00:01:09.479><c> a</c><00:01:09.640><c> sent</c><00:01:10.000><c> of</c>
+
+00:01:10.230 --> 00:01:10.240 align:start position:0%
+adjust my date range to get a sent of
+ 
+
+00:01:10.240 --> 00:01:13.870 align:start position:0%
+adjust my date range to get a sent of
+the<00:01:10.400><c> most</c><00:01:10.680><c> recent</c><00:01:11.240><c> ads</c><00:01:12.240><c> and</c><00:01:12.560><c> I</c><00:01:12.640><c> can</c><00:01:12.840><c> see</c><00:01:13.759><c> what</c>
+
+00:01:13.870 --> 00:01:13.880 align:start position:0%
+the most recent ads and I can see what
+ 
+
+00:01:13.880 --> 00:01:15.469 align:start position:0%
+the most recent ads and I can see what
+are<00:01:14.040><c> they</c><00:01:14.200><c> bidding</c><00:01:14.479><c> on</c><00:01:14.720><c> and</c><00:01:14.799><c> then</c><00:01:14.920><c> I</c><00:01:15.000><c> can</c><00:01:15.200><c> click</c>
+
+00:01:15.469 --> 00:01:15.479 align:start position:0%
+are they bidding on and then I can click
+ 
+
+00:01:15.479 --> 00:01:18.710 align:start position:0%
+are they bidding on and then I can click
+through<00:01:16.119><c> to</c><00:01:16.320><c> the</c><00:01:16.439><c> URLs</c><00:01:17.360><c> to</c><00:01:17.640><c> also</c><00:01:17.960><c> see</c><00:01:18.439><c> the</c><00:01:18.640><c> the</c>
+
+00:01:18.710 --> 00:01:18.720 align:start position:0%
+through to the URLs to also see the the
+ 
+
+00:01:18.720 --> 00:01:20.030 align:start position:0%
+through to the URLs to also see the the
+lighting<00:01:19.119><c> Pages</c><00:01:19.479><c> as</c><00:01:19.600><c> well</c><00:01:19.759><c> that</c><00:01:19.880><c> they're</c>
+
+00:01:20.030 --> 00:01:20.040 align:start position:0%
+lighting Pages as well that they're
+ 
+
+00:01:20.040 --> 00:01:22.550 align:start position:0%
+lighting Pages as well that they're
+driving<00:01:20.360><c> traffic</c><00:01:20.680><c> towards</c><00:01:21.600><c> so</c><00:01:21.880><c> this</c><00:01:21.960><c> is</c><00:01:22.200><c> a</c><00:01:22.400><c> a</c>
+
+00:01:22.550 --> 00:01:22.560 align:start position:0%
+driving traffic towards so this is a a
+ 
+
+00:01:22.560 --> 00:01:24.910 align:start position:0%
+driving traffic towards so this is a a
+great<00:01:22.759><c> way</c><00:01:22.880><c> for</c><00:01:23.040><c> you</c><00:01:23.119><c> to</c><00:01:23.360><c> just</c><00:01:24.119><c> once</c><00:01:24.360><c> a</c><00:01:24.560><c> quarter</c>
+
+00:01:24.910 --> 00:01:24.920 align:start position:0%
+great way for you to just once a quarter
+ 
+
+00:01:24.920 --> 00:01:26.350 align:start position:0%
+great way for you to just once a quarter
+you<00:01:25.040><c> can</c><00:01:25.159><c> create</c><00:01:25.400><c> a</c><00:01:25.520><c> Google</c><00:01:25.840><c> Calendar</c>
+
+00:01:26.350 --> 00:01:26.360 align:start position:0%
+you can create a Google Calendar
+ 
+
+00:01:26.360 --> 00:01:28.830 align:start position:0%
+you can create a Google Calendar
+reminder<00:01:26.960><c> on</c><00:01:27.159><c> your</c><00:01:27.520><c> um</c><00:01:27.880><c> on</c><00:01:28.040><c> your</c><00:01:28.119><c> gcal</c><00:01:28.720><c> and</c>
+
+00:01:28.830 --> 00:01:28.840 align:start position:0%
+reminder on your um on your gcal and
+ 
+
+00:01:28.840 --> 00:01:30.630 align:start position:0%
+reminder on your um on your gcal and
+then<00:01:29.119><c> just</c><00:01:29.320><c> tag</c><00:01:29.560><c> yourself</c><00:01:30.079><c> so</c><00:01:30.240><c> that</c><00:01:30.320><c> way</c><00:01:30.479><c> once</c>
+
+00:01:30.630 --> 00:01:30.640 align:start position:0%
+then just tag yourself so that way once
+ 
+
+00:01:30.640 --> 00:01:32.950 align:start position:0%
+then just tag yourself so that way once
+a<00:01:30.799><c> quarter</c><00:01:31.119><c> you</c><00:01:31.280><c> know</c><00:01:32.040><c> okay</c><00:01:32.240><c> it's</c><00:01:32.439><c> time</c><00:01:32.600><c> to</c><00:01:32.799><c> do</c>
+
+00:01:32.950 --> 00:01:32.960 align:start position:0%
+a quarter you know okay it's time to do
+ 
+
+00:01:32.960 --> 00:01:35.789 align:start position:0%
+a quarter you know okay it's time to do
+a<00:01:33.159><c> refresh</c><00:01:33.799><c> of</c><00:01:34.439><c> uh</c><00:01:34.600><c> competitive</c><00:01:35.079><c> review</c><00:01:35.520><c> or</c>
+
+00:01:35.789 --> 00:01:35.799 align:start position:0%
+a refresh of uh competitive review or
+ 
+
+00:01:35.799 --> 00:01:37.990 align:start position:0%
+a refresh of uh competitive review or
+just<00:01:36.000><c> you</c><00:01:36.119><c> know</c><00:01:36.399><c> any</c><00:01:36.680><c> other</c><00:01:37.399><c> folks</c><00:01:37.720><c> that</c><00:01:37.920><c> you</c>
+
+00:01:37.990 --> 00:01:38.000 align:start position:0%
+just you know any other folks that you
+ 
+
+00:01:38.000 --> 00:01:39.670 align:start position:0%
+just you know any other folks that you
+want<00:01:38.119><c> to</c><00:01:38.280><c> review</c><00:01:38.640><c> to</c><00:01:38.880><c> just</c><00:01:39.240><c> get</c><00:01:39.439><c> more</c>
+
+00:01:39.670 --> 00:01:39.680 align:start position:0%
+want to review to just get more
+ 
+
+00:01:39.680 --> 00:01:41.469 align:start position:0%
+want to review to just get more
+inspiration<00:01:40.360><c> and</c><00:01:40.600><c> and</c><00:01:40.720><c> you</c><00:01:40.799><c> know</c><00:01:41.000><c> kind</c><00:01:41.079><c> of</c><00:01:41.200><c> see</c>
+
+00:01:41.469 --> 00:01:41.479 align:start position:0%
+inspiration and and you know kind of see
+ 
+
+00:01:41.479 --> 00:01:44.270 align:start position:0%
+inspiration and and you know kind of see
+what's<00:01:41.720><c> going</c><00:01:42.439><c> on</c><00:01:43.439><c> in</c><00:01:43.600><c> addition</c><00:01:43.880><c> to</c><00:01:44.119><c> this</c>
+
+00:01:44.270 --> 00:01:44.280 align:start position:0%
+what's going on in addition to this
+ 
+
+00:01:44.280 --> 00:01:45.350 align:start position:0%
+what's going on in addition to this
+we're<00:01:44.399><c> going</c><00:01:44.520><c> to</c><00:01:44.640><c> want</c><00:01:44.719><c> to</c><00:01:44.880><c> make</c><00:01:45.000><c> sure</c><00:01:45.240><c> that</c>
+
+00:01:45.350 --> 00:01:45.360 align:start position:0%
+we're going to want to make sure that
+ 
+
+00:01:45.360 --> 00:01:47.030 align:start position:0%
+we're going to want to make sure that
+we're<00:01:45.520><c> reviewing</c><00:01:46.000><c> our</c><00:01:46.200><c> goals</c><00:01:46.719><c> and</c><00:01:46.880><c> our</c>
+
+00:01:47.030 --> 00:01:47.040 align:start position:0%
+we're reviewing our goals and our
+ 
+
+00:01:47.040 --> 00:01:48.950 align:start position:0%
+we're reviewing our goals and our
+quarterly<00:01:47.520><c> pipeline</c><00:01:47.920><c> impact</c><00:01:48.600><c> this</c><00:01:48.719><c> one's</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+quarterly pipeline impact this one's
+ 
+
+00:01:48.960 --> 00:01:50.389 align:start position:0%
+quarterly pipeline impact this one's
+kind<00:01:49.079><c> of</c><00:01:49.200><c> a</c><00:01:49.320><c> given</c><00:01:49.600><c> and</c><00:01:49.759><c> it</c><00:01:49.920><c> and</c><00:01:50.000><c> it</c><00:01:50.119><c> just</c><00:01:50.280><c> kind</c>
+
+00:01:50.389 --> 00:01:50.399 align:start position:0%
+kind of a given and it and it just kind
+ 
+
+00:01:50.399 --> 00:01:52.550 align:start position:0%
+kind of a given and it and it just kind
+of<00:01:50.520><c> will</c><00:01:50.799><c> happen</c><00:01:51.240><c> because</c><00:01:51.520><c> usually</c><00:01:52.240><c> in</c><00:01:52.399><c> the</c>
+
+00:01:52.550 --> 00:01:52.560 align:start position:0%
+of will happen because usually in the
+ 
+
+00:01:52.560 --> 00:01:54.990 align:start position:0%
+of will happen because usually in the
+B2B<00:01:53.079><c> world</c><00:01:53.439><c> right</c><00:01:53.600><c> every</c><00:01:53.960><c> quarter</c><00:01:54.799><c> we're</c>
+
+00:01:54.990 --> 00:01:55.000 align:start position:0%
+B2B world right every quarter we're
+ 
+
+00:01:55.000 --> 00:01:57.230 align:start position:0%
+B2B world right every quarter we're
+doing<00:01:55.640><c> uh</c><00:01:55.880><c> qbrs</c><00:01:56.479><c> and</c><00:01:56.640><c> we're</c><00:01:56.799><c> like</c><00:01:56.960><c> kind</c><00:01:57.079><c> of</c>
+
+00:01:57.230 --> 00:01:57.240 align:start position:0%
+doing uh qbrs and we're like kind of
+ 
+
+00:01:57.240 --> 00:01:59.149 align:start position:0%
+doing uh qbrs and we're like kind of
+analys<00:01:57.680><c> we're</c><00:01:57.840><c> doing</c><00:01:58.119><c> reporting</c><00:01:58.600><c> in</c><00:01:58.719><c> terms</c><00:01:58.960><c> of</c>
+
+00:01:59.149 --> 00:01:59.159 align:start position:0%
+analys we're doing reporting in terms of
+ 
+
+00:01:59.159 --> 00:02:01.830 align:start position:0%
+analys we're doing reporting in terms of
+what's<00:01:59.560><c> we</c><00:02:00.119><c> and</c><00:02:00.320><c> reporting</c><00:02:00.640><c> to</c><00:02:00.799><c> the</c><00:02:01.000><c> business</c>
+
+00:02:01.830 --> 00:02:01.840 align:start position:0%
+what's we and reporting to the business
+ 
+
+00:02:01.840 --> 00:02:02.990 align:start position:0%
+what's we and reporting to the business
+but<00:02:02.039><c> you</c><00:02:02.119><c> want</c><00:02:02.240><c> to</c><00:02:02.399><c> make</c><00:02:02.520><c> sure</c><00:02:02.719><c> that</c><00:02:02.840><c> you're</c>
+
+00:02:02.990 --> 00:02:03.000 align:start position:0%
+but you want to make sure that you're
+ 
+
+00:02:03.000 --> 00:02:04.749 align:start position:0%
+but you want to make sure that you're
+doing<00:02:03.360><c> that</c><00:02:03.960><c> uh</c><00:02:04.079><c> you're</c><00:02:04.200><c> reviewing</c><00:02:04.560><c> your</c>
+
+00:02:04.749 --> 00:02:04.759 align:start position:0%
+doing that uh you're reviewing your
+ 
+
+00:02:04.759 --> 00:02:06.429 align:start position:0%
+doing that uh you're reviewing your
+goals<00:02:05.079><c> and</c><00:02:05.200><c> your</c><00:02:05.320><c> quarterly</c><00:02:05.759><c> pipeline</c><00:02:06.119><c> impact</c>
+
+00:02:06.429 --> 00:02:06.439 align:start position:0%
+goals and your quarterly pipeline impact
+ 
+
+00:02:06.439 --> 00:02:08.430 align:start position:0%
+goals and your quarterly pipeline impact
+from<00:02:06.560><c> Google</c><00:02:06.799><c> ads</c><00:02:06.960><c> on</c><00:02:07.079><c> a</c><00:02:07.119><c> quarterly</c><00:02:07.520><c> basis</c><00:02:08.239><c> so</c>
+
+00:02:08.430 --> 00:02:08.440 align:start position:0%
+from Google ads on a quarterly basis so
+ 
+
+00:02:08.440 --> 00:02:10.550 align:start position:0%
+from Google ads on a quarterly basis so
+the<00:02:08.599><c> week</c><00:02:08.800><c> over</c><00:02:09.080><c> week</c><00:02:09.399><c> is</c><00:02:09.520><c> like</c><00:02:09.679><c> a</c><00:02:09.840><c> pulse</c><00:02:10.319><c> it's</c>
+
+00:02:10.550 --> 00:02:10.560 align:start position:0%
+the week over week is like a pulse it's
+ 
+
+00:02:10.560 --> 00:02:12.630 align:start position:0%
+the week over week is like a pulse it's
+very<00:02:10.840><c> erratic</c><00:02:11.319><c> and</c><00:02:11.480><c> it</c><00:02:11.640><c> just</c><00:02:11.840><c> changes</c><00:02:12.400><c> like</c>
+
+00:02:12.630 --> 00:02:12.640 align:start position:0%
+very erratic and it just changes like
+ 
+
+00:02:12.640 --> 00:02:16.270 align:start position:0%
+very erratic and it just changes like
+crazy<00:02:13.560><c> but</c><00:02:13.720><c> the</c><00:02:13.879><c> month</c><00:02:14.160><c> over</c><00:02:14.400><c> month</c><00:02:15.040><c> should</c><00:02:16.040><c> be</c>
+
+00:02:16.270 --> 00:02:16.280 align:start position:0%
+crazy but the month over month should be
+ 
+
+00:02:16.280 --> 00:02:17.949 align:start position:0%
+crazy but the month over month should be
+a<00:02:16.400><c> little</c><00:02:16.599><c> bit</c><00:02:16.800><c> more</c><00:02:17.160><c> consistent</c><00:02:17.760><c> you're</c>
+
+00:02:17.949 --> 00:02:17.959 align:start position:0%
+a little bit more consistent you're
+ 
+
+00:02:17.959 --> 00:02:19.750 align:start position:0%
+a little bit more consistent you're
+going<00:02:18.040><c> to</c><00:02:18.200><c> have</c><00:02:18.640><c> good</c><00:02:18.800><c> months</c><00:02:19.080><c> and</c><00:02:19.280><c> bad</c><00:02:19.480><c> months</c>
+
+00:02:19.750 --> 00:02:19.760 align:start position:0%
+going to have good months and bad months
+ 
+
+00:02:19.760 --> 00:02:21.869 align:start position:0%
+going to have good months and bad months
+it's<00:02:19.959><c> part</c><00:02:20.080><c> of</c><00:02:20.200><c> the</c><00:02:20.440><c> process</c><00:02:21.120><c> but</c><00:02:21.319><c> ideally</c><00:02:21.720><c> the</c>
+
+00:02:21.869 --> 00:02:21.879 align:start position:0%
+it's part of the process but ideally the
+ 
+
+00:02:21.879 --> 00:02:24.229 align:start position:0%
+it's part of the process but ideally the
+quarter<00:02:22.200><c> over</c><00:02:22.519><c> quarter</c><00:02:23.319><c> continues</c><00:02:23.879><c> to</c><00:02:24.000><c> Trend</c>
+
+00:02:24.229 --> 00:02:24.239 align:start position:0%
+quarter over quarter continues to Trend
+ 
+
+00:02:24.239 --> 00:02:26.110 align:start position:0%
+quarter over quarter continues to Trend
+in<00:02:24.360><c> the</c><00:02:24.519><c> right</c><00:02:24.720><c> direction</c><00:02:25.360><c> in</c><00:02:25.480><c> a</c><00:02:25.680><c> perfect</c>
+
+00:02:26.110 --> 00:02:26.120 align:start position:0%
+in the right direction in a perfect
+ 
+
+00:02:26.120 --> 00:02:29.030 align:start position:0%
+in the right direction in a perfect
+world<00:02:27.120><c> so</c><00:02:27.280><c> your</c><00:02:27.599><c> action</c><00:02:27.959><c> item</c><00:02:28.360><c> for</c><00:02:28.800><c> this</c>
+
+00:02:29.030 --> 00:02:29.040 align:start position:0%
+world so your action item for this
+ 
+
+00:02:29.040 --> 00:02:31.589 align:start position:0%
+world so your action item for this
+lesson<00:02:29.519><c> is</c><00:02:29.920><c> to</c><00:02:30.440><c> look</c><00:02:30.680><c> over</c><00:02:30.959><c> the</c><00:02:31.120><c> quarterly</c>
+
+00:02:31.589 --> 00:02:31.599 align:start position:0%
+lesson is to look over the quarterly
+ 
+
+00:02:31.599 --> 00:02:33.390 align:start position:0%
+lesson is to look over the quarterly
+optimizations<00:02:32.560><c> and</c><00:02:32.760><c> apply</c><00:02:33.040><c> the</c><00:02:33.120><c> ones</c><00:02:33.280><c> that</c>
+
+00:02:33.390 --> 00:02:33.400 align:start position:0%
+optimizations and apply the ones that
+ 
+
+00:02:33.400 --> 00:02:35.990 align:start position:0%
+optimizations and apply the ones that
+are<00:02:33.560><c> applicable</c><00:02:33.959><c> to</c><00:02:34.160><c> you</c><00:02:35.000><c> and</c><00:02:35.440><c> if</c><00:02:35.519><c> you</c><00:02:35.720><c> have</c>
+
+00:02:35.990 --> 00:02:36.000 align:start position:0%
+are applicable to you and if you have
+ 
+
+00:02:36.000 --> 00:02:37.390 align:start position:0%
+are applicable to you and if you have
+any<00:02:36.280><c> questions</c><00:02:36.599><c> at</c><00:02:36.720><c> all</c><00:02:36.959><c> you</c><00:02:37.040><c> can</c><00:02:37.200><c> always</c>
+
+00:02:37.390 --> 00:02:37.400 align:start position:0%
+any questions at all you can always
+ 
+
+00:02:37.400 --> 00:02:38.990 align:start position:0%
+any questions at all you can always
+reach<00:02:37.599><c> out</c><00:02:37.760><c> to</c><00:02:38.000><c> us</c><00:02:38.160><c> and</c><00:02:38.280><c> we</c><00:02:38.400><c> can</c><00:02:38.519><c> add</c><00:02:38.720><c> more</c>
+
+00:02:38.990 --> 00:02:39.000 align:start position:0%
+reach out to us and we can add more
+ 
+
+00:02:39.000 --> 00:02:41.149 align:start position:0%
+reach out to us and we can add more
+context<00:02:39.400><c> to</c><00:02:39.599><c> this</c><00:02:39.760><c> module</c><00:02:40.519><c> add</c><00:02:40.760><c> additional</c>
+
+00:02:41.149 --> 00:02:41.159 align:start position:0%
+context to this module add additional
+ 
+
+00:02:41.159 --> 00:02:42.309 align:start position:0%
+context to this module add additional
+things<00:02:41.360><c> that</c><00:02:41.480><c> you</c><00:02:41.599><c> feel</c><00:02:41.800><c> like</c><00:02:41.959><c> might</c><00:02:42.120><c> be</c>
+
+00:02:42.309 --> 00:02:42.319 align:start position:0%
+things that you feel like might be
+ 
+
+00:02:42.319 --> 00:02:44.270 align:start position:0%
+things that you feel like might be
+missing<00:02:43.200><c> and</c><00:02:43.440><c> uh</c><00:02:43.560><c> we</c><00:02:43.680><c> appreciate</c><00:02:44.040><c> all</c><00:02:44.159><c> your</c>
+
+00:02:44.270 --> 00:02:44.280 align:start position:0%
+missing and uh we appreciate all your
+ 
+
+00:02:44.280 --> 00:02:46.030 align:start position:0%
+missing and uh we appreciate all your
+feedback<00:02:44.640><c> and</c><00:02:44.840><c> support</c><00:02:45.319><c> if</c><00:02:45.440><c> you</c><00:02:45.760><c> received</c><00:02:45.920><c> a</c>
+
+00:02:46.030 --> 00:02:46.040 align:start position:0%
+feedback and support if you received a
+ 
+
+00:02:46.040 --> 00:02:48.070 align:start position:0%
+feedback and support if you received a
+ton<00:02:46.159><c> of</c><00:02:46.319><c> value</c><00:02:46.560><c> so</c><00:02:46.760><c> far</c><00:02:47.239><c> please</c><00:02:47.440><c> share</c><00:02:47.720><c> acting</c>
+
+00:02:48.070 --> 00:02:48.080 align:start position:0%
+ton of value so far please share acting
+ 
+
+00:02:48.080 --> 00:02:49.270 align:start position:0%
+ton of value so far please share acting
+version<00:02:48.319><c> with</c><00:02:48.400><c> your</c><00:02:48.519><c> friends</c><00:02:48.720><c> or</c><00:02:48.920><c> colleagues</c>
+
+00:02:49.270 --> 00:02:49.280 align:start position:0%
+version with your friends or colleagues
+ 
+
+00:02:49.280 --> 00:02:51.470 align:start position:0%
+version with your friends or colleagues
+leave<00:02:49.480><c> a</c><00:02:49.640><c> testimonial</c><00:02:50.519><c> or</c><00:02:51.000><c> anything</c><00:02:51.280><c> you</c><00:02:51.360><c> can</c>
+
+00:02:51.470 --> 00:02:51.480 align:start position:0%
+leave a testimonial or anything you can
+ 
+
+00:02:51.480 --> 00:02:53.149 align:start position:0%
+leave a testimonial or anything you can
+do<00:02:51.599><c> to</c><00:02:51.680><c> help</c><00:02:51.840><c> spread</c><00:02:52.120><c> the</c><00:02:52.200><c> word</c><00:02:52.720><c> thank</c><00:02:52.879><c> you</c><00:02:53.000><c> so</c>
+
+00:02:53.149 --> 00:02:53.159 align:start position:0%
+do to help spread the word thank you so
+ 
+
+00:02:53.159 --> 00:02:57.820 align:start position:0%
+do to help spread the word thank you so
+much<00:02:53.480><c> I'll</c><00:02:53.599><c> see</c><00:02:53.720><c> in</c><00:02:53.800><c> the</c><00:02:53.959><c> next</c><00:02:54.120><c> one</c>
+
+00:02:57.820 --> 00:02:57.830 align:start position:0%
+ 
+ 
+
+00:02:57.830 --> 00:03:01.149 align:start position:0%
+ 
+[Music]
+

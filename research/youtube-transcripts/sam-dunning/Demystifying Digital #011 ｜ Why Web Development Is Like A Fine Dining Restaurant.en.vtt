@@ -1,0 +1,696 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.480 --> 00:00:13.190 align:start position:0%
+ 
+[Music]
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+[Music]
+ 
+
+00:00:13.200 --> 00:00:15.110 align:start position:0%
+[Music]
+hi<00:00:13.440><c> everyone</c><00:00:13.759><c> and</c><00:00:13.920><c> welcome</c><00:00:14.320><c> to</c><00:00:14.480><c> a</c><00:00:14.559><c> new</c><00:00:14.719><c> episode</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+hi everyone and welcome to a new episode
+ 
+
+00:00:15.120 --> 00:00:17.590 align:start position:0%
+hi everyone and welcome to a new episode
+of demystifying<00:00:16.080><c> digital</c><00:00:16.560><c> with</c><00:00:17.039><c> russ</c><00:00:17.359><c> and</c>
+
+00:00:17.590 --> 00:00:17.600 align:start position:0%
+of demystifying digital with russ and
+ 
+
+00:00:17.600 --> 00:00:19.029 align:start position:0%
+of demystifying digital with russ and
+sam<00:00:18.000><c> russ</c><00:00:18.240><c> how</c><00:00:18.400><c> you</c><00:00:18.480><c> doing</c><00:00:18.640><c> dude</c>
+
+00:00:19.029 --> 00:00:19.039 align:start position:0%
+sam russ how you doing dude
+ 
+
+00:00:19.039 --> 00:00:21.670 align:start position:0%
+sam russ how you doing dude
+good<00:00:19.199><c> thanks</c><00:00:19.439><c> sam</c><00:00:19.600><c> how</c><00:00:19.840><c> are</c><00:00:19.920><c> you</c><00:00:21.119><c> not</c><00:00:21.279><c> bad</c><00:00:21.520><c> at</c>
+
+00:00:21.670 --> 00:00:21.680 align:start position:0%
+good thanks sam how are you not bad at
+ 
+
+00:00:21.680 --> 00:00:23.429 align:start position:0%
+good thanks sam how are you not bad at
+all<00:00:21.840><c> my</c><00:00:22.000><c> friends</c><00:00:22.400><c> so</c><00:00:22.560><c> i</c><00:00:22.640><c> believe</c><00:00:22.880><c> today</c><00:00:23.279><c> we're</c>
+
+00:00:23.429 --> 00:00:23.439 align:start position:0%
+all my friends so i believe today we're
+ 
+
+00:00:23.439 --> 00:00:24.550 align:start position:0%
+all my friends so i believe today we're
+going<00:00:23.519><c> to</c><00:00:23.519><c> be</c><00:00:23.680><c> talking</c><00:00:23.920><c> about</c><00:00:24.240><c> web</c>
+
+00:00:24.550 --> 00:00:24.560 align:start position:0%
+going to be talking about web
+ 
+
+00:00:24.560 --> 00:00:27.910 align:start position:0%
+going to be talking about web
+development<00:00:25.680><c> spot</c><00:00:26.000><c> on</c><00:00:26.720><c> um</c>
+
+00:00:27.910 --> 00:00:27.920 align:start position:0%
+development spot on um
+ 
+
+00:00:27.920 --> 00:00:30.070 align:start position:0%
+development spot on um
+a<00:00:28.320><c> little</c><00:00:28.560><c> while</c><00:00:28.800><c> back</c><00:00:28.960><c> we</c><00:00:29.119><c> spoke</c><00:00:29.439><c> about</c><00:00:29.840><c> we've</c>
+
+00:00:30.070 --> 00:00:30.080 align:start position:0%
+a little while back we spoke about we've
+ 
+
+00:00:30.080 --> 00:00:31.429 align:start position:0%
+a little while back we spoke about we've
+done<00:00:30.240><c> lots</c><00:00:30.480><c> around</c><00:00:30.720><c> websites</c>
+
+00:00:31.429 --> 00:00:31.439 align:start position:0%
+done lots around websites
+ 
+
+00:00:31.439 --> 00:00:33.590 align:start position:0%
+done lots around websites
+but<00:00:31.599><c> we</c><00:00:31.760><c> spoke</c><00:00:32.000><c> about</c><00:00:32.239><c> websites</c><00:00:32.960><c> that</c><00:00:33.200><c> are</c><00:00:33.360><c> web</c>
+
+00:00:33.590 --> 00:00:33.600 align:start position:0%
+but we spoke about websites that are web
+ 
+
+00:00:33.600 --> 00:00:35.670 align:start position:0%
+but we spoke about websites that are web
+designers<00:00:34.160><c> first</c><00:00:34.399><c> web</c><00:00:34.640><c> developers</c>
+
+00:00:35.670 --> 00:00:35.680 align:start position:0%
+designers first web developers
+ 
+
+00:00:35.680 --> 00:00:38.150 align:start position:0%
+designers first web developers
+uh<00:00:36.000><c> architects</c><00:00:36.719><c> and</c><00:00:37.040><c> builders</c><00:00:37.760><c> so</c><00:00:37.920><c> we're</c>
+
+00:00:38.150 --> 00:00:38.160 align:start position:0%
+uh architects and builders so we're
+ 
+
+00:00:38.160 --> 00:00:39.590 align:start position:0%
+uh architects and builders so we're
+moving<00:00:38.640><c> away</c><00:00:38.879><c> from</c><00:00:39.040><c> the</c><00:00:39.120><c> construction</c>
+
+00:00:39.590 --> 00:00:39.600 align:start position:0%
+moving away from the construction
+ 
+
+00:00:39.600 --> 00:00:41.350 align:start position:0%
+moving away from the construction
+industry<00:00:40.000><c> today</c><00:00:40.160><c> and</c><00:00:40.320><c> i'm</c><00:00:40.399><c> going</c><00:00:40.480><c> to</c><00:00:40.559><c> take</c><00:00:40.800><c> you</c>
+
+00:00:41.350 --> 00:00:41.360 align:start position:0%
+industry today and i'm going to take you
+ 
+
+00:00:41.360 --> 00:00:43.350 align:start position:0%
+industry today and i'm going to take you
+aren't<00:00:41.600><c> you</c><00:00:41.760><c> lucky</c><00:00:42.160><c> i'm</c><00:00:42.320><c> taking</c><00:00:42.640><c> you</c><00:00:42.800><c> to</c><00:00:43.120><c> her</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+aren't you lucky i'm taking you to her
+ 
+
+00:00:43.360 --> 00:00:44.869 align:start position:0%
+aren't you lucky i'm taking you to her
+fine<00:00:43.680><c> dining</c><00:00:44.000><c> restaurant</c>
+
+00:00:44.869 --> 00:00:44.879 align:start position:0%
+fine dining restaurant
+ 
+
+00:00:44.879 --> 00:00:47.910 align:start position:0%
+fine dining restaurant
+cool<00:00:45.120><c> you</c><00:00:45.280><c> ready</c><00:00:46.320><c> sounds</c><00:00:46.640><c> good</c><00:00:47.280><c> all</c><00:00:47.360><c> right</c>
+
+00:00:47.910 --> 00:00:47.920 align:start position:0%
+cool you ready sounds good all right
+ 
+
+00:00:47.920 --> 00:00:50.150 align:start position:0%
+cool you ready sounds good all right
+so<00:00:48.719><c> basically</c><00:00:49.120><c> think</c><00:00:49.360><c> about</c><00:00:49.520><c> a</c><00:00:49.680><c> fine</c><00:00:49.840><c> dining</c>
+
+00:00:50.150 --> 00:00:50.160 align:start position:0%
+so basically think about a fine dining
+ 
+
+00:00:50.160 --> 00:00:51.350 align:start position:0%
+so basically think about a fine dining
+restaurant<00:00:50.640><c> you've</c><00:00:50.800><c> got</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+restaurant you've got
+ 
+
+00:00:51.360 --> 00:00:54.549 align:start position:0%
+restaurant you've got
+the<00:00:51.600><c> chefs</c><00:00:52.719><c> creating</c><00:00:53.120><c> the</c><00:00:53.199><c> meals</c><00:00:53.840><c> okay</c><00:00:54.320><c> they</c>
+
+00:00:54.549 --> 00:00:54.559 align:start position:0%
+the chefs creating the meals okay they
+ 
+
+00:00:54.559 --> 00:00:55.670 align:start position:0%
+the chefs creating the meals okay they
+use<00:00:54.719><c> ingredients</c>
+
+00:00:55.670 --> 00:00:55.680 align:start position:0%
+use ingredients
+ 
+
+00:00:55.680 --> 00:00:57.990 align:start position:0%
+use ingredients
+to<00:00:55.840><c> create</c><00:00:56.160><c> meals</c><00:00:56.640><c> let's</c><00:00:56.879><c> call</c><00:00:57.120><c> them</c><00:00:57.600><c> back</c><00:00:57.840><c> end</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+to create meals let's call them back end
+ 
+
+00:00:58.000 --> 00:00:58.869 align:start position:0%
+to create meals let's call them back end
+developers
+
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+developers
+ 
+
+00:00:58.879 --> 00:01:01.270 align:start position:0%
+developers
+right<00:00:59.600><c> so</c><00:01:00.160><c> the</c><00:01:00.399><c> ingredients</c><00:01:00.879><c> that</c><00:01:00.960><c> they</c><00:01:01.120><c> use</c>
+
+00:01:01.270 --> 00:01:01.280 align:start position:0%
+right so the ingredients that they use
+ 
+
+00:01:01.280 --> 00:01:02.549 align:start position:0%
+right so the ingredients that they use
+to<00:01:01.359><c> create</c><00:01:01.600><c> the</c><00:01:01.760><c> meals</c><00:01:02.079><c> they</c><00:01:02.160><c> get</c><00:01:02.320><c> from</c><00:01:02.480><c> a</c>
+
+00:01:02.549 --> 00:01:02.559 align:start position:0%
+to create the meals they get from a
+ 
+
+00:01:02.559 --> 00:01:04.229 align:start position:0%
+to create the meals they get from a
+database
+
+00:01:04.229 --> 00:01:04.239 align:start position:0%
+database
+ 
+
+00:01:04.239 --> 00:01:06.630 align:start position:0%
+database
+then<00:01:04.400><c> they</c><00:01:04.879><c> develop</c><00:01:05.360><c> it</c><00:01:05.519><c> in</c><00:01:05.600><c> the</c><00:01:05.680><c> back</c><00:01:05.920><c> end</c>
+
+00:01:06.630 --> 00:01:06.640 align:start position:0%
+then they develop it in the back end
+ 
+
+00:01:06.640 --> 00:01:07.670 align:start position:0%
+then they develop it in the back end
+then<00:01:06.799><c> what</c><00:01:06.960><c> needs</c><00:01:07.200><c> to</c><00:01:07.280><c> happen</c><00:01:07.439><c> for</c><00:01:07.600><c> the</c>
+
+00:01:07.670 --> 00:01:07.680 align:start position:0%
+then what needs to happen for the
+ 
+
+00:01:07.680 --> 00:01:09.590 align:start position:0%
+then what needs to happen for the
+customer<00:01:08.080><c> to</c><00:01:08.159><c> actually</c><00:01:08.560><c> see</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+customer to actually see
+ 
+
+00:01:09.600 --> 00:01:12.390 align:start position:0%
+customer to actually see
+the<00:01:09.760><c> food</c><00:01:09.920><c> that's</c><00:01:10.159><c> been</c><00:01:10.240><c> prepared</c><00:01:11.520><c> a</c><00:01:11.760><c> waiter</c>
+
+00:01:12.390 --> 00:01:12.400 align:start position:0%
+the food that's been prepared a waiter
+ 
+
+00:01:12.400 --> 00:01:13.510 align:start position:0%
+the food that's been prepared a waiter
+comes<00:01:12.640><c> out</c><00:01:12.799><c> but</c><00:01:12.880><c> it's</c><00:01:13.040><c> a</c><00:01:13.119><c> fine</c><00:01:13.280><c> dining</c>
+
+00:01:13.510 --> 00:01:13.520 align:start position:0%
+comes out but it's a fine dining
+ 
+
+00:01:13.520 --> 00:01:15.190 align:start position:0%
+comes out but it's a fine dining
+restaurant<00:01:13.840><c> so</c><00:01:14.000><c> think</c><00:01:14.159><c> about</c><00:01:14.320><c> the</c><00:01:14.479><c> waiter</c>
+
+00:01:15.190 --> 00:01:15.200 align:start position:0%
+restaurant so think about the waiter
+ 
+
+00:01:15.200 --> 00:01:16.870 align:start position:0%
+restaurant so think about the waiter
+the<00:01:15.439><c> chef</c><00:01:15.680><c> has</c><00:01:15.759><c> put</c><00:01:15.920><c> the</c><00:01:16.000><c> food</c><00:01:16.240><c> down</c><00:01:16.720><c> the</c>
+
+00:01:16.870 --> 00:01:16.880 align:start position:0%
+the chef has put the food down the
+ 
+
+00:01:16.880 --> 00:01:18.469 align:start position:0%
+the chef has put the food down the
+waiter<00:01:17.200><c> then</c><00:01:17.360><c> sees</c><00:01:17.600><c> the</c><00:01:17.680><c> plate</c><00:01:17.920><c> and</c><00:01:18.000><c> goes</c><00:01:18.240><c> okay</c>
+
+00:01:18.469 --> 00:01:18.479 align:start position:0%
+waiter then sees the plate and goes okay
+ 
+
+00:01:18.479 --> 00:01:19.749 align:start position:0%
+waiter then sees the plate and goes okay
+cool<00:01:18.640><c> i'll</c><00:01:18.720><c> just</c><00:01:18.880><c> tidy</c><00:01:19.200><c> that</c><00:01:19.360><c> up</c><00:01:19.520><c> and</c><00:01:19.600><c> make</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+cool i'll just tidy that up and make
+ 
+
+00:01:19.759 --> 00:01:21.350 align:start position:0%
+cool i'll just tidy that up and make
+this<00:01:19.840><c> look</c><00:01:20.080><c> nice</c><00:01:20.320><c> and</c><00:01:20.400><c> presentable</c><00:01:21.040><c> and</c><00:01:21.200><c> i'm</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+this look nice and presentable and i'm
+ 
+
+00:01:21.360 --> 00:01:22.310 align:start position:0%
+this look nice and presentable and i'm
+going<00:01:21.439><c> to</c><00:01:21.520><c> walk</c><00:01:21.680><c> it</c><00:01:21.840><c> out</c>
+
+00:01:22.310 --> 00:01:22.320 align:start position:0%
+going to walk it out
+ 
+
+00:01:22.320 --> 00:01:25.590 align:start position:0%
+going to walk it out
+the<00:01:22.560><c> sand</c><00:01:24.080><c> and</c><00:01:24.640><c> we're</c><00:01:24.799><c> going</c><00:01:24.880><c> to</c><00:01:25.119><c> present</c><00:01:25.360><c> this</c>
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+the sand and we're going to present this
+ 
+
+00:01:25.600 --> 00:01:25.990 align:start position:0%
+the sand and we're going to present this
+meal<00:01:25.759><c> to</c>
+
+00:01:25.990 --> 00:01:26.000 align:start position:0%
+meal to
+ 
+
+00:01:26.000 --> 00:01:27.510 align:start position:0%
+meal to
+him<00:01:26.320><c> and</c><00:01:26.479><c> i'm</c><00:01:26.560><c> going</c><00:01:26.640><c> to</c><00:01:26.720><c> explain</c><00:01:27.040><c> a</c><00:01:27.119><c> bit</c><00:01:27.280><c> about</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+him and i'm going to explain a bit about
+ 
+
+00:01:27.520 --> 00:01:28.710 align:start position:0%
+him and i'm going to explain a bit about
+to<00:01:27.680><c> you</c><00:01:27.759><c> about</c><00:01:28.000><c> it</c><00:01:28.080><c> so</c><00:01:28.159><c> i'm</c><00:01:28.240><c> going</c><00:01:28.320><c> to</c><00:01:28.400><c> say</c><00:01:28.560><c> okay</c>
+
+00:01:28.710 --> 00:01:28.720 align:start position:0%
+to you about it so i'm going to say okay
+ 
+
+00:01:28.720 --> 00:01:29.270 align:start position:0%
+to you about it so i'm going to say okay
+well<00:01:28.880><c> this</c>
+
+00:01:29.270 --> 00:01:29.280 align:start position:0%
+well this
+ 
+
+00:01:29.280 --> 00:01:30.950 align:start position:0%
+well this
+you<00:01:29.439><c> know</c><00:01:29.520><c> this</c><00:01:29.759><c> food's</c><00:01:30.079><c> from</c><00:01:30.240><c> here</c><00:01:30.720><c> we've</c>
+
+00:01:30.950 --> 00:01:30.960 align:start position:0%
+you know this food's from here we've
+ 
+
+00:01:30.960 --> 00:01:32.789 align:start position:0%
+you know this food's from here we've
+used<00:01:31.200><c> this</c><00:01:31.439><c> type</c><00:01:31.680><c> of</c><00:01:32.240><c> x</c>
+
+00:01:32.789 --> 00:01:32.799 align:start position:0%
+used this type of x
+ 
+
+00:01:32.799 --> 00:01:34.069 align:start position:0%
+used this type of x
+you<00:01:32.880><c> know</c><00:01:33.040><c> berries</c><00:01:33.439><c> or</c><00:01:33.520><c> whatever</c><00:01:33.759><c> it</c><00:01:33.840><c> happens</c>
+
+00:01:34.069 --> 00:01:34.079 align:start position:0%
+you know berries or whatever it happens
+ 
+
+00:01:34.079 --> 00:01:35.749 align:start position:0%
+you know berries or whatever it happens
+to<00:01:34.240><c> be</c><00:01:34.560><c> and</c><00:01:34.720><c> they</c><00:01:34.799><c> present</c><00:01:35.200><c> it</c><00:01:35.360><c> beautifully</c>
+
+00:01:35.749 --> 00:01:35.759 align:start position:0%
+to be and they present it beautifully
+ 
+
+00:01:35.759 --> 00:01:36.950 align:start position:0%
+to be and they present it beautifully
+for<00:01:36.000><c> you</c><00:01:36.159><c> to</c><00:01:36.320><c> end</c>
+
+00:01:36.950 --> 00:01:36.960 align:start position:0%
+for you to end
+ 
+
+00:01:36.960 --> 00:01:39.270 align:start position:0%
+for you to end
+so<00:01:37.520><c> front</c><00:01:37.759><c> end</c><00:01:37.840><c> developer</c><00:01:38.799><c> that's</c><00:01:39.119><c> the</c>
+
+00:01:39.270 --> 00:01:39.280 align:start position:0%
+so front end developer that's the
+ 
+
+00:01:39.280 --> 00:01:40.469 align:start position:0%
+so front end developer that's the
+presentation<00:01:39.920><c> part</c>
+
+00:01:40.469 --> 00:01:40.479 align:start position:0%
+presentation part
+ 
+
+00:01:40.479 --> 00:01:42.550 align:start position:0%
+presentation part
+backend<00:01:40.799><c> developer</c><00:01:41.280><c> is</c><00:01:41.360><c> the</c><00:01:41.680><c> chef</c><00:01:42.320><c> has</c>
+
+00:01:42.550 --> 00:01:42.560 align:start position:0%
+backend developer is the chef has
+ 
+
+00:01:42.560 --> 00:01:43.910 align:start position:0%
+backend developer is the chef has
+created<00:01:42.960><c> it</c>
+
+00:01:43.910 --> 00:01:43.920 align:start position:0%
+created it
+ 
+
+00:01:43.920 --> 00:01:46.310 align:start position:0%
+created it
+database<00:01:44.479><c> is</c><00:01:44.560><c> the</c><00:01:44.720><c> ingredients</c><00:01:45.920><c> that</c><00:01:46.079><c> the</c>
+
+00:01:46.310 --> 00:01:46.320 align:start position:0%
+database is the ingredients that the
+ 
+
+00:01:46.320 --> 00:01:48.149 align:start position:0%
+database is the ingredients that the
+back<00:01:46.560><c> end</c><00:01:46.720><c> developers</c><00:01:47.280><c> use</c><00:01:47.439><c> to</c><00:01:47.600><c> create</c>
+
+00:01:48.149 --> 00:01:48.159 align:start position:0%
+back end developers use to create
+ 
+
+00:01:48.159 --> 00:01:51.030 align:start position:0%
+back end developers use to create
+the<00:01:48.320><c> meal</c><00:01:49.040><c> that</c><00:01:49.360><c> is</c><00:01:49.600><c> web</c><00:01:49.920><c> development</c><00:01:50.560><c> 101</c>
+
+00:01:51.030 --> 00:01:51.040 align:start position:0%
+the meal that is web development 101
+ 
+
+00:01:51.040 --> 00:01:52.710 align:start position:0%
+the meal that is web development 101
+what<00:01:51.200><c> do</c><00:01:51.280><c> you</c><00:01:51.360><c> think</c>
+
+00:01:52.710 --> 00:01:52.720 align:start position:0%
+what do you think
+ 
+
+00:01:52.720 --> 00:01:54.149 align:start position:0%
+what do you think
+that's<00:01:52.960><c> good</c><00:01:53.119><c> man</c><00:01:53.439><c> i</c><00:01:53.600><c> like</c><00:01:53.759><c> the</c><00:01:53.840><c> way</c><00:01:54.000><c> you've</c>
+
+00:01:54.149 --> 00:01:54.159 align:start position:0%
+that's good man i like the way you've
+ 
+
+00:01:54.159 --> 00:01:55.429 align:start position:0%
+that's good man i like the way you've
+simplified<00:01:54.560><c> it</c><00:01:54.640><c> i've</c><00:01:54.799><c> never</c><00:01:55.040><c> really</c><00:01:55.280><c> thought</c>
+
+00:01:55.429 --> 00:01:55.439 align:start position:0%
+simplified it i've never really thought
+ 
+
+00:01:55.439 --> 00:01:56.389 align:start position:0%
+simplified it i've never really thought
+of<00:01:55.520><c> that</c><00:01:55.680><c> before</c>
+
+00:01:56.389 --> 00:01:56.399 align:start position:0%
+of that before
+ 
+
+00:01:56.399 --> 00:01:58.709 align:start position:0%
+of that before
+and<00:01:56.719><c> uh</c><00:01:57.439><c> food</c><00:01:57.680><c> certainly</c><00:01:58.000><c> appeals</c><00:01:58.399><c> to</c><00:01:58.479><c> me</c><00:01:58.640><c> as</c>
+
+00:01:58.709 --> 00:01:58.719 align:start position:0%
+and uh food certainly appeals to me as
+ 
+
+00:01:58.719 --> 00:02:00.149 align:start position:0%
+and uh food certainly appeals to me as
+someone<00:01:58.960><c> who</c><00:01:59.119><c> eats</c><00:01:59.280><c> non-stop</c>
+
+00:02:00.149 --> 00:02:00.159 align:start position:0%
+someone who eats non-stop
+ 
+
+00:02:00.159 --> 00:02:02.550 align:start position:0%
+someone who eats non-stop
+um<00:02:00.560><c> but</c><00:02:00.880><c> no</c><00:02:01.040><c> that's</c><00:02:01.360><c> that's</c><00:02:01.600><c> good</c><00:02:01.840><c> like</c><00:02:02.399><c> like</c>
+
+00:02:02.550 --> 00:02:02.560 align:start position:0%
+um but no that's that's good like like
+ 
+
+00:02:02.560 --> 00:02:04.149 align:start position:0%
+um but no that's that's good like like
+just<00:02:02.719><c> like</c><00:02:02.880><c> you</c><00:02:02.960><c> say</c><00:02:03.200><c> websites</c><00:02:03.680><c> the</c><00:02:03.759><c> back</c><00:02:04.000><c> end</c>
+
+00:02:04.149 --> 00:02:04.159 align:start position:0%
+just like you say websites the back end
+ 
+
+00:02:04.159 --> 00:02:06.149 align:start position:0%
+just like you say websites the back end
+needs<00:02:04.320><c> to</c><00:02:04.399><c> talk</c><00:02:04.640><c> to</c><00:02:04.719><c> the</c><00:02:04.799><c> front</c><00:02:05.040><c> end</c>
+
+00:02:06.149 --> 00:02:06.159 align:start position:0%
+needs to talk to the front end
+ 
+
+00:02:06.159 --> 00:02:07.910 align:start position:0%
+needs to talk to the front end
+and<00:02:06.320><c> the</c><00:02:06.399><c> front-end</c><00:02:06.880><c> designers</c><00:02:07.360><c> tend</c><00:02:07.520><c> to</c><00:02:07.680><c> be</c>
+
+00:02:07.910 --> 00:02:07.920 align:start position:0%
+and the front-end designers tend to be
+ 
+
+00:02:07.920 --> 00:02:09.350 align:start position:0%
+and the front-end designers tend to be
+the<00:02:08.080><c> guys</c><00:02:08.319><c> that</c><00:02:08.640><c> are</c><00:02:08.720><c> girls</c><00:02:09.039><c> that</c>
+
+00:02:09.350 --> 00:02:09.360 align:start position:0%
+the guys that are girls that
+ 
+
+00:02:09.360 --> 00:02:11.110 align:start position:0%
+the guys that are girls that
+keep<00:02:09.520><c> the</c><00:02:09.679><c> website</c><00:02:10.000><c> looking</c><00:02:10.239><c> pretty</c><00:02:10.800><c> looking</c>
+
+00:02:11.110 --> 00:02:11.120 align:start position:0%
+keep the website looking pretty looking
+ 
+
+00:02:11.120 --> 00:02:12.710 align:start position:0%
+keep the website looking pretty looking
+good<00:02:11.599><c> making</c><00:02:11.840><c> sure</c><00:02:12.080><c> people</c><00:02:12.239><c> can</c><00:02:12.400><c> easily</c>
+
+00:02:12.710 --> 00:02:12.720 align:start position:0%
+good making sure people can easily
+ 
+
+00:02:12.720 --> 00:02:14.229 align:start position:0%
+good making sure people can easily
+interact<00:02:13.040><c> with</c><00:02:13.280><c> it</c><00:02:13.520><c> they</c><00:02:13.680><c> can</c><00:02:13.760><c> navigate</c><00:02:14.160><c> the</c>
+
+00:02:14.229 --> 00:02:14.239 align:start position:0%
+interact with it they can navigate the
+ 
+
+00:02:14.239 --> 00:02:15.030 align:start position:0%
+interact with it they can navigate the
+website<00:02:14.560><c> well</c>
+
+00:02:15.030 --> 00:02:15.040 align:start position:0%
+website well
+ 
+
+00:02:15.040 --> 00:02:16.470 align:start position:0%
+website well
+and<00:02:15.200><c> then</c><00:02:15.360><c> the</c><00:02:15.440><c> back-end</c><00:02:15.760><c> developers</c><00:02:16.239><c> tend</c><00:02:16.400><c> to</c>
+
+00:02:16.470 --> 00:02:16.480 align:start position:0%
+and then the back-end developers tend to
+ 
+
+00:02:16.480 --> 00:02:18.150 align:start position:0%
+and then the back-end developers tend to
+make<00:02:16.640><c> sure</c><00:02:16.800><c> everything</c><00:02:17.200><c> functions</c><00:02:17.680><c> well</c>
+
+00:02:18.150 --> 00:02:18.160 align:start position:0%
+make sure everything functions well
+ 
+
+00:02:18.160 --> 00:02:19.430 align:start position:0%
+make sure everything functions well
+and<00:02:18.239><c> they're</c><00:02:18.480><c> working</c><00:02:18.800><c> together</c><00:02:19.200><c> to</c><00:02:19.280><c> make</c>
+
+00:02:19.430 --> 00:02:19.440 align:start position:0%
+and they're working together to make
+ 
+
+00:02:19.440 --> 00:02:20.710 align:start position:0%
+and they're working together to make
+sure<00:02:19.680><c> that</c><00:02:19.840><c> back-end</c><00:02:20.160><c> can</c><00:02:20.319><c> talk</c><00:02:20.560><c> to</c><00:02:20.640><c> the</c>
+
+00:02:20.710 --> 00:02:20.720 align:start position:0%
+sure that back-end can talk to the
+ 
+
+00:02:20.720 --> 00:02:21.910 align:start position:0%
+sure that back-end can talk to the
+front-end<00:02:21.040><c> about</c><00:02:21.280><c> the</c><00:02:21.360><c> features</c><00:02:21.760><c> and</c>
+
+00:02:21.910 --> 00:02:21.920 align:start position:0%
+front-end about the features and
+ 
+
+00:02:21.920 --> 00:02:23.270 align:start position:0%
+front-end about the features and
+functionality<00:02:22.480><c> and</c><00:02:22.560><c> send</c><00:02:22.720><c> messages</c><00:02:23.120><c> to</c><00:02:23.200><c> the</c>
+
+00:02:23.270 --> 00:02:23.280 align:start position:0%
+functionality and send messages to the
+ 
+
+00:02:23.280 --> 00:02:25.110 align:start position:0%
+functionality and send messages to the
+back<00:02:23.520><c> end</c><00:02:23.680><c> and</c><00:02:23.760><c> just</c><00:02:23.920><c> communicate</c><00:02:24.319><c> well</c><00:02:24.560><c> so</c>
+
+00:02:25.110 --> 00:02:25.120 align:start position:0%
+back end and just communicate well so
+ 
+
+00:02:25.120 --> 00:02:27.110 align:start position:0%
+back end and just communicate well so
+yeah<00:02:25.280><c> i</c><00:02:25.280><c> love</c><00:02:25.520><c> it</c><00:02:25.680><c> i</c><00:02:25.760><c> like</c><00:02:26.000><c> it</c><00:02:26.319><c> spot</c><00:02:26.640><c> on</c><00:02:26.879><c> and</c><00:02:27.040><c> i</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+yeah i love it i like it spot on and i
+ 
+
+00:02:27.120 --> 00:02:28.390 align:start position:0%
+yeah i love it i like it spot on and i
+wanted<00:02:27.280><c> to</c><00:02:27.360><c> make</c><00:02:27.520><c> it</c><00:02:27.599><c> fine</c><00:02:27.840><c> dining</c><00:02:28.160><c> so</c><00:02:28.319><c> that</c>
+
+00:02:28.390 --> 00:02:28.400 align:start position:0%
+wanted to make it fine dining so that
+ 
+
+00:02:28.400 --> 00:02:29.589 align:start position:0%
+wanted to make it fine dining so that
+the<00:02:28.720><c> front</c><00:02:29.040><c> end</c>
+
+00:02:29.589 --> 00:02:29.599 align:start position:0%
+the front end
+ 
+
+00:02:29.599 --> 00:02:31.270 align:start position:0%
+the front end
+the<00:02:29.840><c> waiter</c><00:02:30.239><c> is</c><00:02:30.480><c> actually</c><00:02:30.720><c> communicating</c>
+
+00:02:31.270 --> 00:02:31.280 align:start position:0%
+the waiter is actually communicating
+ 
+
+00:02:31.280 --> 00:02:32.949 align:start position:0%
+the waiter is actually communicating
+presenting<00:02:31.920><c> like</c><00:02:32.319><c> they</c><00:02:32.480><c> want</c><00:02:32.560><c> to</c><00:02:32.640><c> take</c><00:02:32.800><c> too</c>
+
+00:02:32.949 --> 00:02:32.959 align:start position:0%
+presenting like they want to take too
+ 
+
+00:02:32.959 --> 00:02:33.750 align:start position:0%
+presenting like they want to take too
+much<00:02:33.200><c> away</c>
+
+00:02:33.750 --> 00:02:33.760 align:start position:0%
+much away
+ 
+
+00:02:33.760 --> 00:02:35.990 align:start position:0%
+much away
+they<00:02:34.080><c> both</c><00:02:34.319><c> do</c><00:02:34.480><c> a</c><00:02:34.640><c> really</c><00:02:34.800><c> important</c><00:02:35.200><c> job</c><00:02:35.760><c> so</c>
+
+00:02:35.990 --> 00:02:36.000 align:start position:0%
+they both do a really important job so
+ 
+
+00:02:36.000 --> 00:02:37.750 align:start position:0%
+they both do a really important job so
+front<00:02:36.239><c> end</c><00:02:36.400><c> back</c><00:02:36.640><c> end</c>
+
+00:02:37.750 --> 00:02:37.760 align:start position:0%
+front end back end
+ 
+
+00:02:37.760 --> 00:02:41.190 align:start position:0%
+front end back end
+chefs<00:02:39.200><c> front</c><00:02:39.360><c> of</c><00:02:39.519><c> our</c><00:02:39.680><c> staff</c>
+
+00:02:41.190 --> 00:02:41.200 align:start position:0%
+chefs front of our staff
+ 
+
+00:02:41.200 --> 00:02:46.319 align:start position:0%
+chefs front of our staff
+tasty<00:02:41.519><c> analogy</c><00:02:43.200><c> sam</c><00:02:43.440><c> thank</c><00:02:43.680><c> you</c>
+
